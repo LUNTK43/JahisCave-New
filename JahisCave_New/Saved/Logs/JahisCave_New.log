@@ -2586,3 +2586,863 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-12.46.42:314][654]LogSlate: Window 'Kelch_low' being destroyed
 [2022.07.07-12.46.42:316][654]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
 [2022.07.07-12.46.42:316][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-14.38.07:459][436]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.07-14.38.07:482][436]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.07-14.38.14:510][280]LogContentBrowser: Attempting asset rename: NewFolder -> 01
+[2022.07.07-14.38.14:510][280]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.07-14.38.18:494][728]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_OccluA49AFC3343F5DFFE5F6A6BB818072631.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.07.07-14.38.18:528][728]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_BaseCBDF7EF7F48C8C13DBA291C961F0A13A6.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_BaseColor.uasset'
+[2022.07.07-14.38.18:534][728]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Emiss7FB42A574ACFE21B9E3F5E828C0FC7BF.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_Emissive.uasset'
+[2022.07.07-14.38.18:579][728]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_NormaA5B571364E8A5E355016BBB4D2DEDE4C.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_Normal.uasset'
+[2022.07.07-14.38.18:640][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.07-14.38.18:711][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.07-14.38.18:715][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.07.07-14.38.18:718][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.07.07-14.38.18:726][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.07-14.38.18:729][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.07.07-14.38.18:750][728]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/M_PlateMat_01E0341C844A56EC9E6FDA85A4A66628BD.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Material/M_PlateMat_01.uasset'
+[2022.07.07-14.38.18:786][728]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-14.38.18:786][728]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Plates/Material/M_PlateMat_01.M_PlateMat_01
+[2022.07.07-14.38.18:786][728]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.Teller_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.07.07-14.38.18:786][728]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_Normal.Teller_low_DefaultMaterial_Normal
+[2022.07.07-14.38.18:786][728]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_Emissive.Teller_low_DefaultMaterial_Emissive
+[2022.07.07-14.38.18:786][728]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/01/Teller_low_DefaultMaterial_BaseColor.Teller_low_DefaultMaterial_BaseColor
+[2022.07.07-14.38.48:780][623]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\GA_Semester_2\WorkWorkWork\Teller_und_Tasse\Teller_02_Textures\Teller_low_DefaultMaterial_BaseColor.png)
+[2022.07.07-14.38.48:833][623]LogTexture: Display: Building textures: Teller_low_DefaultMaterial_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.07.07-14.38.48:972][623]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.07-14.38.48:972][623]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.07-14.38.48:972][623]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\GA_Semester_2\WorkWorkWork\Teller_und_Tasse\Teller_02_Textures\Teller_low_DefaultMaterial_Emissive.png)
+[2022.07.07-14.38.49:004][623]LogTexture: Display: Building textures: Teller_low_DefaultMaterial_Emissive (OODLE_AutoDXT, 2048X2048)
+[2022.07.07-14.38.49:051][623]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.07-14.38.49:051][623]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.07-14.38.49:060][623]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\GA_Semester_2\WorkWorkWork\Teller_und_Tasse\Teller_02_Textures\Teller_low_DefaultMaterial_Normal.png)
+[2022.07.07-14.38.49:143][623]LogTexture: Display: Building textures: Teller_low_DefaultMaterial_Normal (OODLE_BC5, 2048X2048)
+[2022.07.07-14.38.49:218][623]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.07.07-14.38.49:218][623]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.07.07-14.38.49:218][623]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\GA_Semester_2\WorkWorkWork\Teller_und_Tasse\Teller_02_Textures\Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2022.07.07-14.38.49:285][623]LogTexture: Display: Building textures: Teller_low_DefaultMaterial_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.07.07-14.38.49:458][623]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.07-14.38.49:458][623]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.07-14.38.55:829][168]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.07.07-14.38.55:845][168]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.07.07-14.39.09:464][803]LogContentBrowser: Attempting asset rename: NewMaterial -> M_PlateMat_02
+[2022.07.07-14.39.09:465][803]LogContentBrowser: End creating deferred item NewMaterial
+[2022.07.07-14.39.11:662][ 51]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Internal-External/Plates/M_PlateMat_02.M_PlateMat_02
+[2022.07.07-14.39.11:664][ 51]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 6853FDFB3954349D61BCBCCCE8F0E01481CD614D), compiling. 
+[2022.07.07-14.39.11:671][ 51]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.11:729][ 51]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: E5F5555887EC30060BB208FF64ED0DAC211CFF00), compiling. 
+[2022.07.07-14.39.11:731][ 51]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 9623E66C16AF877489D2DADA2AC035DA35065F64), compiling. 
+[2022.07.07-14.39.11:741][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.11:777][ 52]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.12:234][ 84]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.07-14.39.12:234][ 84]LogShaderCompilers: Display: Total job queries 823, among them cache hits 357 (43.38%)
+[2022.07.07-14.39.12:234][ 84]LogShaderCompilers: Display: Tracking 407 distinct input hashes that result in 98 distinct outputs (24.08%)
+[2022.07.07-14.39.12:234][ 84]LogShaderCompilers: Display: RAM used: 0.63 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2022.07.07-14.39.12:234][ 84]LogShaderCompilers: Display: ================================================
+[2022.07.07-14.39.12:357][ 95]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.07-14.39.12:742][131]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.07-14.39.12:742][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.07-14.39.12:742][131]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.07-14.39.12:742][131]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.07-14.39.14:601][339]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 62D2BAC8CA0A1256DC4871CD48D9BB264ED1346A), compiling. 
+[2022.07.07-14.39.14:603][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 41CE54B46122B56FC7F3AAC5CE74E8B6FBCD965D), compiling. 
+[2022.07.07-14.39.14:604][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B313058C0CEF8040D5CD2C7F34360D71068957CF), compiling. 
+[2022.07.07-14.39.14:609][339]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: EDBB07D9F32208BF570E47B9130799BA1AC846BC), compiling. 
+[2022.07.07-14.39.14:610][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 183A905724064D9543FE7217EFEEC76633886311), compiling. 
+[2022.07.07-14.39.14:611][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 91FFA9B73D603C7628E617AACCAE15243265FC15), compiling. 
+[2022.07.07-14.39.14:612][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A5C7B480A7200CFFEBFBA9D89C699A6E29B5AB46), compiling. 
+[2022.07.07-14.39.14:617][339]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 208888FDF1C0A2D3A2AACA409755FD73A12CBC48), compiling. 
+[2022.07.07-14.39.14:619][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D41A8408138093582E829CE6ABC279BDA534A96), compiling. 
+[2022.07.07-14.39.14:619][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ACAB3D5C9F28D27F7E5B7AFE50DC1D9FEEDEE57E), compiling. 
+[2022.07.07-14.39.14:620][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C233487E212925DA3DAAB2DF791B8524890EBD6A), compiling. 
+[2022.07.07-14.39.14:621][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CBE6D943370B188388764DE77CE1CE450499E4F8), compiling. 
+[2022.07.07-14.39.14:627][339]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 49E6E72EAD5D73570617F8FD5A066820C8D4805A), compiling. 
+[2022.07.07-14.39.14:628][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F1690B0FA50551150362F7D61160D4C3A0B50BBC), compiling. 
+[2022.07.07-14.39.14:629][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DFACFA8728EC4D97373B19A8BFC70FCC72D10F65), compiling. 
+[2022.07.07-14.39.14:629][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BD37ABDC8A065BA0D4E82B82779C7033194AC161), compiling. 
+[2022.07.07-14.39.14:630][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AC5A9B76B0C0B3DA5033B717E1E01B7E4D934679), compiling. 
+[2022.07.07-14.39.14:631][339]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E36B5553EB70AB6684BD522F797045097E19D7BD), compiling. 
+[2022.07.07-14.39.14:634][339]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.39.14:658][340]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.07-14.39.14:658][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.07-14.39.14:658][340]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.07-14.39.14:658][340]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.07-14.39.30:414][199]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: BF54051D70D5167E051FB43B7D4517E4D2163C1F), compiling. 
+[2022.07.07-14.39.30:415][199]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A81E19A292529FFD1E2B8F7155EF0232A3428DCD), compiling. 
+[2022.07.07-14.39.30:417][199]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.39.30:417][199]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.30:417][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.30:424][200]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.39.30:432][201]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.30:874][233]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.07-14.39.30:874][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.30:874][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.31:270][270]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.07.07-14.39.31:270][270]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.07.07-14.39.31:270][270]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.07.07-14.39.31:270][270]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.07-14.39.31:270][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.31:270][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.32:272][376]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FC17FC982FC94345D8DB01DB8DE63550D04FD01), compiling. 
+[2022.07.07-14.39.32:273][376]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BF10ACFB893DAFE8CA775EDDEC100A02202D067), compiling. 
+[2022.07.07-14.39.32:275][376]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.39.32:275][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.32:275][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.32:282][377]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.32:287][378]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.32:292][378]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.32:744][407]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.07-14.39.32:745][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.32:745][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.40:421][256]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 6E3545AC39C3D80A851DB1FA61C4A2EA7EE05A9C), compiling. 
+[2022.07.07-14.39.40:422][256]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5730C937046CD505DB3E490C5DF1777729E9DFA8), compiling. 
+[2022.07.07-14.39.40:424][256]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.39.40:424][256]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.40:424][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.40:430][257]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.40:436][258]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.39.40:436][258]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.39.40:436][258]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.40:436][258]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.40:438][258]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.39.40:438][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.39.40:438][258]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.39.40:438][258]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.39.40:438][258]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.40:900][287]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.07-14.39.40:901][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.40:901][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.41:235][319]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.07.07-14.39.41:235][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.07.07-14.39.41:235][319]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.07.07-14.39.41:235][319]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.07-14.39.41:235][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.07.07-14.39.41:235][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.47:730][ 88]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 37D11A24E4C997D4AD358733F7046569B0758F7F), compiling. 
+[2022.07.07-14.39.47:731][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 64F15B2F48831558F74A016EB2485E81B50B6D00), compiling. 
+[2022.07.07-14.39.47:734][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.39.47:734][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.07.07-14.39.47:734][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.47:777][ 89]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.47:777][ 89]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.39.47:778][ 89]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.39.48:358][118]MaterialEditorStats: Texture samplers: 4/16
+[2022.07.07-14.39.48:358][118]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.07.07-14.39.48:358][118]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.39.50:027][294]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.07.07-14.39.50:027][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.07.07-14.39.50:027][294]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.07.07-14.39.50:027][294]MaterialEditorStats: Texture samplers: 4/16
+[2022.07.07-14.39.50:027][294]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.07.07-14.39.50:027][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.07:238][272]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: AC2E1C625B27BCC773859DBBE88033560CB9E397), compiling. 
+[2022.07.07-14.40.07:239][272]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E5B2F486B15BA3DF222BCF705C65283C9548579), compiling. 
+[2022.07.07-14.40.07:241][272]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.40.07:241][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.07.07-14.40.07:241][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.07:248][273]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.40.07:256][274]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.40.07:733][297]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.07-14.40.07:733][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.07.07-14.40.07:733][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.09:271][470]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.07.07-14.40.09:271][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.07.07-14.40.09:271][470]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.07.07-14.40.09:271][470]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.07-14.40.09:271][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.07.07-14.40.09:271][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.13:437][916]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 538BD2DB9A9E55063F4D5205B4104340639DBA9C), compiling. 
+[2022.07.07-14.40.13:439][916]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 23465672551802FEA0846281131360D47DE7F7EA), compiling. 
+[2022.07.07-14.40.13:441][916]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.07-14.40.13:441][916]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.13:441][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.13:448][917]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.40.13:454][918]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.40.13:457][918]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.40.13:935][951]MaterialEditorStats: Texture samplers: 6/16
+[2022.07.07-14.40.13:935][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.13:935][951]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.14:346][992]MaterialEditorStats: Base pass shader: 130 instructions
+[2022.07.07-14.40.14:346][992]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.07.07-14.40.14:346][992]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.07.07-14.40.14:346][992]MaterialEditorStats: Texture samplers: 6/16
+[2022.07.07-14.40.14:346][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.14:346][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.40:803][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.07.07-14.40.40:810][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.016
+[2022.07.07-14.40.40:810][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2022.07.07-14.40.40:814][472]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_BaseColor.Teller_low_DefaultMaterial_BaseColor]
+[2022.07.07-14.40.40:814][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_BaseColor]
+[2022.07.07-14.40.40:821][472]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_BaseC05CE46A34C70918E32BF6587E9A8D7C6.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_BaseColor_Auto2.uasset'
+[2022.07.07-14.40.40:821][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Emissive] ([1] browsable assets)...
+[2022.07.07-14.40.40:823][472]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Emissive.Teller_low_DefaultMaterial_Emissive]
+[2022.07.07-14.40.40:823][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Emissive]
+[2022.07.07-14.40.40:837][472]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Emiss1B8A8BE5454455304567B39C770C6701.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Emissive_Auto2.uasset'
+[2022.07.07-14.40.40:838][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Normal] ([1] browsable assets)...
+[2022.07.07-14.40.40:842][472]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Normal.Teller_low_DefaultMaterial_Normal]
+[2022.07.07-14.40.40:842][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Normal]
+[2022.07.07-14.40.40:849][472]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Norma9D7248A740EA8A4950E23086EDD9C04D.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_Normal_Auto2.uasset'
+[2022.07.07-14.40.40:849][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.07.07-14.40.40:852][472]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.Teller_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2022.07.07-14.40.40:852][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2022.07.07-14.40.40:859][472]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Occlu1C4A19A24AE98BCB6659D085A120AECE.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Plates/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto2.uasset'
+[2022.07.07-14.40.40:860][472]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.07.07-14.40.56:554][526]LogMaterialEditor: Applying material M_PlateMat_02
+[2022.07.07-14.40.56:815][526]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: ECE9852E54F15ABCF001FDE73831AB5C6EAB08B8), compiling. 
+[2022.07.07-14.40.56:830][526]LogMaterial: Display: Missing cached shadermap for M_PlateMat_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 60995217C8EF704BCAF97A0C441D7031B776BF7B), compiling. 
+[2022.07.07-14.40.56:836][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.07.07-14.40.56:841][526]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.40.57:047][526]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.07.07-14.40.57:047][526]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.07-14.40.57:053][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.07.07-14.40.57:061][526]MaterialEditorStats: Texture samplers: 4/16
+[2022.07.07-14.40.57:061][526]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.57:061][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.57:078][528]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.07.07-14.40.57:082][528]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.07.07-14.40.57:082][528]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.07.07-14.40.57:082][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.07.07-14.40.57:082][528]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.07.07-14.40.57:082][528]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.07.07-14.40.57:082][528]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.07-14.40.57:091][528]MaterialEditorStats: Texture samplers: 6/16
+[2022.07.07-14.40.57:092][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.57:092][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.57:571][574]MaterialEditorStats: Texture samplers: 7/16
+[2022.07.07-14.40.57:571][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.57:571][574]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.57:588][576]MaterialEditorStats: Base pass shader: 130 instructions
+[2022.07.07-14.40.57:589][576]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.07.07-14.40.57:589][576]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.07.07-14.40.57:589][576]MaterialEditorStats: Texture samplers: 7/16
+[2022.07.07-14.40.57:589][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.07.07-14.40.57:589][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.07-14.40.57:796][601]LogMaterialEditor: Saving and Compiling material M_PlateMat_02
+[2022.07.07-14.40.57:822][601]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/M_PlateMat_0288DA241249EE6F423C476DBC0FBE224A.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/M_PlateMat_02.uasset'
+[2022.07.07-14.40.57:829][601]AssetCheck: New page: Asset Save: M_PlateMat_02
+[2022.07.07-14.40.57:829][601]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Plates/M_PlateMat_02.M_PlateMat_02
+[2022.07.07-14.41.03:466][249]LogSlate: Window 'M_PlateMat_02' being destroyed
+[2022.07.07-14.41.03:471][249]LogSlate: Window 'M_PlateMat_02' being destroyed
+[2022.07.07-14.41.03:474][249]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-14.41.03:474][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-14.41.11:007][ 85]LogContentBrowser: Deferred new asset file creation: Teller_low1
+[2022.07.07-14.41.11:023][ 85]LogContentBrowser: Creating deferred item: Teller_low1
+[2022.07.07-14.41.15:920][673]LogContentBrowser: Attempting asset rename: Teller_low1 -> Teller_low1
+[2022.07.07-14.41.15:920][673]LogContentBrowser: End creating deferred item Teller_low1
+[2022.07.07-14.41.22:690][428]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Internal-External/Plates/Teller_low.Teller_low
+[2022.07.07-14.41.24:431][599]LogSlate: Window 'Teller_low' being destroyed
+[2022.07.07-14.41.24:436][599]LogSlate: Window 'Teller_low' being destroyed
+[2022.07.07-14.41.24:438][599]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-14.41.24:438][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-14.41.45:613][106]LogContentBrowser: Attempting asset rename: Teller_low -> Teller_01_low
+[2022.07.07-14.41.45:667][106]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_01_low6E03B86D4819A5C9FFF77691F8933713.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Teller_01_low.uasset'
+[2022.07.07-14.41.45:726][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.07.07-14.41.45:738][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.07.07-14.41.45:742][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.07-14.41.45:757][106]AssetCheck: New page: Asset Save: Teller_01_low
+[2022.07.07-14.41.45:757][106]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Internal-External/Plates/Teller_01_low.Teller_01_low
+[2022.07.07-14.41.51:383][743]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/M_PlateMat_02F957B0A14748C93156DC8799F4F0104C.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Material/M_PlateMat_02.uasset'
+[2022.07.07-14.41.51:424][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.07.07-14.41.51:433][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.07.07-14.41.51:436][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.07-14.41.51:455][743]AssetCheck: New page: Asset Save: M_PlateMat_02
+[2022.07.07-14.41.51:455][743]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Plates/Material/M_PlateMat_02.M_PlateMat_02
+[2022.07.07-14.41.55:123][149]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.07-14.41.55:137][149]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.07-14.41.57:506][434]LogContentBrowser: Attempting asset rename: NewFolder -> 02
+[2022.07.07-14.41.57:506][434]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.07-14.42.01:559][870]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Occlu424F58C74AD21473D1AA8191EF416A41.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.07.07-14.42.01:652][870]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_BaseC28B83613460C6D7384799088C94CD1FD.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_BaseColor.uasset'
+[2022.07.07-14.42.01:701][870]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Emiss41BD393E4BD6E7F69AC59BB3FFCEF38F.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_Emissive.uasset'
+[2022.07.07-14.42.01:888][870]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Norma0517FDC94B71D1BB1B57DBAA139C470C.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_Normal.uasset'
+[2022.07.07-14.42.01:944][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.07.07-14.42.01:950][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.07.07-14.42.01:954][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.07-14.42.01:957][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.07.07-14.42.01:965][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.07-14.42.01:968][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.07-14.42.01:989][870]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/M_PlateMat_023AFF353D4A9042FAAAF086982A6B79E6.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Material/M_PlateMat_02.uasset'
+[2022.07.07-14.42.02:012][870]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-14.42.02:012][870]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_BaseColor.Teller_low_DefaultMaterial_BaseColor
+[2022.07.07-14.42.02:012][870]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Plates/Material/M_PlateMat_02.M_PlateMat_02
+[2022.07.07-14.42.02:012][870]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.Teller_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.07.07-14.42.02:012][870]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_Normal.Teller_low_DefaultMaterial_Normal
+[2022.07.07-14.42.02:012][870]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/02/Teller_low_DefaultMaterial_Emissive.Teller_low_DefaultMaterial_Emissive
+[2022.07.07-14.42.06:622][405]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_BaseC23B095964106FA7E91F12E8A8B69A59E.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_BaseColor.uasset'
+[2022.07.07-14.42.06:647][405]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Occlu5140010C4A2B7BBE0301F2A94585D60D.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.07.07-14.42.06:680][405]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_Norma375094284996E9FB55C77F8E48A9CB49.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_Normal.uasset'
+[2022.07.07-14.42.06:684][405]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_low_DefaultMaterial_EmissFCFA793242FAC65A2A5924B686ECCDBB.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_Emissive.uasset'
+[2022.07.07-14.42.06:743][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.07-14.42.06:749][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.07.07-14.42.06:753][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.07-14.42.06:757][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.07.07-14.42.06:764][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.07-14.42.06:768][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.07.07-14.42.06:788][405]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/M_PlateMat_0220B2AC0642C6BE1BBF4A29A8E38CB007.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Material/M_PlateMat_02.uasset'
+[2022.07.07-14.42.06:821][405]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-14.42.06:821][405]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_BaseColor.Teller_low_DefaultMaterial_BaseColor
+[2022.07.07-14.42.06:821][405]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Plates/Material/M_PlateMat_02.M_PlateMat_02
+[2022.07.07-14.42.06:821][405]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_OcclusionRoughnessMetallic.Teller_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.07.07-14.42.06:821][405]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_Normal.Teller_low_DefaultMaterial_Normal
+[2022.07.07-14.42.06:821][405]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Plates/Textures/02/Teller_low_DefaultMaterial_Emissive.Teller_low_DefaultMaterial_Emissive
+[2022.07.07-14.42.26:835][685]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\GA_Semester_2\WorkWorkWork\Teller_und_Tasse\Teller_low.fbx)
+[2022.07.07-14.42.26:841][685]LogFbx: Loading FBX Scene from E:\GA_Semester_2\WorkWorkWork\Teller_und_Tasse\Teller_low.fbx
+[2022.07.07-14.42.26:845][685]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-14.42.28:100][685]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.07.07-14.42.28:109][685]LogFbx: Display: Triangulating static mesh Plate_low
+[2022.07.07-14.42.28:115][685]LogStaticMesh: Building static mesh Teller_low...
+[2022.07.07-14.42.28:119][685]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Internal-External/Plates/Teller_low.Teller_low
+[2022.07.07-14.42.28:132][685]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.07.07-14.42.30:166][921]LogSlate: Window 'Message Log' being destroyed
+[2022.07.07-14.42.30:171][921]LogSlate: Window 'Message Log' being destroyed
+[2022.07.07-14.42.36:986][736]LogContentBrowser: Attempting asset rename: Teller_low -> Teller_02_low
+[2022.07.07-14.42.37:029][736]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_02_lowDF9FB2D04FA790968430B08D1D83862E.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Teller_02_low.uasset'
+[2022.07.07-14.42.37:074][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.07-14.42.37:086][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.07-14.42.37:090][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.07.07-14.42.37:105][736]AssetCheck: New page: Asset Save: Teller_02_low
+[2022.07.07-14.42.37:105][736]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Internal-External/Plates/Teller_02_low.Teller_02_low
+[2022.07.07-14.42.38:753][933]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Internal-External/Plates/Teller_02_low.Teller_02_low
+[2022.07.07-14.43.16:966][413]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/Teller_02_low0D7CB8FC4FFD07507DDD4AA7E07A3EAB.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Plates/Teller_02_low.uasset'
+[2022.07.07-14.43.16:974][413]AssetCheck: New page: Asset Save: Teller_02_low
+[2022.07.07-14.43.16:974][413]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Internal-External/Plates/Teller_02_low.Teller_02_low
+[2022.07.07-14.43.18:027][533]LogSlate: Window 'Teller_02_low' being destroyed
+[2022.07.07-14.43.18:031][533]LogSlate: Window 'Teller_02_low' being destroyed
+[2022.07.07-14.43.18:033][533]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-14.43.18:033][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-15.18.11:622][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.07.07-15.18.11:649][961]LogSavePackage: Moving 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Saved/FirstPersonExampleMap900ADEFF476A2F3690A3F5B9E8E17AD6.tmp' to 'E:/Git_Fork/Jahis-Cave_02/JahisCave-New/JahisCave_New/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.07.07-15.18.11:661][961]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.07.07-15.18.11:661][961]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.07-15.18.13:849][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.07.07-15.18.13:867][220]LogSlate: Window 'JahisCave_New - Unreal Editor' being destroyed
+[2022.07.07-15.18.14:002][221]Cmd: QUIT_EDITOR
+[2022.07.07-15.18.14:003][221]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.07.07-15.18.14:004][221]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.07.07-15.18.14:006][221]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.07.07-15.18.14:006][221]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.07.07-15.18.14:006][221]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.07.07-15.18.14:006][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-15.18.14:007][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-15.18.14:017][221]LogAudio: Display: Audio Device Manager Shutdown
+[2022.07.07-15.18.14:018][221]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.07-15.18.14:024][221]LogExit: Preparing to exit.
+[2022.07.07-15.18.14:140][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.07-15.18.14:362][221]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-15.18.14:379][221]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.07.07-15.18.14:406][221]LogExit: Editor shut down
+[2022.07.07-15.18.14:407][221]LogExit: Transaction tracking system shut down
+[2022.07.07-15.18.14:697][221]LogExit: Object subsystem successfully closed.
+[2022.07.07-15.18.14:714][221]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.07-15.18.14:714][221]LogShaderCompilers: Display: Total job queries 967, among them cache hits 435 (44.98%)
+[2022.07.07-15.18.14:714][221]LogShaderCompilers: Display: Tracking 482 distinct input hashes that result in 98 distinct outputs (20.33%)
+[2022.07.07-15.18.14:714][221]LogShaderCompilers: Display: RAM used: 0.64 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2022.07.07-15.18.14:714][221]LogShaderCompilers: Display: ================================================
+[2022.07.07-15.18.14:725][221]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.07.07-15.18.14:741][221]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (872)
+[2022.07.07-15.18.14:741][221]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.07.07-15.18.14:741][221]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.07.07-15.18.14:741][221]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.07.07-15.18.14:743][221]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (826)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (824)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (822)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (820)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (818)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (816)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (814)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module WebMMedia (812)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (810)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (808)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module SequenceRecorder (807)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (798)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (796)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.07.07-15.18.14:744][221]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.07.07-15.18.14:745][221]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.07.07-15.18.14:745][221]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.07.07-15.18.14:745][221]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.07.07-15.18.14:745][221]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.07.07-15.18.14:745][221]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.07.07-15.18.14:745][221]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.07.07-15.18.15:254][221]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.07.07-15.18.15:255][221]MemoryProfiler: Shutdown
+[2022.07.07-15.18.15:255][221]NetworkingProfiler: Shutdown
+[2022.07.07-15.18.15:255][221]LoadingProfiler: Shutdown
+[2022.07.07-15.18.15:255][221]TimingProfiler: Shutdown
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.07.07-15.18.15:255][221]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.07.07-15.18.15:288][221]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.07.07-15.18.15:289][221]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.07.07-15.18.15:290][221]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.07.07-15.18.15:290][221]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.07.07-15.18.15:290][221]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.07.07-15.18.15:291][221]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.07.07-15.18.15:292][221]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.07.07-15.18.15:296][221]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module AndroidPermission (570)
+[2022.07.07-15.18.15:486][221]LogModuleManager: Shutting down and abandoning module EditableMesh (568)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (564)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AssetTags (556)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (542)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (540)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (538)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (536)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MediaCompositing (534)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ImgMedia (532)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (530)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (528)
+[2022.07.07-15.18.15:487][221]LogOpenImageDenoise: OIDN shutting down
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (526)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MotoSynth (524)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (522)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (500)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (496)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module FractureEditor (494)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (493)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (490)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module BackChannel (488)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (486)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AutomationUtils (484)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (482)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AlembicImporter (480)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AlembicLibrary (479)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCache (478)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (470)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module UObjectPlugin (468)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (466)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (462)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (460)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (458)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module GitSourceControl (456)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module SourceControl (455)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (452)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (450)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module PluginBrowser (448)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (446)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (442)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.07.07-15.18.15:487][221]LogModuleManager: Shutting down and abandoning module CurveEditorTools (436)
+[2022.07.07-15.18.15:488][221]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.07.07-15.18.15:488][221]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.07.07-15.18.15:488][221]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.07.07-15.18.15:488][221]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.07.07-15.18.15:488][221]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.07.07-15.18.15:488][221]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.07.07-15.18.16:479][221]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.07.07-15.18.16:479][221]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (406)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module SignificanceManager (404)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.07.07-15.18.16:480][221]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2022.07.07-15.18.16:580][221]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2022.07.07-15.18.16:681][221]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (362)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (346)
+[2022.07.07-15.18.16:681][221]LogModuleManager: Shutting down and abandoning module LevelEditor (345)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (344)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (342)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module MainFrame (340)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module HotReload (339)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module ToolMenus (335)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module TreeMap (333)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2022.07.07-15.18.16:683][221]LogModuleManager: Shutting down and abandoning module DataValidation (328)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module AnimationSharing (322)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (320)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module FacialAnimation (318)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.07.07-15.18.16:684][221]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.07.07-15.18.16:688][221]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.07.07-15.18.16:689][221]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.07.07-15.18.16:690][221]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.07.07-15.18.16:691][221]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.07.07-15.18.16:692][221]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.07.07-15.18.16:696][221]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.07.07-15.18.16:696][221]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.07.07-15.18.16:696][221]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.07.07-15.18.16:696][221]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.07.07-15.18.16:696][221]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.07.07-15.18.16:703][221]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.07.07-15.18.16:706][221]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.07.07-15.18.16:719][221]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.07.07-15.18.16:720][221]LogHMD: Freeing OpenVRDLLHandle.
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.07.07-15.18.16:720][221]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.07.07-15.18.16:720][221]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.07.07-15.18.16:721][221]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.07.07-15.18.16:721][221]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.07.07-15.18.16:726][221]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.07.07-15.18.16:726][221]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.07.07-15.18.16:726][221]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA18168AA-45D3-6DF5-7B7F-74BF0499A937%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b70b1aaa4215a5fa5bc54ea94cb27029%7C83f89ad39b1442cab227db4180763d23%7C463f6ad4-8b93-4c1f-9325-a9c9dd0c5d7b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.07.07-15.18.16:726][221]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.07.07-15.18.16:736][221]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.07.07-15.18.16:737][221]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2022.07.07-15.18.16:737][221]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2022.07.07-15.18.16:737][221]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.07.07-15.18.16:738][221]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.07.07-15.18.16:739][221]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.07.07-15.18.16:740][221]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.07.07-15.18.16:740][221]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.07.07-15.18.16:740][221]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.07.07-15.18.16:740][221]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.07.07-15.18.16:740][221]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.07.07-15.18.16:742][221]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.07.07-15.18.16:742][221]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.07.07-15.18.16:753][221]LogD3D11RHI: Shutdown
+[2022.07.07-15.18.16:753][221]LogD3D11RHI: CleanupD3DDevice
+[2022.07.07-15.18.16:758][221]LogExit: Exiting.
+[2022.07.07-15.18.16:775][221]Log file closed, 07/07/22 17:18:16
