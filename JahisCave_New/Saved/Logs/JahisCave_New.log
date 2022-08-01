@@ -1518,3 +1518,317 @@ Make sure 'HeadsUpDisplay' has been compiled for  Get ItemName
 [2022.08.01-10.13.33:654][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Bogen-Elemente/bogenelemente_low_DefaultMaterial_BaseColor]
 [2022.08.01-10.13.33:662][636]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/bogenelemente_low_DefaultMateria919A9A1240BBD86523C42CA5C2FA1DF9.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Bogen-Elemente/bogenelemente_low_DefaultMaterial_BaseColor_Auto1.uasset'
 [2022.08.01-10.13.33:664][636]LogFileHelpers: Auto-saving content packages took 0.039
+[2022.08.01-10.17.40:488][702]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.01-10.17.40:507][702]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.01-10.17.44:381][935]LogContentBrowser: Attempting asset rename: NewFolder -> Dolch_Julian
+[2022.08.01-10.17.44:382][935]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.01-10.18.08:201][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Texturen\Unreal\dolch_low_DefaultMaterial_OcclusionRoughnessMetallic.1001.png)
+[2022.08.01-10.18.08:295][177]LogTexture: Display: Building textures: dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001 (OODLE_AutoDXT, 2048X2048)
+[2022.08.01-10.18.08:511][177]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.08:511][177]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.08:553][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Texturen\Unreal\dolch_low_DefaultMaterial_BaseColor.1001.png)
+[2022.08.01-10.18.08:659][177]LogTexture: Display: Building textures: dolch_low_DefaultMaterial_BaseColor_1001 (OODLE_AutoDXT, 2048X2048)
+[2022.08.01-10.18.09:056][177]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.09:056][177]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.09:082][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Texturen\Unreal\dolch_low_DefaultMaterial_Emissive.1001.png)
+[2022.08.01-10.18.09:121][177]LogTexture: Display: Building textures: dolch_low_DefaultMaterial_Emissive_1001 (OODLE_AutoDXT, 2048X2048)
+[2022.08.01-10.18.09:254][177]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.09:254][177]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.09:254][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Texturen\Unreal\dolch_low_DefaultMaterial_Normal.1001.png)
+[2022.08.01-10.18.09:376][177]LogTexture: Display: Building textures: dolch_low_DefaultMaterial_Normal_1001 (OODLE_BC5, 2048X2048)
+[2022.08.01-10.18.09:515][177]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.08.01-10.18.09:515][177]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.08.01-10.18.37:012][274]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Arbeitsdateien\dolch_low.fbx)
+[2022.08.01-10.18.37:040][274]LogFbx: Loading FBX Scene from H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Arbeitsdateien\dolch_low.fbx
+[2022.08.01-10.18.37:047][274]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.01-10.18.38:577][274]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.01-10.18.38:604][274]LogFbx: Display: Triangulating static mesh dolch_low
+[2022.08.01-10.18.38:651][274]LogStaticMesh: Building static mesh dolch_low...
+[2022.08.01-10.18.38:673][274]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Internal-External/Dolch_Julian/dolch_low.dolch_low
+[2022.08.01-10.18.38:690][274]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.08.01-10.18.38:747][274]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Arbeitsdateien\dolch_low (Pivot modified by Jul).fbx)
+[2022.08.01-10.18.38:793][274]LogFbx: Loading FBX Scene from H:\Meine Ablage\Art\3D\Assets\Internal und External\4_Meshes (Ready to use for Engine)\Dolch_Julian\Arbeitsdateien\dolch_low (Pivot modified by Jul).fbx
+[2022.08.01-10.18.38:802][274]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.01-10.18.38:803][274]LogFbx: Display: Triangulating static mesh dolch_low
+[2022.08.01-10.18.38:846][274]LogStaticMesh: Building static mesh dolch_low__Pivot_modified_by_Jul_...
+[2022.08.01-10.18.38:868][274]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Internal-External/Dolch_Julian/dolch_low__Pivot_modified_by_Jul_.dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.18.38:883][274]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.08.01-10.18.40:550][373]LogSlate: Window 'Message Log' being destroyed
+[2022.08.01-10.18.40:555][373]LogSlate: Window 'Message Log' being destroyed
+[2022.08.01-10.18.44:684][615]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.08.01-10.18.44:697][615]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.08.01-10.18.46:968][752]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Dolch
+[2022.08.01-10.18.46:968][752]LogContentBrowser: End creating deferred item NewMaterial
+[2022.08.01-10.18.48:030][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.08.01-10.18.48:064][814]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/FirstPersonExampleMap5E9FF7B3416FBCC6F04794BAD811972F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.08.01-10.18.48:090][814]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.08.01-10.18.48:090][814]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.08.01-10.18.53:441][133]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Internal-External/Dolch_Julian/dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001.dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.08.01-10.18.56:236][293]LogTexture: Display: Building textures: dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001 (OODLE_AutoDXT, 2048X2048)
+[2022.08.01-10.18.56:401][293]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.56:401][293]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.01-10.18.58:362][394]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/dolch_low_DefaultMaterial_Occlus1A7B3A2543EB040B51705991C40549DA.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Dolch_Julian/dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.08.01-10.18.58:397][394]AssetCheck: New page: Asset Save: dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.08.01-10.18.58:397][394]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/Dolch_Julian/dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001.dolch_low_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.08.01-10.20.38:714][579]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Internal-External/Dolch_Julian/M_Dolch.M_Dolch
+[2022.08.01-10.20.38:715][579]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: DD8EC9907C5C769EAD9BF1658D38C9E4856EB686), compiling. 
+[2022.08.01-10.20.38:723][579]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.38:807][579]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 93B6579FC38B4581393B539DC1C70EEE0D937E1F), compiling. 
+[2022.08.01-10.20.38:811][579]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 30AA4C53A3AAD12C916430AF018242CCDA7C409C), compiling. 
+[2022.08.01-10.20.38:826][579]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.20.38:862][580]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.38:863][580]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.40:992][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.20.40:992][689]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.40:994][689]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.01-10.20.40:994][689]LogShaderCompilers: Display: Total job queries 309, among them cache hits 70 (22.65%)
+[2022.08.01-10.20.40:994][689]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 50 distinct outputs (34.25%)
+[2022.08.01-10.20.40:994][689]LogShaderCompilers: Display: RAM used: 0.30 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.08.01-10.20.40:994][689]LogShaderCompilers: Display: ================================================
+[2022.08.01-10.20.41:955][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.20.41:955][734]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.41:959][734]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.01-10.20.43:367][806]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 81B60591F7A533DF2C8AD1202886190D82CA868B), compiling. 
+[2022.08.01-10.20.43:369][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DD73DA3F32EA2E16B415BA04AF0A7D04451DEBE), compiling. 
+[2022.08.01-10.20.43:370][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EFC40A7508D359EB7936AE2077BB96173A607C4A), compiling. 
+[2022.08.01-10.20.43:386][806]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 2F708858B83CC17DB51D313188412C5D4AEE52E6), compiling. 
+[2022.08.01-10.20.43:389][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6296BE605823259E99B384FBCC2E23F0928B904F), compiling. 
+[2022.08.01-10.20.43:391][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EF89CA0C1693DC4787C81D1BE45A28B06E695397), compiling. 
+[2022.08.01-10.20.43:394][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EC976D8A33EFC0BBAC0449389587C8721DCB7BF), compiling. 
+[2022.08.01-10.20.43:407][806]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: C64F807248E8532F7291D5F343513B6137E320E1), compiling. 
+[2022.08.01-10.20.43:410][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5CFEB3439EB6A0267DD2B829AEE4ABE31D6A2102), compiling. 
+[2022.08.01-10.20.43:413][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A7CC38CA078CDDAD38249BBB28A992FA45CEDAC), compiling. 
+[2022.08.01-10.20.43:415][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FE822401811934C3B85B9B42DAE5566D15C65476), compiling. 
+[2022.08.01-10.20.43:416][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5120E0125F263B9886DD3EA2E7FD4197531B699C), compiling. 
+[2022.08.01-10.20.43:426][806]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 49EF551CAB690BD1D20F52F7E170CCD4ADC564E2), compiling. 
+[2022.08.01-10.20.43:428][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B09E43075E495E787AB3A25C9C1933424680EBC), compiling. 
+[2022.08.01-10.20.43:429][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DBD3CFDE582167EE42F4A89364703886079A17A9), compiling. 
+[2022.08.01-10.20.43:430][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 62FFF9D87EBB6DD96F53C12BAF0914AC64BB241E), compiling. 
+[2022.08.01-10.20.43:432][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CC4CCF4797CF853C0E15E2A3E862CA25E490D9F1), compiling. 
+[2022.08.01-10.20.43:433][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 12AB68925B9A1311F98E045E7BA8E4A2F4086948), compiling. 
+[2022.08.01-10.20.43:438][806]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.20.43:488][807]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.01-10.20.43:522][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.43:522][808]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.20.43:522][808]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.20.43:522][808]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.43:523][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.43:523][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.43:848][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.08.01-10.20.43:848][826]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.44:502][855]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.08.01-10.20.44:502][855]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.44:653][862]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.20.44:653][862]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.45:233][890]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.08.01-10.20.45:233][890]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.08.01-10.20.45:233][890]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.08.01-10.20.45:233][890]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.01-10.20.48:624][ 76]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 145D7BD8277E4A0D257F4E1773739D716E6643A7), compiling. 
+[2022.08.01-10.20.48:626][ 76]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 72CB08C07C297EC5540FAD307A5D63AB2DBBCDCA), compiling. 
+[2022.08.01-10.20.48:629][ 76]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.20.48:629][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.01-10.20.48:629][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.20.48:643][ 77]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.08.01-10.20.48:656][ 78]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.49:802][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.20.49:802][134]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.50:092][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.20.50:092][149]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.50:685][177]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.01-10.20.50:685][177]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.01-10.20.50:685][177]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.20.52:646][269]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.08.01-10.20.52:646][269]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.08.01-10.20.52:646][269]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.08.01-10.20.52:646][269]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.01-10.20.52:646][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.01-10.20.52:646][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.20.55:661][436]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: D3FE07C01BCC5258A39ACE5AE28909C140BEADBC), compiling. 
+[2022.08.01-10.20.55:663][436]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A5F5220C3214F259EA05F3FE3EC1450492194B9), compiling. 
+[2022.08.01-10.20.55:669][436]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.20.55:669][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.08.01-10.20.55:669][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.20.55:678][437]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.55:691][438]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.20.56:824][491]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.20.56:824][491]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.57:265][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.20.57:265][512]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.20.57:592][527]MaterialEditorStats: Texture samplers: 4/16
+[2022.08.01-10.20.57:592][527]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.08.01-10.20.57:592][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.20.59:620][627]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.08.01-10.20.59:620][627]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.08.01-10.20.59:620][627]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.08.01-10.20.59:620][627]MaterialEditorStats: Texture samplers: 4/16
+[2022.08.01-10.20.59:620][627]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.08.01-10.20.59:620][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.01:547][729]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: AEA605809CCBC2DF4235814921D6B5AD68697D26), compiling. 
+[2022.08.01-10.21.01:549][729]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CCF8D7C0D6A73003825F511819090D0F9C008397), compiling. 
+[2022.08.01-10.21.01:552][729]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.21.01:552][729]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.01-10.21.01:552][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.01:566][730]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.01:579][731]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.01:580][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.21.01:580][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.21.01:580][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.01-10.21.01:580][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.08.01-10.21.01:580][731]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.01:580][731]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.02:888][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.21.02:888][798]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.03:026][805]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.21.03:026][805]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.03:048][806]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.01-10.21.03:048][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.01-10.21.03:048][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.06:266][958]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.08.01-10.21.06:266][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.08.01-10.21.06:266][958]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.08.01-10.21.06:266][958]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.01-10.21.06:266][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.01-10.21.06:266][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.15:203][469]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 17554BB16A8140AFF5622E5022E4D346CBCBFFB1), compiling. 
+[2022.08.01-10.21.15:205][469]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 81E7070F269D3F2564B1FB147BF1B7B06F60975C), compiling. 
+[2022.08.01-10.21.15:210][469]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.21.15:210][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.08.01-10.21.15:210][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.15:219][470]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.08.01-10.21.15:231][471]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.17:068][559]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.21.17:068][559]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.17:145][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.21.17:145][563]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.17:170][564]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: E5E4E7FAFB0A5272257E617A7871C99B830AADAE), compiling. 
+[2022.08.01-10.21.17:174][564]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: EE1688B8D812D0515B8526148888D1F85B7260F8), compiling. 
+[2022.08.01-10.21.17:195][565]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.17:211][566]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.18:954][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.21.18:954][653]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.19:206][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.21.19:206][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.19:453][679]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.01-10.21.19:453][679]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.19:866][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.08.01-10.21.19:866][699]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.20:414][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.08.01-10.21.20:414][725]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.20:721][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.01-10.21.20:721][741]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.20:745][742]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.01-10.21.20:745][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.08.01-10.21.20:745][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.21:638][786]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.01-10.21.21:638][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.22:652][835]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 29341104A9A1E9070D97DB0EAA4AC70D268F6D80), compiling. 
+[2022.08.01-10.21.22:655][835]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B80B5C0E66864BC0676F16F8A6BD1C78785D4879), compiling. 
+[2022.08.01-10.21.22:660][835]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.01-10.21.22:660][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.08.01-10.21.22:660][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.22:681][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.21.22:682][836]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.22:682][836]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.08.01-10.21.22:682][836]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.22:698][837]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.23:773][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.08.01-10.21.23:773][890]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.23:887][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.08.01-10.21.23:887][895]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.24:088][903]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.08.01-10.21.24:088][903]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.24:671][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.08.01-10.21.24:671][929]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.24:690][930]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.01-10.21.24:690][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.08.01-10.21.24:690][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.01-10.21.25:209][956]LogMaterialEditor: Saving and Compiling material M_Dolch
+[2022.08.01-10.21.25:615][956]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.01-10.21.25:615][956]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.25:635][956]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 419133F5D943D97DCB7F5ADC2F8D665C40302EB6), compiling. 
+[2022.08.01-10.21.25:670][956]LogMaterial: Display: Missing cached shadermap for M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: ED7C6E809624072B6D1D1A15EFD4D8D67644C28C), compiling. 
+[2022.08.01-10.21.25:720][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.01-10.21.25:735][956]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.26:454][956]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.08.01-10.21.26:454][956]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.01-10.21.26:463][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.01-10.21.26:515][956]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.26:518][956]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.08.01-10.21.26:520][956]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.08.01-10.21.26:520][956]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.08.01-10.21.26:520][956]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.08.01-10.21.26:545][956]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Dolch22264A6449783AA1941E5189679E3825.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Dolch_Julian/M_Dolch.uasset'
+[2022.08.01-10.21.26:556][956]AssetCheck: New page: Asset Save: M_Dolch
+[2022.08.01-10.21.26:556][956]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Dolch_Julian/M_Dolch.M_Dolch
+[2022.08.01-10.21.28:218][ 44]LogSlate: Window 'M_Dolch' being destroyed
+[2022.08.01-10.21.28:225][ 44]LogSlate: Window 'M_Dolch' being destroyed
+[2022.08.01-10.21.28:273][ 44]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-10.21.28:273][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-10.21.30:495][173]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Internal-External/Dolch_Julian/dolch_low.dolch_low
+[2022.08.01-10.21.39:363][661]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/dolch_low7F2A170A4110837A38E84DA0DA18C5B4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Dolch_Julian/dolch_low.uasset'
+[2022.08.01-10.21.39:378][661]AssetCheck: New page: Asset Save: dolch_low
+[2022.08.01-10.21.39:378][661]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Internal-External/Dolch_Julian/dolch_low.dolch_low
+[2022.08.01-10.21.41:125][764]LogSlate: Window 'dolch_low' being destroyed
+[2022.08.01-10.21.41:133][764]LogSlate: Window 'dolch_low' being destroyed
+[2022.08.01-10.21.41:140][764]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-10.21.41:140][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-10.21.42:409][834]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Internal-External/Dolch_Julian/dolch_low__Pivot_modified_by_Jul_.dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.21.47:030][ 76]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/dolch_low__Pivot_modified_by_JulD995AD1841D6BF46CB0363A913B7DDBF.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Dolch_Julian/dolch_low__Pivot_modified_by_Jul_.uasset'
+[2022.08.01-10.21.47:050][ 76]AssetCheck: New page: Asset Save: dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.21.47:050][ 76]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Internal-External/Dolch_Julian/dolch_low__Pivot_modified_by_Jul_.dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.21.48:083][136]LogSlate: Window 'dolch_low__Pivot_modified_by_Jul_' being destroyed
+[2022.08.01-10.21.48:088][136]LogSlate: Window 'dolch_low__Pivot_modified_by_Jul_' being destroyed
+[2022.08.01-10.21.48:096][136]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-10.21.48:096][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-10.21.49:523][215]LogActorFactory: Actor Factory created dolch_low
+[2022.08.01-10.21.50:118][250]LogActorFactory: Actor Factory created dolch_low
+[2022.08.01-10.21.51:551][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.01-10.21.53:597][454]Cmd: DELETE
+[2022.08.01-10.21.53:597][454]Cmd: ACTOR DELETE
+[2022.08.01-10.21.53:605][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.01-10.21.53:613][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.01-10.21.53:616][454]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.08.01-10.21.57:352][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.01-10.21.58:616][674]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.01-10.21.58:629][674]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Internal-External/Dolch_Julian/dolch_low.dolch_low
+[2022.08.01-10.22.00:265][674]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.08.01-10.22.00:313][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.08.01-10.22.00:326][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.01-10.22.00:332][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.01-10.22.02:851][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stalagtite_long)
+[2022.08.01-10.22.03:075][836]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.01-10.22.04:178][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bottle1)
+[2022.08.01-10.22.04:400][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.01-10.22.06:851][ 53]LogActorFactory: Actor Factory created dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.22.08:740][165]LogActorFactory: Actor Factory created dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.22.09:045][183]LogActorFactory: Actor Factory created dolch_low__Pivot_modified_by_Jul_
+[2022.08.01-10.22.11:508][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.08.01-10.22.11:542][327]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/FirstPersonExampleMap6501F6D6407E29EC824EAF8AEB883F2E.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.08.01-10.22.11:563][327]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.08.01-10.22.11:563][327]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
