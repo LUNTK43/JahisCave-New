@@ -1512,3 +1512,367 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.04-10.09.06:993][537]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu804DD7C64DEFAB4D46BEB88E16A50389.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.umap'
 [2022.08.04-10.09.07:007][537]AssetCheck: New page: Asset Save: MainMenu
 [2022.08.04-10.09.07:007][537]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.27.51:937][928]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.08.04-12.27.56:253][928]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.08.04-12.28.02:809][671]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.08.04-12.28.04:524][671]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.08.04-12.28.08:099][  4]LogObjectTools: Deleting 1 worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.28.08:099][  4]LogObjectTools: Currently 1 active worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.28.09:516][  4]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.04-12.28.09:691][  4]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.04-12.28.16:932][835]LogObjectTools: Deleting 1 worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.28.16:932][835]LogObjectTools: Currently 1 active worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.28.18:339][835]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.04-12.28.18:342][835]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.04-12.28.29:644][158]LogObjectTools: Deleting 1 worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.28.29:644][158]LogObjectTools: Currently 1 active worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.28.33:332][158]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.04-12.28.33:335][158]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.04-12.28.38:178][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.08.04-12.28.42:218][589]LogSlate: Window 'Save Content' being destroyed
+[2022.08.04-12.28.46:490][ 49]LogEditorViewport: Clicking Background
+[2022.08.04-12.28.58:831][499]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.08.04-12.29.01:832][850]LogEditorViewport: Clicking Background
+[2022.08.04-12.29.03:692][ 72]LogEditorViewport: Clicking Background
+[2022.08.04-12.29.04:089][114]Cmd: SELECT NONE
+[2022.08.04-12.29.07:462][460]LogEditorViewport: Clicking Background
+[2022.08.04-12.29.11:472][938]LogEditorViewport: Clicking Background
+[2022.08.04-12.29.12:566][ 68]LogEditorViewport: Clicking Background
+[2022.08.04-12.29.26:055][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Transition/Transition.Transition
+[2022.08.04-12.29.28:132][496]LogBlueprintEditor: Perf: 1.0 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.08.04-12.29.28:132][496]LogBlueprintEditor: Perf: 0.7 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2022.08.04-12.29.28:957][496]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0134 seconds. Added 126 classes and 0 folders.
+[2022.08.04-12.29.34:636][496]LogSlate: Took 0.027134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.04-12.29.40:140][895]LogSlate: Window 'Transition' being destroyed
+[2022.08.04-12.29.40:144][895]LogSlate: Window 'Transition' being destroyed
+[2022.08.04-12.29.40:232][895]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-12.29.40:270][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-12.29.58:064][780]LogEditorViewport: Clicking Background
+[2022.08.04-12.30.09:562][102]LogEditorViewport: Clicking Background
+[2022.08.04-12.30.10:512][215]LogEditorViewport: Clicking Background
+[2022.08.04-12.30.14:792][717]LogObjectTools: Deleting 1 worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.30.14:792][717]LogObjectTools: Currently 2 active worlds: /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu, /Engine/Transient.World_0
+[2022.08.04-12.30.15:732][717]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.04-12.30.15:735][717]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.04-12.30.23:706][646]LogContentBrowser: Attempting asset rename: MainMenu -> MainMenu
+[2022.08.04-12.30.24:883][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.08.04-12.30.29:894][775]LogSlate: Window 'Save Content' being destroyed
+[2022.08.04-12.30.29:915][775]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.30.29:934][775]Cmd: MAP LOAD FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.04-12.30.29:934][775]LightingResults: New page: Lighting Build
+[2022.08.04-12.30.29:934][775]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.08.04-12.30.30:005][775]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-12.30.30:083][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-12.30.30:083][775]MapCheck: New page: Map Check
+[2022.08.04-12.30.30:083][775]LightingResults: New page: Lighting Build
+[2022.08.04-12.30.30:097][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-12.30.30:177][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.04-12.30.30:334][775]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.08.04-12.30.30:356][775]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.04-12.30.30:448][775]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.04-12.30.30:704][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.04-12.30.30:723][775]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.04-12.30.30:723][775]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2022.08.04-12.30.30:723][775]LogFileHelpers: Loading map 'MainMenu' took 0.789
+[2022.08.04-12.30.40:691][925]LogContentBrowser: Attempting asset rename: MainMenu -> MainMenuOld
+[2022.08.04-12.30.40:847][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.08.04-12.30.40:949][925]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenuOld412B1A794FBB6645FE84E78DFB837230.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenuOld.umap'
+[2022.08.04-12.30.40:995][925]LogFileHelpers: Saving map 'MainMenuOld' took 0.190
+[2022.08.04-12.30.41:101][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.08.04-12.30.41:122][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.08.04-12.30.41:136][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.04-12.30.41:420][925]AssetCheck: New page: Asset Save: MainMenuOld
+[2022.08.04-12.30.41:420][925]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/MainMenuOld.MainMenuOld
+[2022.08.04-12.30.48:074][700]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2022.08.04-12.30.48:104][700]LogMetaData: Removing '/Game/Scenes/Gate_2_Levels/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/Scenes/Gate_2_Levels/NewWidgetBlueprint.PackageMetaData'
+[2022.08.04-12.30.48:104][700]LogMetaData: Removing '/Game/Scenes/Gate_2_Levels/MainMenu.MainMenu_C' ref from Metadata '/Game/Scenes/Gate_2_Levels/NewWidgetBlueprint.PackageMetaData'
+[2022.08.04-12.30.48:104][700]LogMetaData: Removing '/Game/Scenes/Gate_2_Levels/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Scenes/Gate_2_Levels/NewWidgetBlueprint.PackageMetaData'
+[2022.08.04-12.30.48:104][700]LogMetaData: Removing '/Game/Scenes/Gate_2_Levels/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Scenes/Gate_2_Levels/NewWidgetBlueprint.PackageMetaData'
+[2022.08.04-12.30.48:104][700]LogMetaData: Removing '/Game/Scenes/Gate_2_Levels/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Scenes/Gate_2_Levels/NewWidgetBlueprint.PackageMetaData'
+[2022.08.04-12.30.48:128][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-12.30.48:201][700]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu6B86B3DA45441968F8870ABD0F0FD7D0.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-12.30.48:258][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.04-12.30.48:282][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.08.04-12.30.48:296][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.04-12.30.48:317][700]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-12.30.48:317][700]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.30.48:404][703]LogAssetRegistry: Display: Multiple files exist with the same package name /Game/Scenes/Gate_2_Levels/MainMenu but different extensions (umap and uasset). This is invalid and will cause errors; merge or rename or delete one of the files.
+[2022.08.04-12.31.05:261][647]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.39.13:946][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-12.39.13:949][355]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenuED72B11941D08CFA002A22A09DA554B3.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-12.39.13:961][355]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-12.39.13:961][355]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-12.40.41:120][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.08.04-12.40.41:121][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/MainMenuOld' took 0.083
+[2022.08.04-12.40.41:129][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scenes/Gate_2_Levels/MainMenu] ([2] browsable assets)...
+[2022.08.04-12.40.41:129][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scenes/Gate_2_Levels/MainMenu]
+[2022.08.04-12.40.41:132][521]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu_Auto1058F2A3B4F221896319C379E41F14E75.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Scenes/Gate_2_Levels/MainMenu_Auto1.uasset'
+[2022.08.04-12.40.41:133][521]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.08.04-12.56.57:859][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.08.04-12.56.57:865][593]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/MainMenuOld' took 0.272
+[2022.08.04-12.56.57:867][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scenes/Gate_2_Levels/MainMenu] ([2] browsable assets)...
+[2022.08.04-12.56.57:867][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scenes/Gate_2_Levels/MainMenu]
+[2022.08.04-12.56.57:870][593]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu_Auto29C0A8947489284CC48E42DB0ABACAAD1.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Scenes/Gate_2_Levels/MainMenu_Auto2.uasset'
+[2022.08.04-12.56.57:871][593]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.08.04-12.59.47:832][321]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.04-12.59.47:851][321]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.04-12.59.50:951][677]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2022.08.04-12.59.50:962][677]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.04-13.00.17:153][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\titlescreen.png)
+[2022.08.04-13.00.17:417][854]LogTexture: Display: Building textures: titlescreen (OODLE_AutoDXT, 1920X1080)
+[2022.08.04-13.00.17:565][854]LogTextureFormatOodle: Display: non-RDO encode 1920 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.04-13.00.17:667][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\X_UI.png)
+[2022.08.04-13.00.17:669][854]LogTexture: Display: Building textures: X_UI (BGRA8, 92X89)
+[2022.08.04-13.00.17:685][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\XGlow_UI.png)
+[2022.08.04-13.00.17:686][854]LogTexture: Display: Building textures: XGlow_UI (BGRA8, 100X99)
+[2022.08.04-13.00.17:697][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\XHighlight_UI.png)
+[2022.08.04-13.00.17:699][854]LogTexture: Display: Building textures: XHighlight_UI (BGRA8, 92X89)
+[2022.08.04-13.00.17:701][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\Controls_UI.png)
+[2022.08.04-13.00.17:717][854]LogTexture: Display: Building textures: Controls_UI (BGRA8, 714X196)
+[2022.08.04-13.00.17:747][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\Credits_UI.png)
+[2022.08.04-13.00.17:755][854]LogTexture: Display: Building textures: Credits_UI (BGRA8, 675X211)
+[2022.08.04-13.00.17:762][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\CreditsGlow_UI.png)
+[2022.08.04-13.00.17:770][854]LogTexture: Display: Building textures: CreditsGlow_UI (OODLE_AutoDXT, 700X240)
+[2022.08.04-13.00.17:817][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\CreditsHighlight_UI.png)
+[2022.08.04-13.00.17:830][854]LogTexture: Display: Building textures: CreditsHighlight_UI (BGRA8, 675X211)
+[2022.08.04-13.00.17:846][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\PickUp_UI.png)
+[2022.08.04-13.00.17:850][854]LogTexture: Display: Building textures: PickUp_UI (BGRA8, 551X90)
+[2022.08.04-13.00.17:861][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\Play_UI.png)
+[2022.08.04-13.00.17:868][854]LogTexture: Display: Building textures: Play_UI (BGRA8, 675X211)
+[2022.08.04-13.00.17:885][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\PlayGlow_UI.png)
+[2022.08.04-13.00.17:896][854]LogTexture: Display: Building textures: PlayGlow_UI (OODLE_AutoDXT, 700X240)
+[2022.08.04-13.00.17:908][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\PlayHighlight_UI.png)
+[2022.08.04-13.00.17:914][854]LogTexture: Display: Building textures: PlayHighlight_UI (BGRA8, 675X211)
+[2022.08.04-13.00.17:929][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\Quit_UI.png)
+[2022.08.04-13.00.17:936][854]LogTexture: Display: Building textures: Quit_UI (BGRA8, 675X211)
+[2022.08.04-13.00.17:950][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\QuitGlow_UI.png)
+[2022.08.04-13.00.17:961][854]LogTexture: Display: Building textures: QuitGlow_UI (OODLE_AutoDXT, 700X240)
+[2022.08.04-13.00.17:972][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\QuitHighlight_UI.png)
+[2022.08.04-13.00.17:979][854]LogTexture: Display: Building textures: QuitHighlight_UI (BGRA8, 675X211)
+[2022.08.04-13.00.17:983][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\Settings_UI.png)
+[2022.08.04-13.00.17:991][854]LogTexture: Display: Building textures: Settings_UI (BGRA8, 675X211)
+[2022.08.04-13.00.18:016][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\SettingsGlow_UI.png)
+[2022.08.04-13.00.18:022][854]LogTexture: Display: Building textures: SettingsGlow_UI (OODLE_AutoDXT, 700X240)
+[2022.08.04-13.00.18:031][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\SettingsHighlight_UI.png)
+[2022.08.04-13.00.18:038][854]LogTexture: Display: Building textures: SettingsHighlight_UI (BGRA8, 675X211)
+[2022.08.04-13.00.18:043][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GA\4tes Semester\JAHIsCave\UI\Text_UI.png)
+[2022.08.04-13.00.18:069][854]LogTexture: Display: Building textures: Text_UI (BGRA8, 562X496)
+[2022.08.04-13.01.08:793][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.01.08:796][521]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu393CE10842264929B746F9AE8C23C2E8.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.01.08:807][521]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.01.08:807][521]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.06.58:221][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.08.04-13.06.58:232][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/MainMenuOld' took 0.172
+[2022.08.04-13.06.58:232][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/titlescreen] ([1] browsable assets)...
+[2022.08.04-13.06.58:280][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/titlescreen.titlescreen]
+[2022.08.04-13.06.58:280][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/titlescreen]
+[2022.08.04-13.06.58:330][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/titlescreen_Auto34E199618462FC6BC2473FAB65880D8ED.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/titlescreen_Auto3.uasset'
+[2022.08.04-13.06.58:331][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/X_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:333][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/X_UI.X_UI]
+[2022.08.04-13.06.58:333][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/X_UI]
+[2022.08.04-13.06.58:335][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/X_UI_Auto3A01912654F7D160C465D3CAEDA72CB08.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/X_UI_Auto3.uasset'
+[2022.08.04-13.06.58:336][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/XGlow_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:337][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/XGlow_UI.XGlow_UI]
+[2022.08.04-13.06.58:337][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/XGlow_UI]
+[2022.08.04-13.06.58:339][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/XGlow_UI_Auto3EA4E8B724A323EE1569165996B278CA9.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/XGlow_UI_Auto3.uasset'
+[2022.08.04-13.06.58:339][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/XHighlight_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:340][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/XHighlight_UI.XHighlight_UI]
+[2022.08.04-13.06.58:340][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/XHighlight_UI]
+[2022.08.04-13.06.58:342][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/XHighlight_UI_Auto33905B711442EEE62F0123192C762CD27.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/XHighlight_UI_Auto3.uasset'
+[2022.08.04-13.06.58:343][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/Controls_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:345][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/Controls_UI.Controls_UI]
+[2022.08.04-13.06.58:345][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/Controls_UI]
+[2022.08.04-13.06.58:347][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Controls_UI_Auto32D393C414297428AA241FBBED5C3384A.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/Controls_UI_Auto3.uasset'
+[2022.08.04-13.06.58:349][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/Credits_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:350][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/Credits_UI.Credits_UI]
+[2022.08.04-13.06.58:350][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/Credits_UI]
+[2022.08.04-13.06.58:352][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Credits_UI_Auto3422B45274780E7D959DB799466316EDB.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/Credits_UI_Auto3.uasset'
+[2022.08.04-13.06.58:353][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/CreditsGlow_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:355][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/CreditsGlow_UI.CreditsGlow_UI]
+[2022.08.04-13.06.58:355][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/CreditsGlow_UI]
+[2022.08.04-13.06.58:357][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/CreditsGlow_UI_Auto3CB91E73641AABAE90ADD7D81075F45E6.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/CreditsGlow_UI_Auto3.uasset'
+[2022.08.04-13.06.58:358][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/CreditsHighlight_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:360][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/CreditsHighlight_UI.CreditsHighlight_UI]
+[2022.08.04-13.06.58:360][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/CreditsHighlight_UI]
+[2022.08.04-13.06.58:363][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/CreditsHighlight_UI_Auto3F8353E1A4B8D57B4C14B30B042FFE03E.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/CreditsHighlight_UI_Auto3.uasset'
+[2022.08.04-13.06.58:363][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/PickUp_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:365][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/PickUp_UI.PickUp_UI]
+[2022.08.04-13.06.58:365][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/PickUp_UI]
+[2022.08.04-13.06.58:367][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/PickUp_UI_Auto32BFDB1C74AC0C841C2FA25B6B4E13D3E.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/PickUp_UI_Auto3.uasset'
+[2022.08.04-13.06.58:367][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/Play_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:369][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/Play_UI.Play_UI]
+[2022.08.04-13.06.58:369][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/Play_UI]
+[2022.08.04-13.06.58:371][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Play_UI_Auto397D17A704E8B8A3EEA5211807F0F0631.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/Play_UI_Auto3.uasset'
+[2022.08.04-13.06.58:372][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/PlayGlow_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:374][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/PlayGlow_UI.PlayGlow_UI]
+[2022.08.04-13.06.58:374][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/PlayGlow_UI]
+[2022.08.04-13.06.58:378][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/PlayGlow_UI_Auto334BC20EB4B98AD64E7E6EDA294DDDE2F.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/PlayGlow_UI_Auto3.uasset'
+[2022.08.04-13.06.58:378][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/PlayHighlight_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:380][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/PlayHighlight_UI.PlayHighlight_UI]
+[2022.08.04-13.06.58:380][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/PlayHighlight_UI]
+[2022.08.04-13.06.58:383][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/PlayHighlight_UI_Auto3B2B503414740A28EC0CBC68D796B753C.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/PlayHighlight_UI_Auto3.uasset'
+[2022.08.04-13.06.58:383][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/Quit_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:385][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/Quit_UI.Quit_UI]
+[2022.08.04-13.06.58:385][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/Quit_UI]
+[2022.08.04-13.06.58:388][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Quit_UI_Auto3E5DA48BC4D0BF325E903AFA690B7A881.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/Quit_UI_Auto3.uasset'
+[2022.08.04-13.06.58:388][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/QuitGlow_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:390][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/QuitGlow_UI.QuitGlow_UI]
+[2022.08.04-13.06.58:390][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/QuitGlow_UI]
+[2022.08.04-13.06.58:393][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/QuitGlow_UI_Auto3F3072AAF472BC89FEA4F7FAEFBE2E89C.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/QuitGlow_UI_Auto3.uasset'
+[2022.08.04-13.06.58:393][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/QuitHighlight_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:395][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/QuitHighlight_UI.QuitHighlight_UI]
+[2022.08.04-13.06.58:395][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/QuitHighlight_UI]
+[2022.08.04-13.06.58:398][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/QuitHighlight_UI_Auto3181FBEC84460BAB8012A718735A3D5BA.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/QuitHighlight_UI_Auto3.uasset'
+[2022.08.04-13.06.58:399][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/Settings_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:401][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/Settings_UI.Settings_UI]
+[2022.08.04-13.06.58:401][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/Settings_UI]
+[2022.08.04-13.06.58:403][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Settings_UI_Auto33B02FE954725758C215D78A40A5E260F.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/Settings_UI_Auto3.uasset'
+[2022.08.04-13.06.58:404][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/SettingsGlow_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:406][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/SettingsGlow_UI.SettingsGlow_UI]
+[2022.08.04-13.06.58:406][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/SettingsGlow_UI]
+[2022.08.04-13.06.58:409][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/SettingsGlow_UI_Auto3B99D0C2E48DE1C8EFA7056B3662C0F12.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/SettingsGlow_UI_Auto3.uasset'
+[2022.08.04-13.06.58:409][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/SettingsHighlight_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:411][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/SettingsHighlight_UI.SettingsHighlight_UI]
+[2022.08.04-13.06.58:411][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/SettingsHighlight_UI]
+[2022.08.04-13.06.58:414][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/SettingsHighlight_UI_Auto3466C05314C947ECAE45824A82D4BFDAB.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/SettingsHighlight_UI_Auto3.uasset'
+[2022.08.04-13.06.58:415][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/UI/Text_UI] ([1] browsable assets)...
+[2022.08.04-13.06.58:419][949]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Internal-External/UI/Text_UI.Text_UI]
+[2022.08.04-13.06.58:419][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/UI/Text_UI]
+[2022.08.04-13.06.58:425][949]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Text_UI_Auto37E4064A647DB086D63FD7F8005D3F5DD.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/UI/Text_UI_Auto3.uasset'
+[2022.08.04-13.06.58:425][949]LogFileHelpers: Auto-saving content packages took 0.193
+[2022.08.04-13.11.11:556][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.11.11:559][805]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu0BD894CB4568E855328D0BA30832C3C4.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.11.11:571][805]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.11.11:571][805]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.14.40:257][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.14.40:260][974]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu9838D50D4EFDC57BA087D0B7A4AA22A7.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.14.40:274][974]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.14.40:275][974]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.16.58:798][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.08.04-13.16.58:804][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/MainMenuOld' took 0.036
+[2022.08.04-13.16.58:805][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scenes/Gate_2_Levels/MainMenu] ([2] browsable assets)...
+[2022.08.04-13.16.58:805][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scenes/Gate_2_Levels/MainMenu]
+[2022.08.04-13.16.58:808][823]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu_Auto45ED4689246C6DA5396EA0BABD165A291.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Scenes/Gate_2_Levels/MainMenu_Auto4.uasset'
+[2022.08.04-13.16.58:809][823]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.08.04-13.19.31:507][787]LogSlate: Took 0.170094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.04-13.22.31:696][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.22.31:700][699]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu0E4AEE944142AC525D1252B1E0A82050.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.22.31:712][699]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.22.31:712][699]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.22.33:431][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.22.33:435][880]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu6413C5B640B137858A851A84906D34E5.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.22.33:445][880]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.22.33:445][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.36.19:908][678]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.08.04-13.36.19:912][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/MainMenuOld' took 0.038
+[2022.08.04-13.36.19:913][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scenes/Gate_2_Levels/MainMenu] ([2] browsable assets)...
+[2022.08.04-13.36.19:913][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scenes/Gate_2_Levels/MainMenu]
+[2022.08.04-13.36.19:917][678]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu_Auto5B07C29794C19C95FE9EA84BE900E6654.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Scenes/Gate_2_Levels/MainMenu_Auto5.uasset'
+[2022.08.04-13.36.19:917][678]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.08.04-13.36.28:357][857]LogEditorTransaction: Undo Remove Widget
+[2022.08.04-13.36.28:495][858]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2022.08.04-13.36.30:937][ 89]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2022.08.04-13.39.59:096][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.39.59:100][ 54]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu51DE629942B8F8E8A8AFD1A70E4ADDC7.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.39.59:112][ 54]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.39.59:112][ 54]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.40.21:064][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.40.21:068][380]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu0CF455764A1C343D231A39AA90F58A03.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.40.21:080][380]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.40.21:080][380]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-13.46.20:709][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.08.04-13.46.20:717][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/MainMenuOld' took 0.045
+[2022.08.04-13.46.20:717][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scenes/Gate_2_Levels/MainMenu] ([4] browsable assets)...
+[2022.08.04-13.46.20:717][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scenes/Gate_2_Levels/MainMenu]
+[2022.08.04-13.46.20:722][208]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu_Auto68B7A1AA6402B98DEE63E55AB7F8BB72F.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Scenes/Gate_2_Levels/MainMenu_Auto6.uasset'
+[2022.08.04-13.46.20:723][208]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.08.04-13.56.43:528][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-13.56.43:533][231]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu6609FD184290E1605B3992A84B4AAA16.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-13.56.43:546][231]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-13.56.43:546][231]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-14.31.48:036][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-14.31.48:044][177]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu1896477A4427C18ED968FF873E76D034.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-14.31.48:067][177]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-14.31.48:067][177]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-14.32.45:316][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-14.32.45:324][861]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu93A274F249A100B4DCB8B9B18805266A.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-14.32.45:338][861]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-14.32.45:338][861]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-16.11.26:080][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-16.11.26:233][ 20]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenu10D95009466B9B3C102211A4B6983C70.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-16.11.29:658][ 20]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-16.11.29:660][ 20]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-16.12.23:854][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-16.12.23:863][716]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenuAAE04CA34676DD96629298BB16F92D1B.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-16.12.23:877][716]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-16.12.23:877][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-16.12.28:317][  7]LogUObjectHash: Compacting FUObjectHashTables data took  39.20ms
+[2022.08.04-16.12.28:450][  7]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenuOld5FEEF6F8442E2398C60CD78FD47C6BDE.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenuOld.umap'
+[2022.08.04-16.12.28:585][  7]AssetCheck: New page: Asset Save: MainMenuOld
+[2022.08.04-16.12.28:585][  7]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/MainMenuOld.MainMenuOld
+[2022.08.04-16.12.38:948][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Gate_2_Levels/MainMenu" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset" SILENT=true
+[2022.08.04-16.12.38:985][985]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/MainMenuAFC8A65A47D74E120B0EB2AD85E365BC.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/MainMenu.uasset'
+[2022.08.04-16.12.39:001][985]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.04-16.12.39:001][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/Scenes/Gate_2_Levels/MainMenu.MainMenu
+[2022.08.04-16.12.46:154][684]BlueprintLog: New page: Compile MainMenu
+[2022.08.04-16.12.46:552][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.08.04-16.13.17:568][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.08.04-16.13.23:794][413]LogSlate: Window 'Save Content' being destroyed
+[2022.08.04-16.13.23:849][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/XHighlight_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/XHighlight_UI.uasset" SILENT=true
+[2022.08.04-16.13.23:937][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/XHighlight_UI3B332D17401D9AD6EF7114BB71D73A95.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/XHighlight_UI.uasset'
+[2022.08.04-16.13.23:943][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/XGlow_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/XGlow_UI.uasset" SILENT=true
+[2022.08.04-16.13.23:948][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/XGlow_UI169041834346F71577AC2CBBEACE59C8.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/XGlow_UI.uasset'
+[2022.08.04-16.13.23:949][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/X_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/X_UI.uasset" SILENT=true
+[2022.08.04-16.13.23:952][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/X_UIFF24AA9B45EB580EDBCE2FB993469087.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/X_UI.uasset'
+[2022.08.04-16.13.23:953][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/titlescreen" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/titlescreen.uasset" SILENT=true
+[2022.08.04-16.13.24:266][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/titlescreen27D521FC44338860A1C62DACC3522B7F.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/titlescreen.uasset'
+[2022.08.04-16.13.24:268][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/Text_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Text_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:327][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Text_UI1D822B6C4C7293D79485A0AB81826C16.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Text_UI.uasset'
+[2022.08.04-16.13.24:360][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/SettingsHighlight_UI7A8B30E84681A6DB1F0AEF9C110E36D5.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/SettingsHighlight_UI.uasset'
+[2022.08.04-16.13.24:362][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/SettingsGlow_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/SettingsGlow_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:388][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/SettingsGlow_UI09253A70484973978183DA9D97929CAA.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/SettingsGlow_UI.uasset'
+[2022.08.04-16.13.24:389][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/Settings_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Settings_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:453][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Settings_UI6A9669ED4FAB80E48EC67CA2448E0293.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Settings_UI.uasset'
+[2022.08.04-16.13.24:454][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/QuitHighlight_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/QuitHighlight_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:476][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/QuitHighlight_UI3404864A476780EEEC0BD4AF0CB933CC.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/QuitHighlight_UI.uasset'
+[2022.08.04-16.13.24:477][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/QuitGlow_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/QuitGlow_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:497][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/QuitGlow_UI062D203A4898B0DFB54B458699C6FEFA.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/QuitGlow_UI.uasset'
+[2022.08.04-16.13.24:497][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/Quit_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Quit_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:515][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Quit_UIAE1FD1534B81D2CF48AEAC863510C8A1.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Quit_UI.uasset'
+[2022.08.04-16.13.24:516][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/PlayHighlight_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/PlayHighlight_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:535][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/PlayHighlight_UID646A5F849E84E2E7BF8CA8A4487E593.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/PlayHighlight_UI.uasset'
+[2022.08.04-16.13.24:536][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/PlayGlow_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/PlayGlow_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:555][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/PlayGlow_UIDC595A47417289899D15789F94CBCB42.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/PlayGlow_UI.uasset'
+[2022.08.04-16.13.24:557][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/Play_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Play_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:577][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Play_UIAAA1EB2B47BB0920646EE690D79281C5.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Play_UI.uasset'
+[2022.08.04-16.13.24:579][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/PickUp_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/PickUp_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:592][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/PickUp_UI5A91141445E294462CD7ABBF36476770.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/PickUp_UI.uasset'
+[2022.08.04-16.13.24:613][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/CreditsHighlight_UI6DDEE4D643CA89F1EB96ACBF2264AC9F.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/CreditsHighlight_UI.uasset'
+[2022.08.04-16.13.24:614][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/CreditsGlow_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/CreditsGlow_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:636][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/CreditsGlow_UIE52041474D22497317115AA6BFBC3742.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/CreditsGlow_UI.uasset'
+[2022.08.04-16.13.24:636][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/Credits_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Credits_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:656][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Credits_UID645C7D74D14E75C944C7691F34836AE.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Credits_UI.uasset'
+[2022.08.04-16.13.24:658][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Internal-External/UI/Controls_UI" FILE="C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Controls_UI.uasset" SILENT=true
+[2022.08.04-16.13.24:679][413]LogSavePackage: Moving 'C:/Users/Admin/JahisCave-New/JahisCave_New/Saved/Controls_UIBB0BBF2049421AFE97E07D8B45CBF928.tmp' to 'C:/Users/Admin/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/UI/Controls_UI.uasset'
+[2022.08.04-16.13.24:764][413]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.04-16.13.24:764][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/Text_UI.Text_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/SettingsHighlight_UI.SettingsHighlight_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/SettingsGlow_UI.SettingsGlow_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/Settings_UI.Settings_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/QuitHighlight_UI.QuitHighlight_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/QuitGlow_UI.QuitGlow_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/Quit_UI.Quit_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/PlayHighlight_UI.PlayHighlight_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/PlayGlow_UI.PlayGlow_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/Play_UI.Play_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/PickUp_UI.PickUp_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/CreditsHighlight_UI.CreditsHighlight_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/CreditsGlow_UI.CreditsGlow_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/Credits_UI.Credits_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/Controls_UI.Controls_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/XHighlight_UI.XHighlight_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/XGlow_UI.XGlow_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/X_UI.X_UI
+[2022.08.04-16.13.24:765][413]LogContentValidation: Display: Validating Texture2D /Game/Assets/Internal-External/UI/titlescreen.titlescreen
+[2022.08.04-16.13.26:211][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.08.04-16.13.27:864][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
