@@ -2244,3 +2244,1324 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.05-18.54.20:868][364]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
 [2022.08.05-18.54.20:869][364]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
 [2022.08.05-18.54.21:650][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.08.05-18.55.40:902][815]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.05-18.55.45:267][915]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.05-18.55.45:315][915]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.05-18.55.48:526][ 29]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.05-18.55.53:852][152]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.05-18.55.53:863][152]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.05-18.56.04:511][265]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ca888510-f03c-49dc-9553-9c5e617072cb}.
+[2022.08.05-18.56.04:511][265]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.05-18.56.04:512][265]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.05-18.56.04:512][265]LogAudioMixer: Display: 1: FrontRight
+[2022.08.05-18.56.36:300][584]MapCheck: New page: Map Check
+[2022.08.05-18.56.36:312][584]LightingResults: New page: Lighting Build - 05.08.2022, 22:56:36
+[2022.08.05-18.56.36:444][584]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.05-18.56.36:483][584]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.05-18.56.36:506][584]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.05-18.56.37:035][584]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.05-18.56.37:035][584]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17160
+[2022.08.05-18.56.43:977][584]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.08.05-18.56.43:979][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.05-18.56.43:979][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.05-18.56.43:979][584]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.05-18.56.43:979][584]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.05-18.56.43:979][584]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.05-18.56.44:357][584]LogEditorBuildUtils: Build time 0:08
+[2022.08.05-18.56.44:365][584]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Portal in PCD3D_SM5, Default, SM5 (DDC key hash: 91D7AE1FB90C7BA7291B9D8A2BD9DFCDDAC40658), compiling. 
+[2022.08.05-18.56.44:370][584]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:371][584]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Portal in PCD3D_SM5, Default, SM5 (DDC key hash: 745A337C93A895226F177B6985BFBEFDF020EF4E), compiling. 
+[2022.08.05-18.56.44:373][584]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:377][584]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.08.05-18.56.44:377][584]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.05-18.56.44:377][584]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:481][585]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Beach_Rock_a in PCD3D_SM5, Default, SM5 (DDC key hash: DB8BDE343F41D1068EAFB7F33D12B3DE735C54EF), compiling. 
+[2022.08.05-18.56.44:485][585]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.08.05-18.56.44:485][585]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:487][585]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.08.05-18.56.44:487][585]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:487][585]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Beach_Rock_a in PCD3D_SM5, Default, SM5 (DDC key hash: 38F86998A6EE31D0323849DB8DFE643EA41AE784), compiling. 
+[2022.08.05-18.56.44:491][585]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:640][586]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_CleaverKoerper in PCD3D_SM5, Default, SM5 (DDC key hash: BA405716F77BC5C1728F5155D8B048D1FD30F5CB), compiling. 
+[2022.08.05-18.56.44:644][586]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:646][586]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_CleaverKoerper in PCD3D_SM5, Default, SM5 (DDC key hash: 815754B996DF15F357AC6468692E0BF0BF90FE79), compiling. 
+[2022.08.05-18.56.44:650][586]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:677][587]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_CleaverAusruestung in PCD3D_SM5, Default, SM5 (DDC key hash: 197909A2B79C95D5A1E1FF8FBA749BB8BCFD229D), compiling. 
+[2022.08.05-18.56.44:681][587]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:683][587]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_CleaverAusruestung in PCD3D_SM5, Default, SM5 (DDC key hash: 54C9EBEED3C43F370A763968868A528723AD71D1), compiling. 
+[2022.08.05-18.56.44:686][587]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:709][588]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Waende in PCD3D_SM5, Default, SM5 (DDC key hash: 49345B497B095D4DD285BA07B6300E7E9DE94836), compiling. 
+[2022.08.05-18.56.44:712][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:713][588]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Waende in PCD3D_SM5, Default, SM5 (DDC key hash: E0FC3CFC074086522BBC788100C494D5380AFBD7), compiling. 
+[2022.08.05-18.56.44:715][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:718][588]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Einbuchtungselemente in PCD3D_SM5, Default, SM5 (DDC key hash: 3B08D7885DA56B8F99856082313158224BE4325F), compiling. 
+[2022.08.05-18.56.44:722][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:723][588]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Einbuchtungselemente in PCD3D_SM5, Default, SM5 (DDC key hash: C55B8B1BDAE545544FCA169E6F79774DF5AAD73D), compiling. 
+[2022.08.05-18.56.44:725][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:752][589]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Saeulen in PCD3D_SM5, Default, SM5 (DDC key hash: 19E53FE53B3F19078A7AC10662A64B8277F749E8), compiling. 
+[2022.08.05-18.56.44:755][589]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:756][589]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Saeulen in PCD3D_SM5, Default, SM5 (DDC key hash: 2ECF53B8762A51F9ADA0450A1A2A993866E2CB81), compiling. 
+[2022.08.05-18.56.44:761][589]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:787][590]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull01_Schaedel in PCD3D_SM5, Default, SM5 (DDC key hash: BE1ECBB4769BF543E62A23DBB0C1757B619870CD), compiling. 
+[2022.08.05-18.56.44:790][590]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:792][590]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull01_Schaedel in PCD3D_SM5, Default, SM5 (DDC key hash: B24E231F13A76272FE19488F3BC4E293FCCC04A9), compiling. 
+[2022.08.05-18.56.44:795][590]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:796][590]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull01_Eye in PCD3D_SM5, Default, SM5 (DDC key hash: 0B379C08D35486F17AFB32EF590FFB8BC7A1BE81), compiling. 
+[2022.08.05-18.56.44:799][590]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:800][590]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull01_Eye in PCD3D_SM5, Default, SM5 (DDC key hash: 80E61438B9EC41FADC79444CFE5F6831BFACB4C6), compiling. 
+[2022.08.05-18.56.44:803][590]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:832][591]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull01_Geweih in PCD3D_SM5, Default, SM5 (DDC key hash: 0D30C1B9579083039D836CEDCF330D42BFA8DD98), compiling. 
+[2022.08.05-18.56.44:836][591]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:838][591]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull01_Geweih in PCD3D_SM5, Default, SM5 (DDC key hash: AE0164FBF25945472A9AF9A4900A1EB7649E6942), compiling. 
+[2022.08.05-18.56.44:840][591]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:863][592]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Saeulenelemente in PCD3D_SM5, Default, SM5 (DDC key hash: E33C8F645ADBCF956743DA7A76A4F3412DE6F83F), compiling. 
+[2022.08.05-18.56.44:866][592]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:867][592]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Saeulenelemente in PCD3D_SM5, Default, SM5 (DDC key hash: C05ACA625CA6BDC59F8F31DC6F46E002C4FBBF55), compiling. 
+[2022.08.05-18.56.44:870][592]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:871][592]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull02_Chain in PCD3D_SM5, Default, SM5 (DDC key hash: E2D0D639CDBC65DD1193DDA8E475B1081A72B606), compiling. 
+[2022.08.05-18.56.44:874][592]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:875][592]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull02_Chain in PCD3D_SM5, Default, SM5 (DDC key hash: 5CEF4188D72237DD04F52EF48FBB07448F5B16B8), compiling. 
+[2022.08.05-18.56.44:879][592]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:887][593]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull02_Geweih in PCD3D_SM5, Default, SM5 (DDC key hash: 4BC800F9203465B5C6DB63637419D2898F5D2A32), compiling. 
+[2022.08.05-18.56.44:891][593]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:892][593]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull02_Geweih in PCD3D_SM5, Default, SM5 (DDC key hash: B6C9BB570D1EECBFC66DE476129238DE06AED8AD), compiling. 
+[2022.08.05-18.56.44:895][593]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:903][594]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull02_Schaedel in PCD3D_SM5, Default, SM5 (DDC key hash: 5A6E2F952E7B068D5041B8558D34260B7999EA48), compiling. 
+[2022.08.05-18.56.44:908][594]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:909][594]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skull02_Schaedel in PCD3D_SM5, Default, SM5 (DDC key hash: 40F3DBB6ABF06D25C3634A297947BE7778FD393C), compiling. 
+[2022.08.05-18.56.44:913][594]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:920][595]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Stalagmite_Base_1_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 6BF142CA5F3D9B979F4F1BB11DBB1CFDC63185B3), compiling. 
+[2022.08.05-18.56.44:925][595]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:926][595]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Stalagmite_Base_1_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 644FDF43609218A1257213E6CAFD92F7A52243EC), compiling. 
+[2022.08.05-18.56.44:928][595]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:939][596]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skysphere in PCD3D_SM5, Default, SM5 (DDC key hash: F29267A0CB45521F3069A8A36C03AA6016AD5711), compiling. 
+[2022.08.05-18.56.44:944][596]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:945][596]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skysphere in PCD3D_SM5, Default, SM5 (DDC key hash: E86FB8EC6A1321D5CAEFFD9AE4C6358D6E19D9B5), compiling. 
+[2022.08.05-18.56.44:949][596]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:957][597]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_GobletMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A7D1F5903AC4C65DC670B576779FF7BB6CEF2B0), compiling. 
+[2022.08.05-18.56.44:963][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:964][597]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_GobletMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D5B9864BBD245BAC7A3F0B8D4DC92021116FAFDF), compiling. 
+[2022.08.05-18.56.44:967][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:975][598]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_KnifeMat_01_ in PCD3D_SM5, Default, SM5 (DDC key hash: 7736B7A316B214533D08833CAD1243DEC6837C35), compiling. 
+[2022.08.05-18.56.44:980][598]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:981][598]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_KnifeMat_01_ in PCD3D_SM5, Default, SM5 (DDC key hash: FBE5EECCBA3987C5E927E3616E3CC95ACEE243CA), compiling. 
+[2022.08.05-18.56.44:985][598]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.44:995][599]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_PlateMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E3E2F97F372B3492658103F611558B5E9BCA351), compiling. 
+[2022.08.05-18.56.44:999][599]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:000][599]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_PlateMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: B2E6E666ECC53833C772AF98EE4BB77D8F478807), compiling. 
+[2022.08.05-18.56.45:004][599]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:014][600]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_CupMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 37074375DB07284E9FD37F1DFFC0083365CD4FD4), compiling. 
+[2022.08.05-18.56.45:018][600]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:020][600]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_CupMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 099497C50D95548318E11A673AAAEA556B517A11), compiling. 
+[2022.08.05-18.56.45:022][600]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:033][601]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Babypergament in PCD3D_SM5, Default, SM5 (DDC key hash: AA5750B9018B5B983718F48ED684B2C041FFB9ED), compiling. 
+[2022.08.05-18.56.45:038][601]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:039][601]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Babypergament in PCD3D_SM5, Default, SM5 (DDC key hash: 5F44D9B835B8B034CC6D3A49763CC437CFBE5A12), compiling. 
+[2022.08.05-18.56.45:043][601]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:053][602]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather003_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B546DAE646F13123744FE2A349CBE72833014654), compiling. 
+[2022.08.05-18.56.45:057][602]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:058][602]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather003_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A1ACCF6BB7B7BAC97ABDA5A9E9BE805111F87FA), compiling. 
+[2022.08.05-18.56.45:061][602]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:069][603]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Wood077_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: BC67FD7321D917F874AC6F371664D3B9C3E60606), compiling. 
+[2022.08.05-18.56.45:073][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:074][603]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Wood077_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B50DE06501AD52B9B4E8CD766D33F626522A84B4), compiling. 
+[2022.08.05-18.56.45:077][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:078][603]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather033A_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: AE578FF709A9C1ED04C2CB65129F2A955AC62A3F), compiling. 
+[2022.08.05-18.56.45:081][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:082][603]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather033A_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: B716D4B21E010F675D08AD56BEFB9C064108563A), compiling. 
+[2022.08.05-18.56.45:084][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:108][604]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Litfass_ambientCG_Concrete030_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: F1B0B07718114B399DC84D625FB9FEC59DF55A53), compiling. 
+[2022.08.05-18.56.45:111][604]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:112][604]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Litfass_ambientCG_Concrete030_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 967DF82E28C16B7668283DDB261BD6AA4B2FFC46), compiling. 
+[2022.08.05-18.56.45:116][604]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:118][604]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Litfass_ambientCG_Concrete036_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A2F4E1EA609FD3DA315CF397E7BA0B77E9D5002), compiling. 
+[2022.08.05-18.56.45:120][604]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:122][604]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Litfass_ambientCG_Concrete036_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: E0ED72CA6C0341B8820AFE7BF1EBECBD3C8E9BDD), compiling. 
+[2022.08.05-18.56.45:124][604]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:133][605]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Plakat_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AC2CEF79A1731205D47FFD8E2DE5BB00262A49D), compiling. 
+[2022.08.05-18.56.45:138][605]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:139][605]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Plakat_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A2D66A7C08AC388C2C52E23861CD6A6C02535F54), compiling. 
+[2022.08.05-18.56.45:142][605]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:150][606]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_pillarMat in PCD3D_SM5, Default, SM5 (DDC key hash: F59BC8EA97253609793B532E0FDBA9730F25433A), compiling. 
+[2022.08.05-18.56.45:154][606]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:155][606]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_pillarMat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D80C81AF86A9B93DE60E58C05440A82CFB5521), compiling. 
+[2022.08.05-18.56.45:158][606]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:167][607]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather023_2K-PNG_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AB72D864C2FEC63F8F1154336AF36640F68743B), compiling. 
+[2022.08.05-18.56.45:172][607]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:173][607]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather023_2K-PNG_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 640EA0231F894E04E048749307868288E74AF754), compiling. 
+[2022.08.05-18.56.45:176][607]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:184][608]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: DA1BF2F04337FEE9A25564D99E2BDC8C45BB5192), compiling. 
+[2022.08.05-18.56.45:187][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:188][608]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: D5F268E29E330760EEDCC32FE51BBC7A6626B86C), compiling. 
+[2022.08.05-18.56.45:191][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:212][608]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Window01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CD4C96073198C3253F8F221EEE86B62E07B7E83), compiling. 
+[2022.08.05-18.56.45:215][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:217][608]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Window01 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F23CD06F99C7A598CE618FB47216AC11E14F826), compiling. 
+[2022.08.05-18.56.45:221][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:222][608]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Window01 in PCD3D_SM5, Default, SM5 (DDC key hash: B37A3BCFF66B141FF105F6811AB7EE7DB47B3584), compiling. 
+[2022.08.05-18.56.45:226][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:235][609]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Treppensystem_schraeg in PCD3D_SM5, Default, SM5 (DDC key hash: BC77DFD81A6F1048ED4E5A6EC68784F149B7332D), compiling. 
+[2022.08.05-18.56.45:241][609]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:242][609]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Treppensystem_schraeg in PCD3D_SM5, Default, SM5 (DDC key hash: 58F1652B8299206335027A5FA9C74597EB8295FD), compiling. 
+[2022.08.05-18.56.45:246][609]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:254][610]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Treppensystem_schraeg in PCD3D_SM5, Default, SM5 (DDC key hash: CB2BAEB9A41F8CC3483EE7D8200B5725D964E8EB), compiling. 
+[2022.08.05-18.56.45:258][610]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:259][610]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Treppensystem_schraeg in PCD3D_SM5, Default, SM5 (DDC key hash: 94610BD00C0AAD9C4F8C56C30DD614DEEBBAE041), compiling. 
+[2022.08.05-18.56.45:272][611]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Tor in PCD3D_SM5, Default, SM5 (DDC key hash: 7EB6AF66866FD8A645E41F7E3F234E386D29EC22), compiling. 
+[2022.08.05-18.56.45:277][611]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:278][611]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Tor in PCD3D_SM5, Default, SM5 (DDC key hash: 358097C234B2C4517C7065AC3E336515B509BBC5), compiling. 
+[2022.08.05-18.56.45:281][611]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:303][612]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_62 in PCD3D_SM5, Default, SM5 (DDC key hash: E35BF5C046E411C75D33B23A17C961805A7187C5), compiling. 
+[2022.08.05-18.56.45:308][612]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:311][612]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_62 in PCD3D_SM5, Default, SM5 (DDC key hash: 4808DD51D9C7F73BEFB063EC0BFA2BE739DFA58C), compiling. 
+[2022.08.05-18.56.45:315][612]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:328][613]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_60 in PCD3D_SM5, Default, SM5 (DDC key hash: B7B2BA8EBA6634174C4598C0DAD4C3F8B457647D), compiling. 
+[2022.08.05-18.56.45:333][613]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:336][613]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_60 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CE9A59A6F2621DEFAA2D28C3243821C2874D98B), compiling. 
+[2022.08.05-18.56.45:339][613]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:348][614]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Pedestal in PCD3D_SM5, Default, SM5 (DDC key hash: FFB95A07B776D0C25E74914E263CE8C512C7DDE5), compiling. 
+[2022.08.05-18.56.45:352][614]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:353][614]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Pedestal in PCD3D_SM5, Default, SM5 (DDC key hash: DCB12D4CD7BAD58D9FA9C2BB99AF1C5C03614B75), compiling. 
+[2022.08.05-18.56.45:357][614]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:367][615]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Leuchter in PCD3D_SM5, Default, SM5 (DDC key hash: 4EB1756114CFB0528F65776FB4C17C53EC5F6EDD), compiling. 
+[2022.08.05-18.56.45:373][615]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:374][615]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Leuchter in PCD3D_SM5, Default, SM5 (DDC key hash: 8DF9BD5B036A0D14C02380CE27CA5F7C72245598), compiling. 
+[2022.08.05-18.56.45:378][615]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:392][616]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Knochen in PCD3D_SM5, Default, SM5 (DDC key hash: E16C20A1DFFDF97A1F46711B0F2D0F48C788D329), compiling. 
+[2022.08.05-18.56.45:396][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:397][616]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Knochen in PCD3D_SM5, Default, SM5 (DDC key hash: 6683645164CDFEFC548563F66CCFEB36ECB9AC18), compiling. 
+[2022.08.05-18.56.45:402][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:415][617]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_torchMat in PCD3D_SM5, Default, SM5 (DDC key hash: E3443849464887E47DC1EA63E5259AFD36F97071), compiling. 
+[2022.08.05-18.56.45:419][617]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:422][617]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_torchMat in PCD3D_SM5, Default, SM5 (DDC key hash: C67EFC03839120555FC4B55A23D09F41349C6069), compiling. 
+[2022.08.05-18.56.45:426][617]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:438][618]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Box-Material in PCD3D_SM5, Default, SM5 (DDC key hash: BCE84331C1E9993AAC3C9539C7BCCF2BD54586D9), compiling. 
+[2022.08.05-18.56.45:441][618]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:443][618]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Box-Material in PCD3D_SM5, Default, SM5 (DDC key hash: 6DBF0E2CBD0489F4F216BA3A9B070FA2CA4DBB2E), compiling. 
+[2022.08.05-18.56.45:447][618]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:462][619]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_MosaicFloor in PCD3D_SM5, Default, SM5 (DDC key hash: FDB934B1ABAEF21323DB966DBC625AFDB7A713A3), compiling. 
+[2022.08.05-18.56.45:467][619]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:469][619]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_MosaicFloor in PCD3D_SM5, Default, SM5 (DDC key hash: BBA802D53428085178676C92308DC85CF88B77B8), compiling. 
+[2022.08.05-18.56.45:474][619]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:502][620]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather035D_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 35A14A0BB73C5F9B5A1CF31A3D14B62337B969C1), compiling. 
+[2022.08.05-18.56.45:506][620]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:508][620]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather035D_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A334799593F041F89594C4C03085EFAF7A9ED66), compiling. 
+[2022.08.05-18.56.45:512][620]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:555][621]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather035D_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: 69E37845B11972338E265DD79F5668D6AB8C7790), compiling. 
+[2022.08.05-18.56.45:560][621]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:561][621]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather035D_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: DAAA94533FBEFA5EF3BB3BF7DED2CE70C55C818B), compiling. 
+[2022.08.05-18.56.45:565][621]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:606][622]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_ChainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3A426D6A118F47BD41F9854168030863D4AA56AA), compiling. 
+[2022.08.05-18.56.45:611][622]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:613][622]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_ChainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 00E5C7B376394D3BD96774151274DAD4E83D6F19), compiling. 
+[2022.08.05-18.56.45:618][622]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:659][623]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_ChairMetalMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 853C87CD1CC867F13A144A4EDC29BE0543CA5AF0), compiling. 
+[2022.08.05-18.56.45:663][623]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:665][623]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_ChairMetalMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 47BDAF98C0553E4F41DDE0729CDA078DE0F99CED), compiling. 
+[2022.08.05-18.56.45:669][623]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:703][624]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_ChairPolsterMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 27D9A70DD50AB2A82E4F6FEFC6017991BB04889E), compiling. 
+[2022.08.05-18.56.45:708][624]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:710][624]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_ChairPolsterMat_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 01298A2AB2D0F431785F48B2684BCEDE2FB062E5), compiling. 
+[2022.08.05-18.56.45:714][624]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:746][625]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material in PCD3D_SM5, Default, SM5 (DDC key hash: D47E91BA9763CF06917022A7B5FB7A1CF74A7F09), compiling. 
+[2022.08.05-18.56.45:750][625]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:752][625]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material in PCD3D_SM5, Default, SM5 (DDC key hash: C4AD3DEAD424441EF82ADF39F66FBF9E73E830BD), compiling. 
+[2022.08.05-18.56.45:756][625]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:789][626]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather023_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: 4D91D6696A9FF9C0F8E8F72F8BFDF5EAC16DC586), compiling. 
+[2022.08.05-18.56.45:794][626]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:796][626]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather023_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: B6D9F5C18CF53BC4886189EFD3A7B67C514D48B7), compiling. 
+[2022.08.05-18.56.45:800][626]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:835][627]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather023_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: FD37F6230DBBF8822F52E538D402ED2E9FA92F2D), compiling. 
+[2022.08.05-18.56.45:840][627]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:842][627]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather023_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 09A1147512808E5039060522CC7E22EFE2434397), compiling. 
+[2022.08.05-18.56.45:846][627]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:872][628]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 097B742A3243AE4DC165BB7C8B4781F3B055D97E), compiling. 
+[2022.08.05-18.56.45:877][628]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:878][628]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 261F1D8C5E7EFE0C4E86CFE14744753585D689BA), compiling. 
+[2022.08.05-18.56.45:883][628]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:903][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 198
+[2022.08.05-18.56.45:903][629]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:917][629]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Dark_FaireyEmily in PCD3D_SM5, Default, SM5 (DDC key hash: 7915DD6E078FD37BD6DFE3EB27203ACD71AEB330), compiling. 
+[2022.08.05-18.56.45:922][629]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:923][629]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Dark_FaireyEmily in PCD3D_SM5, Default, SM5 (DDC key hash: 801D7FA28F6A6008BFB73108B418E4F9142F7FAC), compiling. 
+[2022.08.05-18.56.45:928][629]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:935][629]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.05-18.56.45:935][629]LogShaderCompilers: Display: Total job queries 408, among them cache hits 89 (21.81%)
+[2022.08.05-18.56.45:935][629]LogShaderCompilers: Display: Tracking 100 distinct input hashes that result in 60 distinct outputs (60.00%)
+[2022.08.05-18.56.45:935][629]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2022.08.05-18.56.45:935][629]LogShaderCompilers: Display: ================================================
+[2022.08.05-18.56.45:963][630]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Lueftungsschacht in PCD3D_SM5, Default, SM5 (DDC key hash: 2204B2774428A1149705F1DF511E758F524F0BE6), compiling. 
+[2022.08.05-18.56.45:968][630]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:969][630]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Lueftungsschacht in PCD3D_SM5, Default, SM5 (DDC key hash: 0DA91900BE84F2C67E07CD925DF8C07B2CD9D1C6), compiling. 
+[2022.08.05-18.56.45:974][630]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.45:985][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 196
+[2022.08.05-18.56.45:985][631]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:039][631]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Building in PCD3D_SM5, Default, SM5 (DDC key hash: C1923F195F3E935212B87D0C8F8B61B634F05DF6), compiling. 
+[2022.08.05-18.56.46:044][631]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:046][631]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Building in PCD3D_SM5, Default, SM5 (DDC key hash: 168489956DBE90D8D13FC699013A537A9D8FD737), compiling. 
+[2022.08.05-18.56.46:052][631]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:132][632]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Schornstein_001 in PCD3D_SM5, Default, SM5 (DDC key hash: CE49F969F46A8A0BE093463A0C0CCF99639A19B5), compiling. 
+[2022.08.05-18.56.46:136][632]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:138][632]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Schornstein_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B0A05478046D1DBC73580394139818D4F5243984), compiling. 
+[2022.08.05-18.56.46:143][632]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:171][633]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Lampen in PCD3D_SM5, Default, SM5 (DDC key hash: 10FD49C1C8E18FA1EC4D7BD8E65B3213B562B3AE), compiling. 
+[2022.08.05-18.56.46:176][633]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:178][633]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Lampen in PCD3D_SM5, Default, SM5 (DDC key hash: B33080A4932E5BB5F8FBB83EB650AB2996F5DA00), compiling. 
+[2022.08.05-18.56.46:184][633]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:233][634]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: EEAB3B1F9B895D3EDDC84121A4FD3A779CF809FC), compiling. 
+[2022.08.05-18.56.46:239][634]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:240][634]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: F73EC821D69935AB32658110FA0513DFF2359C53), compiling. 
+[2022.08.05-18.56.46:245][634]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:274][635]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Froggy in PCD3D_SM5, Default, SM5 (DDC key hash: CB30D8F6FDF5DCCD5BB0B7B122BECE459DA3362B), compiling. 
+[2022.08.05-18.56.46:279][635]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:281][635]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Froggy in PCD3D_SM5, Default, SM5 (DDC key hash: F2CF314488CFC9DC9EA43381490ACE051974CC14), compiling. 
+[2022.08.05-18.56.46:286][635]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:325][636]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal007_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: D0FFE8A50AAF716D50A57AB71E3E19A45082987B), compiling. 
+[2022.08.05-18.56.46:329][636]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:331][636]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal007_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 32DCED93E00B11A8F1EBAB9F59BC169921F5F23C), compiling. 
+[2022.08.05-18.56.46:335][636]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:372][637]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Wood060_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B459D130476B3D673C466E261FEAFB3CA2D0E7B5), compiling. 
+[2022.08.05-18.56.46:376][637]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:377][637]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Wood060_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: AAC76858085293F76ED4B8CB8114103622368C94), compiling. 
+[2022.08.05-18.56.46:382][637]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:408][637]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 214
+[2022.08.05-18.56.46:408][637]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:418][638]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal007_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: F8D762CE78C4BC8DC16225A5A68CB83A863A08D7), compiling. 
+[2022.08.05-18.56.46:422][638]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:424][638]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal007_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 42CC8A74B4CA3FEBA50EE07685931C9ED382794C), compiling. 
+[2022.08.05-18.56.46:428][638]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:457][638]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 208
+[2022.08.05-18.56.46:457][638]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:467][639]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: C0DE90E46295833F9557E682F3A58066848C6C7E), compiling. 
+[2022.08.05-18.56.46:473][639]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: A6E4CE4F25540BC54EBA7B9DE4E53C79D1D487B9), compiling. 
+[2022.08.05-18.56.46:553][640]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 74BCB463E8F1CE0234E2B85B80283E35C2925775), compiling. 
+[2022.08.05-18.56.46:558][640]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:559][640]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 68B5CB60A76C704586AC03CA1CC183B5B95495E4), compiling. 
+[2022.08.05-18.56.46:635][641]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer StPatricksDay in PCD3D_SM5, Default, SM5 (DDC key hash: C03900F7306A79D82F570A613C91B57D55C54123), compiling. 
+[2022.08.05-18.56.46:639][641]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:640][641]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer StPatricksDay in PCD3D_SM5, Default, SM5 (DDC key hash: B2F5BE0BE7211814CA22776CB56C5B8E917CD93A), compiling. 
+[2022.08.05-18.56.46:644][641]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:662][642]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: A4C1848A4483F744A168B2C4C1B6BC29738CE153), compiling. 
+[2022.08.05-18.56.46:668][642]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:669][642]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: F55B19E9515075F713D2B836FA976A128A146CAB), compiling. 
+[2022.08.05-18.56.46:674][642]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:689][643]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal024_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: D947EEA5456954F955A3E359959FB8E11EAEF455), compiling. 
+[2022.08.05-18.56.46:696][643]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:697][643]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal024_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 4C3F09F0CCE90155400D323FB2C7D520EF60747D), compiling. 
+[2022.08.05-18.56.46:702][643]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:716][644]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather004_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: F016C7D74C155EBA4950F880196ED80B8BAA12BA), compiling. 
+[2022.08.05-18.56.46:721][644]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:723][644]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather004_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 8202434622F58B53A4B3E4367D3646CD0DB84789), compiling. 
+[2022.08.05-18.56.46:727][644]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:740][645]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 7DACC1D4642CB68EB4D51716D907DCAA2B72BB77), compiling. 
+[2022.08.05-18.56.46:745][645]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:746][645]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DE8516F5A9C8492B50909E7E5F0D9C06C6366BC), compiling. 
+[2022.08.05-18.56.46:763][646]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Glass1 in PCD3D_SM5, Default, SM5 (DDC key hash: 45DBA59F4FC747782FA470AB74C06FB4ECB87D56), compiling. 
+[2022.08.05-18.56.46:768][646]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:770][646]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Glass1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FA250228B9DAAD169B64DC1D989F7E058905584), compiling. 
+[2022.08.05-18.56.46:774][646]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:785][647]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Train_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CEFBEBAE12BA9C6315053D28C3150B5CE05C6374), compiling. 
+[2022.08.05-18.56.46:791][647]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:792][647]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Train_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D67C63230B50FAA7FADAABA373B200AB55E9BC72), compiling. 
+[2022.08.05-18.56.46:796][647]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:806][648]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Train_03 in PCD3D_SM5, Default, SM5 (DDC key hash: BDEF528B6DE41D43D587A4FEC1C8B3317EA2F1CF), compiling. 
+[2022.08.05-18.56.46:812][648]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:813][648]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Train_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 45E03A190B40BB90375D4BF0D5A2E333DE4FAA5A), compiling. 
+[2022.08.05-18.56.46:818][648]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:826][649]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Train_02 in PCD3D_SM5, Default, SM5 (DDC key hash: C10A358C96D8C8CAD784E43CA5E22E4974B6C067), compiling. 
+[2022.08.05-18.56.46:832][649]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:833][649]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Train_02 in PCD3D_SM5, Default, SM5 (DDC key hash: E5AF4A69188FC9EFBEEE26E0D880E4108FE81B4B), compiling. 
+[2022.08.05-18.56.46:837][649]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:845][650]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal007_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 0483F5468628C3FB81D5CA473A8946511798A165), compiling. 
+[2022.08.05-18.56.46:852][650]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal007_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: B49C4D2E7DF469C61D7E8A9DDAF51D63BFFB5B81), compiling. 
+[2022.08.05-18.56.46:865][651]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Wood060_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 5E5AA277F80B0F8B26F4C7BF027F3B56626B71C1), compiling. 
+[2022.08.05-18.56.46:871][651]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:873][651]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Wood060_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: D92562C0517B91A2FCBDDEC67BB51911D7EB5CEB), compiling. 
+[2022.08.05-18.56.46:878][651]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:888][652]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 7ED959612D0D6E4306C790EFF2ADF03DEFC03A0C), compiling. 
+[2022.08.05-18.56.46:895][652]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 911538F9A294BC000AA09BEE2A2A02BE7A2DE64A), compiling. 
+[2022.08.05-18.56.46:908][653]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer PeggySue in PCD3D_SM5, Default, SM5 (DDC key hash: EF077469E51FA61BB07866D4CAF9B3AE976E672E), compiling. 
+[2022.08.05-18.56.46:915][653]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:916][653]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer PeggySue in PCD3D_SM5, Default, SM5 (DDC key hash: 8A32BB99B2688620CBF4480FE10EF9C4E8B4A8E9), compiling. 
+[2022.08.05-18.56.46:921][653]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:931][654]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Paper_03 in PCD3D_SM5, Default, SM5 (DDC key hash: F9BAEA963D03C6A2E63737E6CFA47BFF8C229F34), compiling. 
+[2022.08.05-18.56.46:936][654]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:937][654]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Paper_03 in PCD3D_SM5, Default, SM5 (DDC key hash: E3461F2D781E32DA412DF0A413641F7680BDF90E), compiling. 
+[2022.08.05-18.56.46:941][654]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:950][655]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Paper_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CF9C6D9E5927AD6C5087120B7C6AA218A600631F), compiling. 
+[2022.08.05-18.56.46:956][655]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:957][655]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Paper_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 278B0B0EAE0D90E0EA2DE5BBD97F4F42F75E07D8), compiling. 
+[2022.08.05-18.56.46:962][655]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:972][656]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Paper_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 33C0F1FD0C36B1E9D1F8CE5DC68E62F2627629D9), compiling. 
+[2022.08.05-18.56.46:977][656]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:979][656]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Paper_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 40CB087AD5B22E137A76E456E2E020EB26439F95), compiling. 
+[2022.08.05-18.56.46:983][656]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.46:996][657]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Buch in PCD3D_SM5, Default, SM5 (DDC key hash: 1C4EFA0E9DDDBCF43FC75E82FE34C4B5711C4C32), compiling. 
+[2022.08.05-18.56.47:002][657]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:003][657]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Buch in PCD3D_SM5, Default, SM5 (DDC key hash: 138C64AF4E70A823178F588A25D118B24C113C95), compiling. 
+[2022.08.05-18.56.47:007][657]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:021][658]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 882B39655983FADC0EDE36AF5CE7F310DCBC8E56), compiling. 
+[2022.08.05-18.56.47:025][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:027][658]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Dolch in PCD3D_SM5, Default, SM5 (DDC key hash: 91997E147EE9F679F7017126225D1953A7C7AA60), compiling. 
+[2022.08.05-18.56.47:030][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:044][659]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_HornsMat in PCD3D_SM5, Default, SM5 (DDC key hash: 8EE16ED2F6065EA9163106A84A98E5CB5D24926B), compiling. 
+[2022.08.05-18.56.47:048][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:050][659]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_HornsMat in PCD3D_SM5, Default, SM5 (DDC key hash: DF73375B8D5414C59FE84E88450B0A009C9ABF38), compiling. 
+[2022.08.05-18.56.47:054][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:067][660]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Absinth in PCD3D_SM5, Default, SM5 (DDC key hash: 6F291CF1995F243D7053E80420EEDB7335DCB8A2), compiling. 
+[2022.08.05-18.56.47:072][660]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:074][660]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Absinth in PCD3D_SM5, Default, SM5 (DDC key hash: E9E7D0A1581C5187C93EC0DA204CF054FDCCB859), compiling. 
+[2022.08.05-18.56.47:077][660]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:088][661]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 777120EE1A74142D5D3D80793B6A1E696995D7C8), compiling. 
+[2022.08.05-18.56.47:095][661]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 6958058F3379DA407242279DF9C12E73D790DF45), compiling. 
+[2022.08.05-18.56.47:109][662]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal024_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B14B8046F38F469433D758DCEB535437805E56C5), compiling. 
+[2022.08.05-18.56.47:114][662]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:116][662]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Metal024_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: E6ECDC10E26FE9CE59581143C99E240F1E2DB726), compiling. 
+[2022.08.05-18.56.47:120][662]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:143][663]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Paper004_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A6EABD1CB53173632A6FA5031FFC2D9A33DD2104), compiling. 
+[2022.08.05-18.56.47:147][663]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:149][663]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Paper004_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A8FCC74E1A0EC7572C388149D087601C90B5E61C), compiling. 
+[2022.08.05-18.56.47:153][663]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:175][664]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather027_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: 351E4BB3858C177FB06131CDDD6935AEBF1DF603), compiling. 
+[2022.08.05-18.56.47:179][664]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.56.47:181][664]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer ambientCG_Leather027_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: EDD2CD78C23316E8EC4D679B8186F5FB23C63136), compiling. 
+[2022.08.05-18.56.47:186][664]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 282
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 272
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 262
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 252
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 242
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 232
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 222
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 212
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 202
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 192
+[2022.08.05-18.57.12:641][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 182
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 152
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 132
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 122
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 92
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.05-18.57.12:642][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-18.57.20:521][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.05-18.58.52:038][908]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.58.52:038][908]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.58.53:790][948]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.58.53:790][948]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.58.55:769][993]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.58.55:769][993]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.58.57:914][ 42]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.58.57:914][ 42]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.58.58:525][ 56]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.58.58:525][ 56]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.00:187][ 94]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.59.00:187][ 94]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.01:146][116]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.01:146][116]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.02:980][158]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.59.02:980][158]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.04:413][191]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.04:413][191]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.08:305][280]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.08:305][280]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.09:037][297]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.59.09:037][297]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.09:742][313]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.09:742][313]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.10:798][337]LightingResults: Warning: SM_MERGED_Hochhaus_v1 Object has overlapping UVs.
+[2022.08.05-18.59.10:798][337]LightingResults: SM_MERGED_Hochhaus_v1 Lightmap UV are overlapping by 2.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.11:452][352]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.11:452][352]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.13:541][400]LightingResults: Warning: SM_MERGED_Bottle_low Object has overlapping UVs.
+[2022.08.05-18.59.13:541][400]LightingResults: SM_MERGED_Bottle_low Lightmap UV are overlapping by 2.1%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.14:558][423]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.14:558][423]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.14:784][428]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.14:784][428]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.16:051][457]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.16:051][457]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.19:197][529]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.19:197][529]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.20:725][564]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.20:725][564]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.21:998][593]LightingResults: Warning: bottle1 Object has overlapping UVs.
+[2022.08.05-18.59.21:998][593]LightingResults: bottle1 Lightmap UV are overlapping by 5.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.24:583][652]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.24:583][652]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.27:557][720]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.27:557][720]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.28:271][736]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.28:271][736]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.29:123][755]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.29:123][755]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.29:655][767]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.29:655][767]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.29:825][771]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.29:825][771]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.29:878][772]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.29:878][772]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.30:606][789]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-18.59.30:606][789]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.31:044][799]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.31:045][799]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.31:261][804]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.31:261][804]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.31:707][814]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.31:707][814]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.32:510][832]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.32:510][832]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.32:594][834]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.32:594][834]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.33:659][858]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-18.59.33:659][858]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.34:094][868]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.34:094][868]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.34:629][880]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.34:629][880]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.35:104][891]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.35:104][891]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.35:379][897]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.35:379][897]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.35:555][901]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.35:555][901]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.36:434][921]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.36:434][921]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.36:525][923]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.36:525][923]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.36:569][924]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.36:569][924]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.36:965][933]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.36:965][933]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.37:481][945]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.37:481][945]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.37:831][953]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.37:831][953]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.38:280][963]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.38:280][963]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.38:644][971]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.38:644][971]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.39:401][988]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.39:401][988]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.39:486][990]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.39:486][990]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.39:710][995]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.39:710][995]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.40:509][ 13]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-18.59.40:509][ 13]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.40:817][ 20]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-18.59.40:817][ 20]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.43:050][ 70]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.43:050][ 70]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.43:178][ 73]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.43:178][ 73]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.44:950][113]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.44:950][113]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.45:452][124]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.45:452][124]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.45:889][134]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.45:889][134]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.46:995][159]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-18.59.46:995][159]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.47:501][170]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.47:501][170]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.48:788][199]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.48:788][199]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.49:677][219]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.49:677][219]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.51:163][253]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-18.59.51:163][253]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.52:026][272]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.52:026][272]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.52:729][288]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.52:729][288]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.53:578][307]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.53:578][307]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.54:428][326]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.54:428][326]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.55:847][358]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-18.59.55:847][358]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.57:134][387]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.57:134][387]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.59:088][431]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-18.59.59:088][431]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-18.59.59:664][444]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-18.59.59:664][444]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.00:698][467]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.00:698][467]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.01:542][486]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.01:542][486]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.02:387][505]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.02:387][505]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.03:260][525]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.03:260][525]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.03:946][540]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.03:946][540]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.04:646][556]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.04:646][556]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.04:877][561]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.04:877][561]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.05:009][564]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.05:009][564]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.05:628][578]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.05:628][578]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.06:078][588]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.06:078][588]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.06:825][605]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.06:826][605]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.07:727][625]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.07:727][625]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.08:249][637]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.08:249][637]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.08:607][645]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.08:607][645]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.09:087][656]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.09:087][656]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.09:489][665]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.09:489][665]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.11:279][705]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.11:279][705]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.13:718][760]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.13:718][760]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.14:547][779]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.14:547][779]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.16:114][814]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.16:114][814]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.19:772][896]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.19:772][896]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.19:911][899]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.19:911][899]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.20:744][918]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.20:744][918]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.21:271][930]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.21:271][930]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.21:985][946]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.21:985][946]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.22:872][966]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-19.00.22:872][966]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.23:010][969]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.23:010][969]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.23:010][969]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.23:010][969]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.23:894][989]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.23:894][989]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.24:690][  7]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.24:690][  7]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.25:582][ 27]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.25:582][ 27]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.26:120][ 39]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.26:120][ 39]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.26:659][ 51]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.26:659][ 51]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.27:814][ 77]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.27:814][ 77]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.28:830][100]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.28:830][100]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.29:768][121]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.29:768][121]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.30:515][138]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.30:515][138]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.31:095][151]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.31:095][151]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.32:020][172]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.32:020][172]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.32:424][181]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.32:424][181]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.32:650][186]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.32:650][186]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.33:003][194]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.33:003][194]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.33:141][197]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.33:141][197]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.34:515][228]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.34:515][228]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.35:271][245]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.35:271][245]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.35:940][260]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.35:940][260]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.36:466][272]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.36:466][272]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.36:690][277]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.36:690][277]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.37:254][290]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.37:254][290]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.37:798][302]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-19.00.37:798][302]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.38:053][308]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.38:053][308]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.38:139][310]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.38:139][310]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.39:423][339]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-19.00.39:423][339]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.39:994][352]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.39:994][352]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.40:219][357]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.40:219][357]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.40:700][368]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.40:700][368]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.41:379][383]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.41:379][383]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.43:017][420]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.00.43:017][420]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.44:074][444]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.44:074][444]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.45:177][469]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.45:177][469]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.46:277][494]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.46:277][494]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.48:262][539]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.48:315][540]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.49:896][576]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.00.49:896][576]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.00.55:760][708]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.00.55:760][708]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.00:135][807]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.00:135][807]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.02:131][852]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-19.01.02:131][852]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.02:259][855]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.02:259][855]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.02:836][868]LightingResults: Warning: Pedestal Object has overlapping UVs.
+[2022.08.05-19.01.02:836][868]LightingResults: Pedestal Lightmap UV are overlapping by 7.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.03:903][892]LightingResults: Warning: bottle1 Object has overlapping UVs.
+[2022.08.05-19.01.03:903][892]LightingResults: bottle1 Lightmap UV are overlapping by 5.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.07:089][964]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.07:089][964]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.08:148][988]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.08:148][988]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.09:214][ 12]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.09:214][ 12]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.10:154][ 33]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.10:154][ 33]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.10:516][ 41]LightingResults: Warning: tierhaut Object has overlapping UVs.
+[2022.08.05-19.01.10:516][ 41]LightingResults: tierhaut Lightmap UV are overlapping by 48.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.10:647][ 44]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.10:647][ 44]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.10:866][ 49]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.10:866][ 49]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.10:910][ 50]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.10:910][ 50]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.11:162][ 56]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.11:162][ 56]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.11:300][ 59]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.11:300][ 59]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.11:784][ 70]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.11:784][ 70]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.11:784][ 70]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.11:784][ 70]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.11:871][ 72]LightingResults: Warning: SM_Babypergament Object has overlapping UVs.
+[2022.08.05-19.01.11:871][ 72]LightingResults: SM_Babypergament Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.12:000][ 75]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.12:000][ 75]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.12:271][ 81]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.12:271][ 81]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.12:359][ 83]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.12:359][ 83]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.12:839][ 94]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.12:839][ 94]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.12:839][ 94]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.12:839][ 94]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.13:115][100]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.13:115][100]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.14:938][141]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.14:938][141]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.16:825][183]LightingResults: Warning: PosterStPatricksDayJan_Textured Object has overlapping UVs.
+[2022.08.05-19.01.16:825][183]LightingResults: PosterStPatricksDayJan_Textured Lightmap UV are overlapping by 4.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.17:274][193]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.17:274][193]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.18:158][213]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.18:158][213]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.18:341][217]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.18:341][217]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.20:050][255]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.20:050][255]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.23:175][325]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.23:175][325]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.24:551][356]LightingResults: Warning: SM_Book_low Object has overlapping UVs.
+[2022.08.05-19.01.24:551][356]LightingResults: SM_Book_low Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.26:392][397]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.26:392][397]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.27:456][421]LightingResults: Warning: SM_Ctulhu_All Object has overlapping UVs.
+[2022.08.05-19.01.27:456][421]LightingResults: SM_Ctulhu_All Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.28:798][451]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.28:798][451]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.30:001][478]LightingResults: Warning: PergamentStorkEmilyJan_Textured Object has overlapping UVs.
+[2022.08.05-19.01.30:001][478]LightingResults: PergamentStorkEmilyJan_Textured Lightmap UV are overlapping by 1.1%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.30:309][485]LightingResults: Warning: pergament Object has overlapping UVs.
+[2022.08.05-19.01.30:309][485]LightingResults: pergament Lightmap UV are overlapping by 42.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.31:278][507]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.31:278][507]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.32:523][535]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.32:523][535]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.32:566][536]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.32:566][536]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.33:055][547]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.33:055][547]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.35:829][610]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.35:829][610]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.36:681][629]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.36:681][629]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.38:151][662]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.38:151][662]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.39:556][694]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.39:556][694]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.40:889][724]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.40:889][724]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.41:913][747]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.41:913][747]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.42:736][766]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.42:736][766]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.44:954][816]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.44:954][816]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.46:013][840]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.46:013][840]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.47:519][874]LightingResults: Warning: candleS Object has overlapping UVs.
+[2022.08.05-19.01.47:519][874]LightingResults: candleS Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.48:724][901]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.48:724][901]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.49:749][924]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.49:749][924]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.52:476][986]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.01.52:476][986]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.57:159][ 92]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.57:159][ 92]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.01.58:293][118]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.01.58:293][118]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.00:218][162]LightingResults: Warning: candleL Object has overlapping UVs.
+[2022.08.05-19.02.00:218][162]LightingResults: candleL Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.02:690][218]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.02:690][218]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.04:636][262]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.04:636][262]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.05:373][279]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.05:373][279]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.06:316][300]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.06:316][300]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.07:104][318]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.07:104][318]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.07:497][327]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.07:497][327]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.08:246][344]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.08:246][344]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.08:850][358]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.08:850][358]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.09:343][369]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.09:343][369]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.10:322][391]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.10:322][391]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.11:019][407]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.11:019][407]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.13:709][468]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.13:709][468]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.13:742][469]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.13:742][469]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.15:179][502]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.15:179][502]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.15:278][504]LightingResults: Warning: bottle2 Object has overlapping UVs.
+[2022.08.05-19.02.15:278][504]LightingResults: bottle2 Lightmap UV are overlapping by 6.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.16:991][543]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.16:991][543]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.18:661][581]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.18:661][581]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.21:332][642]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.21:332][642]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.36:775][995]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.36:775][995]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.46:169][208]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.46:169][208]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.48:009][249]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.48:009][249]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.49:612][285]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.49:612][285]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.53:271][367]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.53:271][367]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.55:089][408]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.55:089][408]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.56:038][429]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.56:038][429]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.56:791][446]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.56:834][447]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.02.57:248][456]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.02.57:248][456]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.01:785][558]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.01:785][558]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.08:988][719]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.08:988][719]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.09:605][733]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.09:658][734]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.10:509][753]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.10:509][753]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.10:595][755]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.10:595][755]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.12:602][800]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.12:602][800]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.13:497][820]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.13:497][820]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.16:140][879]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.16:140][879]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.16:883][896]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.16:883][896]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.03.30:717][209]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.03.30:717][209]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.04.02:698][935]LightingResults: Warning: Nature_Rock_a Object has overlapping UVs.
+[2022.08.05-19.04.02:698][935]LightingResults: Nature_Rock_a Lightmap UV are overlapping by 71.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.05-19.04.10:483][117]Job is a success!
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.070s
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 6.4Mb due to 0.010000 MinBrickError)
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:          0: 6.9% covering 100.0% of volume
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:          1: 91.4% covering 20.7% of volume
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:          2: 1.7% covering 0.0% of volume
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.05-19.04.10:739][118]LogVolumetricLightmapImport:          Jahis_Cave 			 116 bricks 	 100.0% (Persistent Level)
+[2022.08.05-19.04.12:533][118]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:533][118]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:533][118]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 512X512)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 512X512)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 512X512)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 512X512)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 256X256)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 256X256)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 128X128)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 128X128)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_13 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_14 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_15 (OODLE_AutoDXT, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (OODLE_DXT1, 1024X1024)
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: HQ_Lightmap1_16 (OODLE_AutoDXT, 256X256)
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.05-19.04.12:534][118]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (OODLE_DXT1, 256X256)
+[2022.08.05-19.04.12:772][118]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2022.08.05-19.04.12:772][118]Lightmass on LAPTOP-O2FJ456T: 6:51 min total, 2.06 sec importing, 4.43 sec setup, 1:21 min photons, 5:23 min processing, 0 ms extra exporting [1024/1024 mappings]. Threads: 37:41 min total, 22:55 min processing.
+[2022.08.05-19.04.12:789][118]LogStaticLightingSystem: Jahis_Cave_BuiltData storing lightmap data for 1024 meshes in 26 LightmapResourceClusters (39.4 Meshes per cluster).
+[2022.08.05-19.04.12:813][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG.ambientCG_Leather004_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.12:855][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Leather004_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 5F9F4BF8AA25D775011F02ACEE6C9680A9AA3A78), compiling. 
+[2022.08.05-19.04.12:878][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.12:883][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002.Material_002 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.12:885][118]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 9189C642063D3CA1FDA44EF5815D919FEBCD267E), compiling. 
+[2022.08.05-19.04.12:908][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.08.05-19.04.12:908][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.08.05-19.04.12:908][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.08.05-19.04.12:908][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.08.05-19.04.12:908][118]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.08.05-19.04.12:908][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.12:925][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.12:927][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: D6C8100C00D1282E4AED0AE7A5326A03AC0D5613), compiling. 
+[2022.08.05-19.04.12:956][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.12:965][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy.Froggy needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.12:967][118]LogMaterial: Display: Missing cached shadermap for Froggy in PCD3D_SM5, Default, SM5 (DDC key hash: D4ABE1E67C96E8DA77DCA7210CFA19D616E2C116), compiling. 
+[2022.08.05-19.04.12:994][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:003][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001.ambientCG_Metal007_2K-JPG_001 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:005][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Metal007_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A62AC53F61BD1F2001B21B32E392389D124F16B3), compiling. 
+[2022.08.05-19.04.13:032][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:040][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001.ambientCG_Wood060_2K-JPG_001 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:041][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Wood060_2K-JPG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 116087751F1DB922F5930E3C77A2E4633825E9A1), compiling. 
+[2022.08.05-19.04.13:067][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:074][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay.StPatricksDay needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:076][118]LogMaterial: Display: Missing cached shadermap for StPatricksDay in PCD3D_SM5, Default, SM5 (DDC key hash: 711DF2829198F9C483BC5D8265FDC4BD8DE95BF9), compiling. 
+[2022.08.05-19.04.13:104][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:111][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004.Material_004 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:113][118]LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BF524B03C75B39245788F0AF560E6A1FF1CDE57), compiling. 
+[2022.08.05-19.04.13:144][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:151][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG.ambientCG_Metal024_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:152][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Metal024_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 905CD3EF4E87E59EF1314A4EF7743FC14D3E98A5), compiling. 
+[2022.08.05-19.04.13:181][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:190][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG.ambientCG_Metal007_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:192][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Metal007_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: C21B23C80E75F547B3CC7A7DB3BFDD5588D9DAF5), compiling. 
+[2022.08.05-19.04.13:219][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:228][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:230][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 1C419C80E1B6DB04C893916C4DF7647D1C84E2F0), compiling. 
+[2022.08.05-19.04.13:263][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003.Material_003 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:265][118]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: A2B7979C6A86772B8700F7614B7458680666A823), compiling. 
+[2022.08.05-19.04.13:292][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:299][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01.M_Train_01 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:302][118]LogMaterial: Display: Missing cached shadermap for M_Train_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 12FA53A48E0462E9419B7D81E60F82D90B77D0A1), compiling. 
+[2022.08.05-19.04.13:331][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:338][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03.M_Train_03 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:340][118]LogMaterial: Display: Missing cached shadermap for M_Train_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 176A869C8C42BFD51FC4BA567F6099B4D8E75F17), compiling. 
+[2022.08.05-19.04.13:366][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:375][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02.M_Train_02 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:377][118]LogMaterial: Display: Missing cached shadermap for M_Train_02 in PCD3D_SM5, Default, SM5 (DDC key hash: C41B54827287F7E0B2352622E4933C50C4A33F8B), compiling. 
+[2022.08.05-19.04.13:405][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:416][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG.ambientCG_Metal007_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:418][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Metal007_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: 8CF588F5C43E3571E31D314E85AE1D0E51A72EF6), compiling. 
+[2022.08.05-19.04.13:456][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG.ambientCG_Wood060_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:458][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Wood060_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: EAE03B45D10EEF970971539EBE8407384CE64BD8), compiling. 
+[2022.08.05-19.04.13:485][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:496][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:498][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Fabric045_2K-JPG in PCD3D_SM5, Default, SM5 (DDC key hash: F686CCED9CA342A4F7BDB65DD67C68E07804D954), compiling. 
+[2022.08.05-19.04.13:533][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue.PeggySue needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:535][118]LogMaterial: Display: Missing cached shadermap for PeggySue in PCD3D_SM5, Default, SM5 (DDC key hash: 78052A943C95522412226C0F61FFA6088F673FEB), compiling. 
+[2022.08.05-19.04.13:562][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:572][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001.ambientCG_Metal024_2K-PNG_001 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:574][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Metal024_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD1C655E196D39FF82430C0169E99E9A42CB3), compiling. 
+[2022.08.05-19.04.13:602][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:612][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001.ambientCG_Paper004_2K-PNG_001 needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:614][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Paper004_2K-PNG_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 549C7387A22F1AD24DFD7A383DBD177840C77179), compiling. 
+[2022.08.05-19.04.13:640][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.13:647][118]LogMaterial: Display: Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG.ambientCG_Leather027_2K-PNG needed to have new flag set bUsedWithStaticLighting !
+[2022.08.05-19.04.13:649][118]LogMaterial: Display: Missing cached shadermap for ambientCG_Leather027_2K-PNG in PCD3D_SM5, Default, SM5 (DDC key hash: 10D4380237D4C7A211B6B755AF79436A98412858), compiling. 
+[2022.08.05-19.04.13:676][118]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.05-19.04.14:150][118]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2022.08.05-19.04.14:200][118]LogStaticLightingSystem: Illumination: 7:37 min (1.34 sec encoding lightmaps, 179 ms encoding shadowmaps)
+[2022.08.05-19.04.14:200][118]LogStaticLightingSystem: Lightmap texture memory:  23.3 MB (23.3 MB streaming, 0.0 MB non-streaming), 32 textures
+[2022.08.05-19.04.14:200][118]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.08.05-19.04.18:261][118]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.18:262][118]DumpUnbuiltLightIteractions
+[2022.08.05-19.04.18:262][118]Lights with unbuilt interactions: 0
+[2022.08.05-19.04.18:262][118]
+[2022.08.05-19.04.18:262][118]Primitives with unbuilt interactions: 0
+[2022.08.05-19.04.18:914][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.08.05-19.04.18:914][118]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.19:116][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.08.05-19.04.19:116][118]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.19:519][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.08.05-19.04.19:519][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.08.05-19.04.19:519][118]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.20:123][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.08.05-19.04.20:123][118]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 410
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 400
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 390
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 380
+[2022.08.05-19.04.20:526][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.24:573][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 370
+[2022.08.05-19.04.24:573][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.24:573][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 360
+[2022.08.05-19.04.24:573][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.24:573][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 350
+[2022.08.05-19.04.24:573][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.24:976][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 340
+[2022.08.05-19.04.24:976][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.27:854][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 330
+[2022.08.05-19.04.27:854][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.28:689][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 320
+[2022.08.05-19.04.28:689][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.28:689][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 310
+[2022.08.05-19.04.28:689][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.28:898][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 300
+[2022.08.05-19.04.28:898][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.32:129][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 290
+[2022.08.05-19.04.32:129][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.32:533][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 280
+[2022.08.05-19.04.32:533][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.32:533][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 270
+[2022.08.05-19.04.32:533][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.32:936][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 260
+[2022.08.05-19.04.32:936][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.36:178][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 250
+[2022.08.05-19.04.36:178][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.36:178][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 240
+[2022.08.05-19.04.36:178][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.36:581][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 230
+[2022.08.05-19.04.36:581][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.36:985][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 220
+[2022.08.05-19.04.36:985][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.39:808][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2022.08.05-19.04.39:808][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.40:212][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 200
+[2022.08.05-19.04.40:212][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.40:414][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 190
+[2022.08.05-19.04.40:414][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.41:224][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 180
+[2022.08.05-19.04.41:224][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.43:454][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2022.08.05-19.04.43:454][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.44:260][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2022.08.05-19.04.44:260][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.44:462][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 150
+[2022.08.05-19.04.44:462][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.44:880][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 140
+[2022.08.05-19.04.44:880][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.47:752][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 130
+[2022.08.05-19.04.47:752][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.48:171][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 120
+[2022.08.05-19.04.48:171][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.48:171][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2022.08.05-19.04.48:171][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.48:589][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 100
+[2022.08.05-19.04.48:589][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.51:880][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2022.08.05-19.04.51:880][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.52:082][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2022.08.05-19.04.52:082][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.52:082][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2022.08.05-19.04.52:082][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.52:888][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2022.08.05-19.04.52:888][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.55:734][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2022.08.05-19.04.55:734][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.55:935][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2022.08.05-19.04.55:935][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.56:546][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2022.08.05-19.04.56:546][118]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.57:170][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2022.08.05-19.04.57:170][118]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.59:219][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.08.05-19.04.59:219][118]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.59:420][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.08.05-19.04.59:420][118]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.04.59:622][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.08.05-19.04.59:622][118]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.05.00:025][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.08.05-19.05.00:025][118]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.05.00:830][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.08.05-19.05.00:830][118]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.05.00:830][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.08.05-19.05.00:830][118]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.05.01:033][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.08.05-19.05.01:033][118]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.05-19.05.01:508][118]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.05-19.05.01:508][118]LogShaderCompilers: Display: Total job queries 1098, among them cache hits 89 (8.11%)
+[2022.08.05-19.05.01:508][118]LogShaderCompilers: Display: Tracking 902 distinct input hashes that result in 224 distinct outputs (24.83%)
+[2022.08.05-19.05.01:508][118]LogShaderCompilers: Display: RAM used: 1.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2022.08.05-19.05.01:508][118]LogShaderCompilers: Display: ================================================
+[2022.08.05-19.05.01:633][119]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.05-19.05.01:633][119]MapCheck: New page: Jahis_Cave - 05.08.2022, 23:05:01
+[2022.08.05-19.05.01:651][119]MapCheck: Warning: Clouds7 PSysComp has an empty parameter actor reference at index 0 (/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.Clouds7.ParticleSystemComponent0) 
+[2022.08.05-19.05.01:655][119]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 21,717ms to complete.
+[2022.08.05-19.05.10:217][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.08.05-19.05.10:463][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_Auto199969DEF4A8BC0D393AEC5A246C5E5C8.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Scenes/Gate_2_Levels/Jahis_Cave_Auto1.umap'
+[2022.08.05-19.05.10:471][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Gate_2_Levels/Jahis_Cave' took 0.281
+[2022.08.05-19.05.10:471][309]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.281
+[2022.08.05-19.05.10:471][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:481][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG]
+[2022.08.05-19.05.10:481][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG]
+[2022.08.05-19.05.10:492][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Fabric045_2K-JPG_Auto1A01947B7464EB428F985A3AFC843B5C6.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:493][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001] ([1] browsable assets)...
+[2022.08.05-19.05.10:502][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001.ambientCG_Metal007_2K-JPG_001]
+[2022.08.05-19.05.10:502][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001]
+[2022.08.05-19.05.10:512][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal007_2K-JPG_001_Au0EFD020C47149302906351A554EDE86D.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001_Auto1.uasset'
+[2022.08.05-19.05.10:513][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001] ([1] browsable assets)...
+[2022.08.05-19.05.10:524][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001.ambientCG_Wood060_2K-JPG_001]
+[2022.08.05-19.05.10:524][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001]
+[2022.08.05-19.05.10:533][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Wood060_2K-JPG_001_AutA9DD8C9D45AC2C3C440033BEFE1E17E5.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001_Auto1.uasset'
+[2022.08.05-19.05.10:534][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy] ([1] browsable assets)...
+[2022.08.05-19.05.10:545][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy.Froggy]
+[2022.08.05-19.05.10:545][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy]
+[2022.08.05-19.05.10:555][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Froggy_Auto1865CB804475D501D436F42AF00EB7519.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy_Auto1.uasset'
+[2022.08.05-19.05.10:556][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:566][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG]
+[2022.08.05-19.05.10:566][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG]
+[2022.08.05-19.05.10:574][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Fabric045_2K-JPG_Auto12A80D3484BCE2648353921AAAB96B57E.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:575][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:585][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG.ambientCG_Metal007_2K-JPG]
+[2022.08.05-19.05.10:585][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG]
+[2022.08.05-19.05.10:596][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal007_2K-JPG_Auto15B0D98294BCFEC7C3BD40A9605EA2310.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:598][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003] ([1] browsable assets)...
+[2022.08.05-19.05.10:606][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003.Material_003]
+[2022.08.05-19.05.10:606][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003]
+[2022.08.05-19.05.10:616][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Material_003_Auto182FE6E8A43A11DCB11E913B6290B1B5D.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003_Auto1.uasset'
+[2022.08.05-19.05.10:617][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:626][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG.ambientCG_Metal024_2K-JPG]
+[2022.08.05-19.05.10:626][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG]
+[2022.08.05-19.05.10:636][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal024_2K-JPG_Auto10B8EBA7A45F5E900C308169F3FF6A4EA.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:637][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004] ([1] browsable assets)...
+[2022.08.05-19.05.10:646][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004.Material_004]
+[2022.08.05-19.05.10:647][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004]
+[2022.08.05-19.05.10:655][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Material_004_Auto131CE68984D55F2CDD4FD148C75D2D9D6.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004_Auto1.uasset'
+[2022.08.05-19.05.10:656][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay] ([1] browsable assets)...
+[2022.08.05-19.05.10:665][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay.StPatricksDay]
+[2022.08.05-19.05.10:665][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay]
+[2022.08.05-19.05.10:675][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/StPatricksDay_Auto1E9EF0064448C3DC81EF65790C2792213.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay_Auto1.uasset'
+[2022.08.05-19.05.10:676][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:684][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG.ambientCG_Leather004_2K-JPG]
+[2022.08.05-19.05.10:684][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG]
+[2022.08.05-19.05.10:692][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Leather004_2K-JPG_Auto85F736D34332643C2564819532D07EF8.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:693][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002] ([1] browsable assets)...
+[2022.08.05-19.05.10:701][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002.Material_002]
+[2022.08.05-19.05.10:701][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002]
+[2022.08.05-19.05.10:710][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Material_002_Auto1CE2733D6415767D8BDA161BBA812C768.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002_Auto1.uasset'
+[2022.08.05-19.05.10:711][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01] ([1] browsable assets)...
+[2022.08.05-19.05.10:719][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01.M_Train_01]
+[2022.08.05-19.05.10:719][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01]
+[2022.08.05-19.05.10:729][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Train_01_Auto1DFB6EC254E067219AE965AB69CF0BDD0.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01_Auto1.uasset'
+[2022.08.05-19.05.10:730][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02] ([1] browsable assets)...
+[2022.08.05-19.05.10:738][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02.M_Train_02]
+[2022.08.05-19.05.10:738][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02]
+[2022.08.05-19.05.10:749][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Train_02_Auto1B18064B547B8B7A3AB0BE4914A083D16.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02_Auto1.uasset'
+[2022.08.05-19.05.10:749][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03] ([1] browsable assets)...
+[2022.08.05-19.05.10:758][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03.M_Train_03]
+[2022.08.05-19.05.10:758][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03]
+[2022.08.05-19.05.10:766][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Train_03_Auto129481C674E56758D3A1C75A514ACA845.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03_Auto1.uasset'
+[2022.08.05-19.05.10:767][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:776][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG]
+[2022.08.05-19.05.10:776][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG]
+[2022.08.05-19.05.10:784][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Fabric045_2K-JPG_Auto14830CFBC4837D329426CBC92BFC8B466.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:785][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:794][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG.ambientCG_Metal007_2K-JPG]
+[2022.08.05-19.05.10:794][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG]
+[2022.08.05-19.05.10:803][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal007_2K-JPG_Auto14833DF17428B56CF704549BD39E98038.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:804][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG] ([1] browsable assets)...
+[2022.08.05-19.05.10:813][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG.ambientCG_Wood060_2K-JPG]
+[2022.08.05-19.05.10:813][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG]
+[2022.08.05-19.05.10:822][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Wood060_2K-JPG_Auto13D5B8B7B455B2D5FA9A53A985DCC69FF.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG_Auto1.uasset'
+[2022.08.05-19.05.10:823][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue] ([1] browsable assets)...
+[2022.08.05-19.05.10:832][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue.PeggySue]
+[2022.08.05-19.05.10:832][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue]
+[2022.08.05-19.05.10:841][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/PeggySue_Auto1B04CE6DA497E0DBF8E68AEBF9FC56C50.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue_Auto1.uasset'
+[2022.08.05-19.05.10:842][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG] ([1] browsable assets)...
+[2022.08.05-19.05.10:851][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG.ambientCG_Leather027_2K-PNG]
+[2022.08.05-19.05.10:851][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG]
+[2022.08.05-19.05.10:858][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Leather027_2K-PNG_Auto2B2678CE45C3D6938F4243AAC2D2E14A.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG_Auto1.uasset'
+[2022.08.05-19.05.10:859][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001] ([1] browsable assets)...
+[2022.08.05-19.05.10:867][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001.ambientCG_Metal024_2K-PNG_001]
+[2022.08.05-19.05.10:867][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001]
+[2022.08.05-19.05.10:875][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal024_2K-PNG_001_Au928F9D7C47FD9AB008F17EA040474FA1.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001_Auto1.uasset'
+[2022.08.05-19.05.10:876][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001] ([1] browsable assets)...
+[2022.08.05-19.05.10:885][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001.ambientCG_Paper004_2K-PNG_001]
+[2022.08.05-19.05.10:885][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001]
+[2022.08.05-19.05.10:893][309]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Paper004_2K-PNG_001_Au8DDBC0E445049AA0961BA8ACF09D7AA8.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Autosaves/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001_Auto1.uasset'
+[2022.08.05-19.05.10:894][309]LogFileHelpers: Auto-saving content packages took 0.423
+[2022.08.05-19.05.18:051][466]LogSlate: Window 'Message Log' being destroyed
+[2022.08.05-19.05.18:056][466]LogSlate: Window 'Message Log' being destroyed
+[2022.08.05-19.05.23:185][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.05-19.05.23:419][581]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave31CF77E94DDA2E9AC8DB81B7F26F2E2F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-19.05.24:525][581]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataAF4570DB4ADDE4D326E5B0A151DF6B83.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-19.05.24:555][581]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-19.05.24:556][581]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-19.05.24:556][581]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-19.05.25:937][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.05-19.05.29:134][612]LogSlate: Window 'Save Content' being destroyed
+[2022.08.05-19.05.29:171][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Fabric045_2K-JPG1884474849279E995ECFB68541BD68E9.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG.uasset'
+[2022.08.05-19.05.29:178][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Fabric045_2K-JPG766C31E04CCD5A1EE1D0159BF040DF85.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG.uasset'
+[2022.08.05-19.05.29:187][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Fabric045_2K-JPGF56E35274B373092EE37A2BC2F863FB7.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG.uasset'
+[2022.08.05-19.05.29:195][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Leather004_2K-JPG82EF3680435BC01D96FD4DBF11F24540.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG.uasset'
+[2022.08.05-19.05.29:203][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Leather027_2K-PNGFB99E2394A72E095AF4C76832B8D320A.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG.uasset'
+[2022.08.05-19.05.29:211][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal007_2K-JPG9623F49A4A2A39964478008809DCC27A.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG.uasset'
+[2022.08.05-19.05.29:218][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal007_2K-JPGD12AB65A40E53DCC87FE3EAFA423B8B4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG.uasset'
+[2022.08.05-19.05.29:225][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal007_2K-JPG_0016992C9F24AA9FC69E35681A178FF6C36.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001.uasset'
+[2022.08.05-19.05.29:232][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal024_2K-JPGB18522944EB226E1F0C3BFBE03C28C86.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG.uasset'
+[2022.08.05-19.05.29:240][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Metal024_2K-PNG_001811826854D1FB582EDD6589A7522341D.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001.uasset'
+[2022.08.05-19.05.29:256][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Paper004_2K-PNG_00157A537FC49FACD929E7E6EAC1038781B.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001.uasset'
+[2022.08.05-19.05.29:263][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Wood060_2K-JPGBE44B74F499202F7D650768132340FA6.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG.uasset'
+[2022.08.05-19.05.29:271][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/ambientCG_Wood060_2K-JPG_00142AA64134663E960DCCF9CA0091B22E8.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001.uasset'
+[2022.08.05-19.05.29:279][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Froggy36404E36401E189C9FC30A89B1799E7A.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy.uasset'
+[2022.08.05-19.05.29:287][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Train_01E66F43BE4E315070EC2E658420BE13A9.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01.uasset'
+[2022.08.05-19.05.29:293][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Train_02A4B819754149A44A514E94AF17DF4BD3.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02.uasset'
+[2022.08.05-19.05.29:300][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/M_Train_0370CBDCC34F439C9ECECEEBAB0348D7AF.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03.uasset'
+[2022.08.05-19.05.29:307][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Material_0021A6E73314E8407A91E8843B355ED4DF6.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002.uasset'
+[2022.08.05-19.05.29:312][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Material_003B7EA1A3B432211CBD728CF88E35DA5C8.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003.uasset'
+[2022.08.05-19.05.29:318][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Material_0048CAECB27427F68AE50C7DBA0AB68B716.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004.uasset'
+[2022.08.05-19.05.29:324][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/PeggySue1C051B7A44BF72F40EBB36A58006B3DB.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue.uasset'
+[2022.08.05-19.05.29:329][612]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/StPatricksDay3CB0DE814D331E0A7DE62DA1E0EFFB5F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay.uasset'
+[2022.08.05-19.05.29:358][612]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001.ambientCG_Paper004_2K-PNG_001
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001.ambientCG_Metal024_2K-PNG_001
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG.ambientCG_Leather027_2K-PNG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002.Material_002
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG.ambientCG_Leather004_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay.StPatricksDay
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004.Material_004
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG.ambientCG_Metal024_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy.Froggy
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001.ambientCG_Wood060_2K-JPG_001
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001.ambientCG_Metal007_2K-JPG_001
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue.PeggySue
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG.ambientCG_Wood060_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG.ambientCG_Metal007_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03.M_Train_03
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02.M_Train_02
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01.M_Train_01
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003.Material_003
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG.ambientCG_Metal007_2K-JPG
+[2022.08.05-19.05.29:358][612]LogContentValidation: Display: Validating Material /Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG.ambientCG_Fabric045_2K-JPG
