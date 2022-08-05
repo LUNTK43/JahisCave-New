@@ -2026,3 +2026,221 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.05-18.21.58:124][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
 [2022.08.05-18.21.58:124][403]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
 [2022.08.05-18.21.59:446][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.08.05-18.25.28:353][185]LogEditorViewport: Clicking on Actor (LMB): BP_Skull01_C (BP_Skull01)
+[2022.08.05-18.25.28:715][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.25.32:818][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skull01_Schaedel_low)
+[2022.08.05-18.25.34:465][352]LogEditorViewport: Clicking on Actor (LMB): BP_Skull01_C (BP_Skull01)
+[2022.08.05-18.25.37:779][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skull01_Schaedel_low)
+[2022.08.05-18.25.46:760][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.08.05-18.25.47:110][697]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave27CB161848084C489F4BC4BB00AAA040.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.25.48:435][697]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataB8263AAF46D3484BDB8DD78E76B11B35.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.25.48:478][697]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.25.48:478][697]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.25.48:478][697]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.26.32:222][533]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Internal-External/Skulls_Jan/Skull_01/Skull01_Schaedel_low.Skull01_Schaedel_low
+[2022.08.05-18.26.32:716][533]LogRenderer: Reallocating scene render targets to support 1264x868 Format 10 NumSamples 1 (Frame:1).
+[2022.08.05-18.27.10:521][929]LogSlate: Window 'Skull01_Schaedel_low' being destroyed
+[2022.08.05-18.27.10:538][929]LogSlate: Window 'Skull01_Schaedel_low' being destroyed
+[2022.08.05-18.27.10:554][929]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.27.10:554][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.27.18:968][157]LogEditorViewport: Clicking on Actor (LMB): BP_Skull01_C (BP_Skull01)
+[2022.08.05-18.27.30:950][497]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.28.09:084][877]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.28.27:862][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.28.33:767][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.08.05-18.28.34:110][849]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave3913D6D843163A410525E8865E57A34C.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.28.35:375][849]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData40A429D24A47D7F54AB5A1B2002FCCFE.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.28.35:416][849]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.28.35:416][849]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.28.35:416][849]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.28.37:194][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.08.05-18.28.49:866][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.28.55:296][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.08.05-18.28.55:657][582]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave1B16166849C406A499CAE18CA0ECA10F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.28.56:995][582]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataFFBC00EB4CFE87BAE46829ADD2CA7919.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.28.57:033][582]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.28.57:033][582]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.28.57:033][582]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.28.58:496][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.08.05-18.29.21:616][991]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.29.33:245][404]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.29.55:722][940]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.30.29:329][586]LogEditorViewport: Clicking on Actor (LMB): BP_Booklow_C (BP_Booklow)
+[2022.08.05-18.30.30:293][607]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.30.47:998][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.30.59:967][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.05-18.31.00:295][313]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveDA8CD9B34C302A63E09D20A64DEC3602.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.31.01:581][313]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataD2FA9A57403D8B4E0C9E12AFFC53BC58.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.31.01:627][313]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.31.01:627][313]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.31.01:627][313]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.31.02:963][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.08.05-18.31.10:666][489]LogEditorViewport: Clicking on Actor (LMB): BP_Horns_C (BP_Horns)
+[2022.08.05-18.31.54:248][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.08.05-18.31.54:551][904]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave566632AE44057127D378B1AA14664278.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.31.55:785][904]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataB65F1F9C4CEDE36C066B0BA013E4DEF6.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.31.55:828][904]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.31.55:828][904]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.31.55:828][904]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.31.57:231][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.08.05-18.32.05:778][181]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.05-18.32.23:551][596]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.05-18.32.23:564][596]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.05-18.32.25:148][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.08.05-18.32.25:435][628]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveECC9B6CF4B49F7A7EE8895A23A48AE5A.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.32.26:717][628]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataE05D89D24C23667CB7A7D99195DD785C.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.32.26:761][628]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.32.26:761][628]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.32.26:761][628]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.32.28:824][673]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.08.05-18.32.30:471][709]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-18.32.30:520][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.08.05-18.35.01:133][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.05-18.35.03:062][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.08.05-18.35.03:378][264]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave720181DA464022F0AC2BA8BA05F37F03.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.35.04:681][264]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataD64403024F8BC83D28B07FA1B183F125.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.35.04:723][264]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.35.04:724][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.35.04:724][264]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.35.11:168][409]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.35.30:845][877]Cmd: TRANSACTION UNDO
+[2022.08.05-18.35.30:845][877]LogEditorTransaction: Undo Set Rotation
+[2022.08.05-18.36.02:866][706]LogEditorViewport: Clicking on Actor (LMB): BP_Box_C (BP_Box)
+[2022.08.05-18.36.03:764][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.36.18:648][141]LogEditorViewport: Clicking on Actor (LMB): BP_Dagger_C (BP_Dagger)
+[2022.08.05-18.36.26:577][331]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fire_Grd_02)
+[2022.08.05-18.36.27:527][351]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.36.29:226][390]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fire_Grd_02)
+[2022.08.05-18.36.48:718][863]LogEditorViewport: Clicking on Actor (LMB): BP_AbsinthBottle_C (BP_AbsinthBottle)
+[2022.08.05-18.37.17:136][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.05-18.37.17:487][562]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveAD8238434B697F2AE6D88E9E1E80A2A7.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.37.18:814][562]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData32168FFC4B31818272EEE5B850918EC0.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.37.18:865][562]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.37.18:865][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.37.18:865][562]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.37.19:738][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.08.05-18.37.28:817][759]LogSlate: Last resort fallback font was requested. Font: '/Game/UI/ForgetMeKnot-Roman.ForgetMeKnot-Roman', Character: '_ (U+005f)'
+[2022.08.05-18.37.28:835][759]LogSlate: Took 0.016507 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.08.05-18.37.32:102][833]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/InspectionScreen.InspectionScreen
+[2022.08.05-18.37.44:462][ 80]LogSlate: Window 'InspectionScreen' being destroyed
+[2022.08.05-18.37.44:474][ 80]LogSlate: Window 'InspectionScreen' being destroyed
+[2022.08.05-18.37.44:485][ 80]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.37.44:486][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.37.44:518][ 80]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.37.44:519][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.39.55:127][569]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2022.08.05-18.39.55:438][569]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveA182618148DE3BB7889CAC8902C7D607.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.39.56:679][569]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData63E2DD844F950C8666FC44ADE802C7B7.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.39.56:721][569]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.39.56:721][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.39.56:721][569]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.40.00:729][659]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-18.40.00:842][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.08.05-18.45.13:484][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull02.BP_Skull02
+[2022.08.05-18.45.43:628][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Skull02" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull02.uasset" SILENT=true
+[2022.08.05-18.45.43:646][873]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Skull02518300E646E506587A9618ABBC214D4E.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull02.uasset'
+[2022.08.05-18.45.43:682][873]AssetCheck: New page: Asset Save: BP_Skull02
+[2022.08.05-18.45.43:682][873]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Skull02.BP_Skull02
+[2022.08.05-18.45.44:405][890]BlueprintLog: New page: Compile BP_Skull02
+[2022.08.05-18.45.44:689][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.08.05-18.45.46:177][923]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.45.46:190][923]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.45.46:203][923]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.45.46:203][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.45.51:630][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.46.24:974][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Skull01" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull01.uasset" SILENT=true
+[2022.08.05-18.46.24:988][729]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Skull01563A799946C6EBBB4454CFBD62D71B2F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull01.uasset'
+[2022.08.05-18.46.25:014][729]AssetCheck: New page: Asset Save: BP_Skull01
+[2022.08.05-18.46.25:014][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.46.25:840][748]BlueprintLog: New page: Compile BP_Skull01
+[2022.08.05-18.46.25:965][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.08.05-18.46.26:967][770]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.46.26:982][770]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.46.26:995][770]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.46.26:995][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.46.33:327][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Hochhaus.BP_Hochhaus
+[2022.08.05-18.46.51:719][303]LogSlate: Window 'BP_Hochhaus' being destroyed
+[2022.08.05-18.46.51:822][303]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.46.51:823][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.46.51:978][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Hochhaus.BP_Hochhaus
+[2022.08.05-18.46.55:397][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Hochhaus" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Hochhaus.uasset" SILENT=true
+[2022.08.05-18.46.55:414][365]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Hochhaus6B98119E40997655F8AFB594A1268AB1.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Hochhaus.uasset'
+[2022.08.05-18.46.55:435][365]AssetCheck: New page: Asset Save: BP_Hochhaus
+[2022.08.05-18.46.55:435][365]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Hochhaus.BP_Hochhaus
+[2022.08.05-18.46.56:120][381]BlueprintLog: New page: Compile BP_Hochhaus
+[2022.08.05-18.46.56:198][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.08.05-18.46.57:087][401]LogSlate: Window 'BP_Hochhaus' being destroyed
+[2022.08.05-18.46.57:136][401]LogSlate: Window 'BP_Hochhaus' being destroyed
+[2022.08.05-18.46.57:149][401]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.46.57:149][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.47.03:407][514]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Booklow.BP_Booklow
+[2022.08.05-18.47.24:746][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Booklow" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Booklow.uasset" SILENT=true
+[2022.08.05-18.47.24:763][957]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Booklow9CA3D6BD4F76665F0CDD73A7C52B1387.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Booklow.uasset'
+[2022.08.05-18.47.24:788][957]AssetCheck: New page: Asset Save: BP_Booklow
+[2022.08.05-18.47.24:788][957]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Booklow.BP_Booklow
+[2022.08.05-18.47.25:537][975]BlueprintLog: New page: Compile BP_Booklow
+[2022.08.05-18.47.25:618][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.08.05-18.47.26:658][998]LogSlate: Window 'BP_Booklow' being destroyed
+[2022.08.05-18.47.26:670][998]LogSlate: Window 'BP_Booklow' being destroyed
+[2022.08.05-18.47.26:684][998]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.47.26:684][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.47.32:199][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Dagger.BP_Dagger
+[2022.08.05-18.47.50:111][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Dagger" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Dagger.uasset" SILENT=true
+[2022.08.05-18.47.50:126][470]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Dagger9EA19A40487E53AECE2D49829E9A5749.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Dagger.uasset'
+[2022.08.05-18.47.50:147][470]AssetCheck: New page: Asset Save: BP_Dagger
+[2022.08.05-18.47.50:147][470]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Dagger.BP_Dagger
+[2022.08.05-18.47.50:768][485]BlueprintLog: New page: Compile BP_Dagger
+[2022.08.05-18.47.50:870][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.08.05-18.47.51:844][507]LogSlate: Window 'BP_Dagger' being destroyed
+[2022.08.05-18.47.51:866][507]LogSlate: Window 'BP_Dagger' being destroyed
+[2022.08.05-18.47.51:880][507]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.47.51:881][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.48.03:293][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Box.BP_Box
+[2022.08.05-18.48.33:724][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Box" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Box.uasset" SILENT=true
+[2022.08.05-18.48.33:739][407]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Box5C7396FE40C0AFD6CCDFDB8B7FB56878.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Box.uasset'
+[2022.08.05-18.48.33:766][407]AssetCheck: New page: Asset Save: BP_Box
+[2022.08.05-18.48.33:766][407]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Box.BP_Box
+[2022.08.05-18.48.34:601][426]BlueprintLog: New page: Compile BP_Box
+[2022.08.05-18.48.34:709][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.08.05-18.48.35:751][449]LogSlate: Window 'BP_Box' being destroyed
+[2022.08.05-18.48.35:801][449]LogSlate: Window 'BP_Box' being destroyed
+[2022.08.05-18.48.35:815][449]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.48.35:816][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.48.41:214][563]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Horns.BP_Horns
+[2022.08.05-18.49.01:303][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Horns" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Horns.uasset" SILENT=true
+[2022.08.05-18.49.01:321][986]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Horns3B3BD35A483663AD692A8195DB2B0839.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Horns.uasset'
+[2022.08.05-18.49.01:344][986]AssetCheck: New page: Asset Save: BP_Horns
+[2022.08.05-18.49.01:344][986]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Horns.BP_Horns
+[2022.08.05-18.49.02:016][  2]BlueprintLog: New page: Compile BP_Horns
+[2022.08.05-18.49.02:113][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.05-18.49.03:030][ 23]LogSlate: Window 'BP_Horns' being destroyed
+[2022.08.05-18.49.03:045][ 23]LogSlate: Window 'BP_Horns' being destroyed
+[2022.08.05-18.49.03:058][ 23]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.49.03:058][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.49.07:540][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_AbsinthBottle.BP_AbsinthBottle
+[2022.08.05-18.49.18:928][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_AbsinthBottle" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_AbsinthBottle.uasset" SILENT=true
+[2022.08.05-18.49.18:944][351]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_AbsinthBottle8404B7F34DAB2EC4C4D12892999FF3D4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_AbsinthBottle.uasset'
+[2022.08.05-18.49.18:966][351]AssetCheck: New page: Asset Save: BP_AbsinthBottle
+[2022.08.05-18.49.18:966][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_AbsinthBottle.BP_AbsinthBottle
+[2022.08.05-18.49.20:158][378]BlueprintLog: New page: Compile BP_AbsinthBottle
+[2022.08.05-18.49.20:237][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.08.05-18.49.21:113][398]LogSlate: Window 'BP_AbsinthBottle' being destroyed
+[2022.08.05-18.49.21:162][398]LogSlate: Window 'BP_AbsinthBottle' being destroyed
+[2022.08.05-18.49.21:172][398]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.49.21:173][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.49.32:567][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.08.05-18.49.32:858][651]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveFFBA6A0C45D8C2204DFFDEB7705BB6CE.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.49.34:057][651]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData6F67B3D04BC4CD0C9D24AAA863958A38.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.49.34:094][651]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.49.34:094][651]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.49.34:094][651]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.49.34:669][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.08.05-18.49.37:252][713]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-18.49.37:299][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.08.05-18.54.19:197][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.08.05-18.54.19:528][364]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave1E72801C42958B26150478970DDBC3C7.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.54.20:828][364]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData11EE68EA4B13873EE76D2C9BE3843FB3.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.54.20:868][364]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.54.20:868][364]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.54.20:869][364]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.54.21:650][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
