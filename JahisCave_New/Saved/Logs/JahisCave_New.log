@@ -1500,3 +1500,529 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.05-17.49.16:254][803]AssetCheck: New page: Asset Save: multiple assets
 [2022.08.05-17.49.16:254][803]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
 [2022.08.05-17.49.16:255][803]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-17.50.31:340][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PergamentStorkEmilyJan_Textured)
+[2022.08.05-17.50.35:581][433]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-17.50.35:621][433]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-17.50.43:535][576]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Sotkr
+[2022.08.05-17.50.43:554][576]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-17.50.52:211][824]LogContentBrowser: Attempting asset rename: BP_Sotkr -> BP_Stork
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.BP_Stork:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.SKEL_BP_Stork_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.SKEL_BP_Stork_C' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.BP_Stork_C' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.BP_Stork:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.BP_Stork:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:293][824]LogMetaData: Removing '/Game/Blueprints/Items/BP_Stork.BP_Stork:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Items/BP_Sotkr.PackageMetaData'
+[2022.08.05-17.50.52:344][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Stork" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Stork.uasset" SILENT=true
+[2022.08.05-17.50.52:357][824]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Stork60D8AB574390A594D3A68E8CBE1C0423.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Stork.uasset'
+[2022.08.05-17.50.52:492][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.05-17.50.52:512][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.05-17.50.52:519][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.08.05-17.50.52:620][824]AssetCheck: New page: Asset Save: BP_Stork
+[2022.08.05-17.50.52:620][824]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Stork.BP_Stork
+[2022.08.05-17.50.54:793][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Stork.BP_Stork
+[2022.08.05-17.50.55:747][878]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.08.05-17.51.42:969][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Stork" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Stork.uasset" SILENT=true
+[2022.08.05-17.51.42:989][561]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Stork104002494EC09DE739593498D81FDD73.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Stork.uasset'
+[2022.08.05-17.51.43:018][561]AssetCheck: New page: Asset Save: BP_Stork
+[2022.08.05-17.51.43:018][561]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Stork.BP_Stork
+[2022.08.05-17.51.43:782][580]BlueprintLog: New page: Compile BP_Stork
+[2022.08.05-17.51.43:918][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.08.05-17.51.45:347][615]LogSlate: Window 'BP_Stork' being destroyed
+[2022.08.05-17.51.45:358][615]LogSlate: Window 'BP_Stork' being destroyed
+[2022.08.05-17.51.45:388][615]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-17.51.45:389][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-17.51.54:199][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-17.52.41:378][636]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2022.08.05-17.52.41:659][636]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveCBD30E5B4C40B7CA6A0632B3E48DCE67.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-17.52.42:844][636]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData35F2312D4F8827A2AEF663995C2A6A25.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-17.52.42:879][636]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-17.52.42:880][636]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-17.52.42:880][636]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-17.52.44:270][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.08.05-17.52.47:723][779]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-17.52.47:776][779]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.08.05-17.53.30:446][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-17.53.34:518][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.08.05-17.53.34:863][190]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave1A4A79274584A8DB17F5458CAAEF918F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-17.53.36:102][190]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData5F0233E14CB5373A290895B247BF728F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-17.53.36:133][190]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-17.53.36:133][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-17.53.36:133][190]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-17.53.37:408][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.08.05-17.53.39:212][277]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-17.53.39:257][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.05-17.55.11:997][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.08.05-17.55.12:352][704]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave5A24986A42345682365DCAB05C5AB1BE.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-17.55.13:633][704]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData4B4FA0BA4904B3E02AD5B5B29D132ED6.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-17.55.13:670][704]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-17.55.13:671][704]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-17.55.13:671][704]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-17.55.14:418][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.08.05-17.55.33:816][941]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-17.55.33:945][941]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-17.55.43:026][246]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Babypergament2
+[2022.08.05-17.55.43:031][246]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-17.55.44:780][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Babypergament2.BP_Babypergament2
+[2022.08.05-17.56.13:901][928]LogLinker: Warning: [AssetLog] C:\Users\Jul\JahisCave-New\JahisCave_New\Content\Assets\Internal-External\Pergament\Materials\M_Babypergament.uasset: Failed to load '/Game/Meshes/Pergament/Texture/T_Babypergament': Can't find file.
+[2022.08.05-17.56.13:901][928]LogLinker: Warning: [AssetLog] C:\Users\Jul\JahisCave-New\JahisCave_New\Content\Assets\Internal-External\Pergament\Materials\M_Babypergament.uasset: Failed to load '/Game/Meshes/Pergament/Texture/T_Babypergament': Can't find file.
+[2022.08.05-17.56.13:902][928]LogLinker: Warning: [AssetLog] C:\Users\Jul\JahisCave-New\JahisCave_New\Content\Assets\Internal-External\Pergament\Materials\M_Babypergament.uasset: Failed to load '/Game/Meshes/Pergament/Texture/T_Babypergament': Can't find file.
+[2022.08.05-17.56.13:903][928]LogLinker: Warning: [AssetLog] C:\Users\Jul\JahisCave-New\JahisCave_New\Content\Assets\Internal-External\Pergament\Materials\M_Babypergament.uasset: Failed to load '/Game/Meshes/Pergament/Texture/T_Babypergament': Can't find file.
+[2022.08.05-17.56.13:903][928]LoadErrors: Failed to load /Game/Meshes/Pergament/Texture/T_Babypergament.T_Babypergament Referenced by M_Babypergament
+[2022.08.05-17.56.13:903][928]LogLinker: Warning: [AssetLog] C:\Users\Jul\JahisCave-New\JahisCave_New\Content\Assets\Internal-External\Pergament\Materials\M_Babypergament.uasset: Failed to load '/Game/Meshes/Pergament/Texture/T_Babypergament': Can't find file.
+[2022.08.05-17.56.13:903][928]LoadErrors: Failed to load /Game/Meshes/Pergament/Texture/T_Babypergament.T_Babypergament Referenced by MaterialExpressionTextureSample_0
+[2022.08.05-17.56.13:906][928]LogMaterial: Display: Missing cached shadermap for M_Babypergament in PCD3D_SM5, Default, SM5 (DDC key hash: 228204C73B143D6B9ADBBE2C75A22EF00D7DBF09), compiling. 
+[2022.08.05-17.56.13:907][928]LogMaterial: Warning: [AssetLog] C:\Users\Jul\JahisCave-New\JahisCave_New\Content\Assets\Internal-External\Pergament\Materials\M_Babypergament.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.08.05-17.56.13:907][928]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.08.05-17.56.21:776][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Babypergament2" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Babypergament2.uasset" SILENT=true
+[2022.08.05-17.56.21:796][131]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Babypergament2A1B556074A3EC359FB295B93752631DC.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Babypergament2.uasset'
+[2022.08.05-17.56.21:829][131]AssetCheck: New page: Asset Save: BP_Babypergament2
+[2022.08.05-17.56.21:829][131]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Babypergament2.BP_Babypergament2
+[2022.08.05-17.56.22:370][141]BlueprintLog: New page: Compile BP_Babypergament2
+[2022.08.05-17.56.22:468][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.05-17.56.23:589][172]LogSlate: Window 'BP_Babypergament2' being destroyed
+[2022.08.05-17.56.23:602][172]LogSlate: Window 'BP_Babypergament2' being destroyed
+[2022.08.05-17.56.23:614][172]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-17.56.23:614][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-17.56.25:403][215]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fire_Grd_5)
+[2022.08.05-17.56.26:655][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-17.56.28:052][292]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fire_Grd_5)
+[2022.08.05-17.56.56:227][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-17.57.03:042][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.08.05-17.57.03:392][334]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave1430AE904F499FA24AF146A4ACC40FF4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-17.57.04:635][334]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData878F5B9E4DA078E150DE7A9F07DA52B5.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-17.57.04:676][334]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-17.57.04:676][334]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-17.57.04:676][334]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-17.57.05:423][348]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.08.05-17.57.13:080][492]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-17.57.13:126][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.08.05-17.58.29:653][961]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-17.58.29:705][961]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-17.58.37:928][140]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Dagger
+[2022.08.05-17.58.37:931][140]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-17.58.40:435][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Dagger.BP_Dagger
+[2022.08.05-17.59.04:341][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Dagger" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Dagger.uasset" SILENT=true
+[2022.08.05-17.59.04:360][682]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Dagger15D8C29148AA67710F77368C3106CBD4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Dagger.uasset'
+[2022.08.05-17.59.04:394][682]AssetCheck: New page: Asset Save: BP_Dagger
+[2022.08.05-17.59.04:394][682]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Dagger.BP_Dagger
+[2022.08.05-17.59.04:999][695]BlueprintLog: New page: Compile BP_Dagger
+[2022.08.05-17.59.05:164][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.08.05-17.59.06:729][733]LogSlate: Window 'BP_Dagger' being destroyed
+[2022.08.05-17.59.06:741][733]LogSlate: Window 'BP_Dagger' being destroyed
+[2022.08.05-17.59.06:756][733]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-17.59.06:756][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-17.59.18:881][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dolch_low__Pivot_modified_by_Jul_)
+[2022.08.05-17.59.20:213][ 30]Cmd: ACTOR HIDE SELECTED
+[2022.08.05-17.59.32:645][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-17.59.36:829][300]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.36:829][300]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.36:829][300]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.36:829][300]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.36:829][300]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.36:829][300]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.36:847][301]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.37:316][311]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.38:828][344]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.38:828][344]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.38:828][344]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.38:828][344]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.38:828][344]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.38:828][344]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.38:867][345]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.39:400][356]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.42:649][424]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.42:649][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.42:649][424]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.42:649][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.42:650][424]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.42:650][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.42:686][425]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.42:931][430]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.44:144][455]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.44:144][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.44:144][455]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.44:144][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.44:144][455]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.44:144][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.44:181][456]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.44:463][462]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.45:493][484]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.45:493][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.45:493][484]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.45:493][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.45:493][484]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-17.59.45:493][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh' 
+[2022.08.05-17.59.45:520][485]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-17.59.46:097][497]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Dagger_2.StaticMesh)
+[2022.08.05-18.00.08:753][976]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.00.21:316][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.08.05-18.00.21:683][242]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveB04A992C4B42E7842EACDE8A82F0A1C7.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.00.22:922][242]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData12B7061141FE9CAF296F0F9F598873F4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.00.22:963][242]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.00.22:963][242]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.00.22:963][242]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.00.23:820][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.08.05-18.00.44:333][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_low3)
+[2022.08.05-18.00.50:807][543]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-18.00.50:859][543]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-18.00.53:968][600]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Box
+[2022.08.05-18.00.53:970][600]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-18.00.56:346][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Box.BP_Box
+[2022.08.05-18.01.15:263][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Box" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Box.uasset" SILENT=true
+[2022.08.05-18.01.15:278][998]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_BoxAF3EB7ED4FE3E34AB4F0FB9FA97C9163.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Box.uasset'
+[2022.08.05-18.01.15:300][998]AssetCheck: New page: Asset Save: BP_Box
+[2022.08.05-18.01.15:301][998]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Box.BP_Box
+[2022.08.05-18.01.15:826][ 10]BlueprintLog: New page: Compile BP_Box
+[2022.08.05-18.01.15:935][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.08.05-18.01.16:785][ 26]LogSlate: Window 'BP_Box' being destroyed
+[2022.08.05-18.01.16:804][ 26]LogSlate: Window 'BP_Box' being destroyed
+[2022.08.05-18.01.16:817][ 26]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.01.16:817][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.01.38:832][374]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.01.42:075][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_low3)
+[2022.08.05-18.01.44:489][508]LogEditorViewport: Clicking on Actor (LMB): BP_Box_C (BP_Box)
+[2022.08.05-18.01.56:945][784]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.02.01:233][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.08.05-18.02.01:612][937]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave09D2DD354824DFDAF8F2D0976E9FB92D.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.02.02:883][937]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataF6CBAD5648DCCD8BA79DDF9A2D11A0BA.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.02.02:910][937]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.02.02:910][937]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.02.02:910][937]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.02.03:885][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.08.05-18.02.23:751][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Book_low)
+[2022.08.05-18.02.30:566][436]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-18.02.30:630][436]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-18.02.34:500][559]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Booklow
+[2022.08.05-18.02.34:503][559]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-18.02.36:702][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Booklow.BP_Booklow
+[2022.08.05-18.02.56:559][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Booklow" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Booklow.uasset" SILENT=true
+[2022.08.05-18.02.56:579][ 53]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Booklow8380C8244B32BFE0A35B9F806F2F5B73.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Booklow.uasset'
+[2022.08.05-18.02.56:611][ 53]AssetCheck: New page: Asset Save: BP_Booklow
+[2022.08.05-18.02.56:611][ 53]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Booklow.BP_Booklow
+[2022.08.05-18.02.57:056][ 65]BlueprintLog: New page: Compile BP_Booklow
+[2022.08.05-18.02.57:130][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.05-18.02.58:263][ 94]LogSlate: Window 'BP_Booklow' being destroyed
+[2022.08.05-18.02.58:276][ 94]LogSlate: Window 'BP_Booklow' being destroyed
+[2022.08.05-18.02.58:290][ 94]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.02.58:291][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.03.01:960][222]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.03.06:988][422]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.03.06:988][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh' 
+[2022.08.05-18.03.06:989][422]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.03.06:989][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh' 
+[2022.08.05-18.03.06:989][422]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.03.06:989][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh' 
+[2022.08.05-18.03.07:006][423]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh)
+[2022.08.05-18.03.07:066][425]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh)
+[2022.08.05-18.03.08:047][462]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.03.08:047][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh' 
+[2022.08.05-18.03.08:047][462]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.03.08:047][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh' 
+[2022.08.05-18.03.08:047][462]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.03.08:047][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh' 
+[2022.08.05-18.03.08:066][463]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh)
+[2022.08.05-18.03.08:301][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Booklow_2.StaticMesh)
+[2022.08.05-18.03.12:834][657]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.03.14:140][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Book_low)
+[2022.08.05-18.03.16:381][792]LogEditorViewport: Clicking on Actor (LMB): BP_Booklow_C (BP_Booklow)
+[2022.08.05-18.03.21:281][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.03.39:318][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.08.05-18.03.39:658][686]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave01502DF64865A4F11B8141ACBF7E1BA4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.03.40:938][686]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData1C20B3CC498BFE4EDE849F92CF73A067.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.03.40:972][686]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.03.40:972][686]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.03.40:972][686]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.03.42:118][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.08.05-18.04.06:382][924]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-18.04.06:430][924]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-18.04.09:873][ 23]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Horns
+[2022.08.05-18.04.09:877][ 23]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-18.04.11:954][ 85]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Horns.BP_Horns
+[2022.08.05-18.04.32:771][562]BlueprintLog: New page: Compile BP_Horns
+[2022.08.05-18.04.32:878][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.05-18.04.33:527][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Horns" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Horns.uasset" SILENT=true
+[2022.08.05-18.04.33:543][576]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_HornsA1D8709541A8F13F3B70DDA9DA422289.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Horns.uasset'
+[2022.08.05-18.04.33:563][576]AssetCheck: New page: Asset Save: BP_Horns
+[2022.08.05-18.04.33:563][576]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Horns.BP_Horns
+[2022.08.05-18.04.34:851][614]LogSlate: Window 'BP_Horns' being destroyed
+[2022.08.05-18.04.34:862][614]LogSlate: Window 'BP_Horns' being destroyed
+[2022.08.05-18.04.34:877][614]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.04.34:877][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.04.45:719][  7]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.04.45:719][  7]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh' 
+[2022.08.05-18.04.45:719][  7]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.04.45:719][  7]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh' 
+[2022.08.05-18.04.45:719][  7]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.04.45:720][  7]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh' 
+[2022.08.05-18.04.45:734][  8]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh)
+[2022.08.05-18.04.45:904][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Horns_2.StaticMesh)
+[2022.08.05-18.04.50:393][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.04.51:820][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_Horns_with_Chain)
+[2022.08.05-18.04.52:736][277]Cmd: ACTOR HIDE SELECTED
+[2022.08.05-18.04.53:404][304]LogEditorViewport: Clicking on Actor (LMB): BP_Horns_C (BP_Horns)
+[2022.08.05-18.04.58:157][484]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.05.11:350][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.05.19:660][102]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2022.08.05-18.05.20:067][102]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveDE38E099468873C0B333ECB9DF94D82E.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.05.21:315][102]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData74730D364735E7BCEEAAAE93C73790C0.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.05.21:351][102]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.05.21:351][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.05.21:351][102]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.05.22:601][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.08.05-18.05.38:782][281]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-18.05.38:840][281]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-18.05.48:449][475]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_AbsinthBottle
+[2022.08.05-18.05.48:452][475]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-18.05.50:817][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_AbsinthBottle.BP_AbsinthBottle
+[2022.08.05-18.06.15:347][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_AbsinthBottle" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_AbsinthBottle.uasset" SILENT=true
+[2022.08.05-18.06.15:362][902]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_AbsinthBottle3E7EB76D4781D8791BCFBA90D1A9335C.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_AbsinthBottle.uasset'
+[2022.08.05-18.06.15:386][902]AssetCheck: New page: Asset Save: BP_AbsinthBottle
+[2022.08.05-18.06.15:386][902]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_AbsinthBottle.BP_AbsinthBottle
+[2022.08.05-18.06.16:090][917]BlueprintLog: New page: Compile BP_AbsinthBottle
+[2022.08.05-18.06.16:209][917]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2022.08.05-18.06.17:043][932]LogSlate: Window 'BP_AbsinthBottle' being destroyed
+[2022.08.05-18.06.17:063][932]LogSlate: Window 'BP_AbsinthBottle' being destroyed
+[2022.08.05-18.06.17:079][932]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.06.17:079][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.06.48:745][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.08.05-18.06.56:783][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:784][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2022.08.05-18.06.56:784][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.08.05-18.06.56:784][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2022.08.05-18.07.05:376][795]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.07.10:759][976]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.10:759][976]LogEditorTransaction: Undo Rotate Actors
+[2022.08.05-18.07.11:168][988]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.11:168][988]LogEditorTransaction: Undo Rotate Actors
+[2022.08.05-18.07.11:714][  9]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.11:714][  9]LogEditorTransaction: Undo Scale Actors
+[2022.08.05-18.07.12:195][ 31]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.12:195][ 31]LogEditorTransaction: Undo Scale Actors
+[2022.08.05-18.07.13:034][ 64]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.13:034][ 64]LogEditorTransaction: Undo Scale Actors
+[2022.08.05-18.07.15:586][163]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.07.15:586][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh' 
+[2022.08.05-18.07.15:587][163]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.07.15:587][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh' 
+[2022.08.05-18.07.15:587][163]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.07.15:587][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh' 
+[2022.08.05-18.07.15:608][164]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh)
+[2022.08.05-18.07.15:618][164]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh)
+[2022.08.05-18.07.16:485][195]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.07.16:485][195]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh' 
+[2022.08.05-18.07.16:485][195]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.07.16:485][195]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh' 
+[2022.08.05-18.07.16:485][195]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.07.16:485][195]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh' 
+[2022.08.05-18.07.16:502][196]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh)
+[2022.08.05-18.07.16:560][198]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_AbsinthBottle_2.StaticMesh)
+[2022.08.05-18.07.26:529][598]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.26:529][598]LogEditorTransaction: Undo Set Rotation
+[2022.08.05-18.07.36:663][989]Cmd: TRANSACTION UNDO
+[2022.08.05-18.07.36:663][989]LogEditorTransaction: Undo Set Rotation
+[2022.08.05-18.07.40:146][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.07.49:858][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Bottle_low)
+[2022.08.05-18.07.50:840][530]Cmd: ACTOR HIDE SELECTED
+[2022.08.05-18.07.54:918][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.08.05-18.07.55:234][691]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave24E84E2645CB7420BD3451AC81FF7FC4.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.07.56:474][691]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataEEBFE05647DCFF3C49E9A79C38517B3A.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.07.56:509][691]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.07.56:509][691]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.07.56:509][691]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.07.57:349][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.08.05-18.08.24:917][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (prunkbogen4)
+[2022.08.05-18.08.44:836][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair_01_low)
+[2022.08.05-18.08.48:297][373]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-18.08.48:347][373]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-18.08.50:900][441]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Chair
+[2022.08.05-18.08.50:904][441]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-18.08.52:931][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Chair.BP_Chair
+[2022.08.05-18.09.35:110][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chair" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Chair.uasset" SILENT=true
+[2022.08.05-18.09.35:132][637]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_ChairA69FC08C40B0666FDFF80C912308D837.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Chair.uasset'
+[2022.08.05-18.09.35:169][637]AssetCheck: New page: Asset Save: BP_Chair
+[2022.08.05-18.09.35:169][637]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chair.BP_Chair
+[2022.08.05-18.09.35:727][652]BlueprintLog: New page: Compile BP_Chair
+[2022.08.05-18.09.35:835][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.05-18.09.36:619][672]LogSlate: Window 'BP_Chair' being destroyed
+[2022.08.05-18.09.36:630][672]LogSlate: Window 'BP_Chair' being destroyed
+[2022.08.05-18.09.36:643][672]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.09.36:644][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.09.53:682][ 46]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.09.53:682][ 46]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh' 
+[2022.08.05-18.09.53:682][ 46]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.09.53:682][ 46]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh' 
+[2022.08.05-18.09.53:682][ 46]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.09.53:682][ 46]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh' 
+[2022.08.05-18.09.53:702][ 47]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh)
+[2022.08.05-18.09.53:709][ 47]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh)
+[2022.08.05-18.09.54:363][ 72]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.09.54:363][ 72]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh' 
+[2022.08.05-18.09.54:363][ 72]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.09.54:363][ 72]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh' 
+[2022.08.05-18.09.54:363][ 72]LogPhysics: Warning: Scale for /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.08.05-18.09.54:363][ 72]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh' 
+[2022.08.05-18.09.54:379][ 73]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh)
+[2022.08.05-18.09.54:390][ 73]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave:PersistentLevel.BP_Chair_2.StaticMesh)
+[2022.08.05-18.10.00:062][273]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.10.11:652][642]Cmd: TRANSACTION UNDO
+[2022.08.05-18.10.11:652][642]LogEditorTransaction: Undo Set Location
+[2022.08.05-18.10.26:924][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.08.05-18.10.27:241][135]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_CaveFF7443E8440315DFCC5460A1EC29FB26.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.10.28:513][135]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData29DB3BCB4A476A3481672B8B72107C55.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.10.28:548][135]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.10.28:549][135]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.10.28:549][135]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.10.29:421][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.08.05-18.10.55:403][971]LogRenderer: Reallocating scene render targets to support 3792x1720 Format 10 NumSamples 1 (Frame:51067).
+[2022.08.05-18.10.56:249][971]LogClient: High resolution screenshot saved as C:/Users/Jul/JahisCave-New/JahisCave_New/Saved/Screenshots/Windows/HighresScreenshot00003.png
+[2022.08.05-18.11.02:599][ 57]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2022.08.05-18.11.43:391][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Skull02)
+[2022.08.05-18.11.44:277][886]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.11.47:596][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.11.50:735][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.12.09:361][355]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.12.16:359][614]Cmd: DELETE
+[2022.08.05-18.12.16:359][614]Cmd: ACTOR DELETE
+[2022.08.05-18.12.16:407][614]LogEditorActor: Deleted Actor: BP_Skull02_C
+[2022.08.05-18.12.16:499][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.05-18.12.16:515][614]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2022.08.05-18.12.17:498][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull02.BP_Skull02
+[2022.08.05-18.13.10:554][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Skull02" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull02.uasset" SILENT=true
+[2022.08.05-18.13.10:573][281]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Skull02B6A8B8A141E638B54EB53DAC0577DBAE.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull02.uasset'
+[2022.08.05-18.13.10:596][281]AssetCheck: New page: Asset Save: BP_Skull02
+[2022.08.05-18.13.10:596][281]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Skull02.BP_Skull02
+[2022.08.05-18.13.11:245][302]BlueprintLog: New page: Compile BP_Skull02
+[2022.08.05-18.13.11:358][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.08.05-18.13.12:815][345]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.13.12:836][345]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.13.12:836][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.13.12:987][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull02.BP_Skull02
+[2022.08.05-18.13.16:770][430]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.13.16:782][430]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.13.16:804][430]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.13.16:804][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.13.17:800][457]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull02.BP_Skull02
+[2022.08.05-18.13.21:784][551]LogRenderer: Reallocating scene render targets to support 1264x704 Format 10 NumSamples 1 (Frame:1).
+[2022.08.05-18.13.25:499][660]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.13.25:513][660]LogSlate: Window 'BP_Skull02' being destroyed
+[2022.08.05-18.13.25:538][660]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.13.25:539][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.13.30:138][832]LogContentBrowser: Deferred new asset file creation: BP_ItemParent_Child
+[2022.08.05-18.13.30:200][832]LogContentBrowser: Creating deferred item: BP_ItemParent_Child
+[2022.08.05-18.13.34:845][992]LogContentBrowser: Attempting asset rename: BP_ItemParent_Child -> BP_Skull01
+[2022.08.05-18.13.34:848][992]LogContentBrowser: End creating deferred item BP_ItemParent_Child
+[2022.08.05-18.13.36:685][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.14.04:750][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Skull01" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull01.uasset" SILENT=true
+[2022.08.05-18.14.04:772][599]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Skull014DC4FCF9406B3282513AEBB71FEE2C35.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull01.uasset'
+[2022.08.05-18.14.04:802][599]AssetCheck: New page: Asset Save: BP_Skull01
+[2022.08.05-18.14.04:802][599]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.14.05:468][617]BlueprintLog: New page: Compile BP_Skull01
+[2022.08.05-18.14.05:581][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.08.05-18.14.06:663][647]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.14.06:678][647]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.14.06:691][647]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.14.06:691][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.14.32:078][678]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.14.35:372][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Skull02)
+[2022.08.05-18.14.36:566][851]Cmd: ACTOR HIDE SELECTED
+[2022.08.05-18.14.37:306][880]LogEditorViewport: Clicking on Actor (LMB): BP_Skull02_C (BP_Skull02)
+[2022.08.05-18.14.48:501][327]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.14.49:448][362]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.08.05-18.15.22:016][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.08.05-18.15.22:362][387]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave497FACB84F0990991EDC40AC0AAC12C1.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.15.23:677][387]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData092DF4334D83AD6ADA3FFDA1EDA17B87.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.15.23:721][387]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.15.23:722][387]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.15.23:722][387]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.15.24:680][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.08.05-18.15.26:648][454]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-18.15.26:701][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.08.05-18.16.29:025][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Nature_Rock_a20)
+[2022.08.05-18.16.39:469][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.16.43:887][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.16.47:410][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.16.58:498][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skull01_Schaedel_low)
+[2022.08.05-18.16.59:187][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.17.10:479][986]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2022.08.05-18.17.10:893][986]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave71545C284026BD170D24FBB1BB560B1F.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.17.12:262][986]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataCB72C75948E8BE5C6FA91CAFDC9D05DF.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.17.12:292][986]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.17.12:292][986]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.17.12:292][986]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.17.14:260][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.17.19:191][174]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.17.19:219][174]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.17.19:219][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.17.19:367][174]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.17.30:467][457]BlueprintLog: New page: Compile BP_Skull01
+[2022.08.05-18.17.30:574][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.08.05-18.17.31:254][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Skull01" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull01.uasset" SILENT=true
+[2022.08.05-18.17.31:274][473]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_Skull019722A9574FD0809181F2D9BEBFE84312.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Skull01.uasset'
+[2022.08.05-18.17.31:301][473]AssetCheck: New page: Asset Save: BP_Skull01
+[2022.08.05-18.17.31:301][473]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Skull01.BP_Skull01
+[2022.08.05-18.17.32:009][494]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.17.32:019][494]LogSlate: Window 'BP_Skull01' being destroyed
+[2022.08.05-18.17.32:034][494]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.17.32:034][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.17.53:631][344]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.05-18.17.58:264][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skull01_Schaedel_low)
+[2022.08.05-18.18.00:042][587]LogEditorViewport: Clicking on Actor (LMB): BP_Skull01_C (BP_Skull01)
+[2022.08.05-18.18.03:042][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skull01_Schaedel_low)
+[2022.08.05-18.18.03:925][733]Cmd: ACTOR HIDE SELECTED
+[2022.08.05-18.18.06:098][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.08.05-18.18.06:431][823]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave596F63BF488030E476D94FAF7A674237.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.18.07:739][823]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltData7C085C234E2457A039C69998F7D1D0C7.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.18.07:780][823]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.18.07:780][823]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.18.07:780][823]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.18.08:584][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.08.05-18.18.09:920][897]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-18.18.09:976][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.08.05-18.20.20:465][468]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Chair.BP_Chair
+[2022.08.05-18.20.36:417][953]LogSlate: Window 'BP_Chair' being destroyed
+[2022.08.05-18.20.36:440][953]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.20.36:441][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.20.36:571][953]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Chair.BP_Chair
+[2022.08.05-18.20.38:548][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chair" FILE="../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Chair.uasset" SILENT=true
+[2022.08.05-18.20.38:565][991]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/BP_ChairED08FA664A3D28F36377B4BE2705C33D.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Blueprints/Items/BP_Chair.uasset'
+[2022.08.05-18.20.38:599][991]AssetCheck: New page: Asset Save: BP_Chair
+[2022.08.05-18.20.38:599][991]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chair.BP_Chair
+[2022.08.05-18.20.38:998][  2]BlueprintLog: New page: Compile BP_Chair
+[2022.08.05-18.20.39:220][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.08.05-18.20.39:891][ 22]LogSlate: Window 'BP_Chair' being destroyed
+[2022.08.05-18.20.39:903][ 22]LogSlate: Window 'BP_Chair' being destroyed
+[2022.08.05-18.20.39:930][ 22]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-18.20.39:930][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-18.20.41:007][ 59]LogTemp: Repeating last play command: Standalone Game
+[2022.08.05-18.20.41:068][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.08.05-18.20.42:483][ 59]LogSlate: Window 'Save Content' being destroyed
+[2022.08.05-18.20.42:559][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2022.08.05-18.20.42:897][ 59]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave81664E864D2F1BEF58E957AC5C59E42E.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.20.42:914][ 59]LogFileHelpers: Saving map 'Jahis_Cave' took 0.397
+[2022.08.05-18.20.42:950][ 60]AssetCheck: New page: Asset Save: Jahis_Cave
+[2022.08.05-18.20.42:950][ 60]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.21.56:354][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.08.05-18.21.56:703][403]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave6A53A0484736E5A5909A42B83202B3B1.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave.umap'
+[2022.08.05-18.21.58:085][403]LogSavePackage: Moving '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Saved/Jahis_Cave_BuiltDataEFEEB5F148B265985C1DDEA0B5C10357.tmp' to '../../../../../../Users/Jul/JahisCave-New/JahisCave_New/Content/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.uasset'
+[2022.08.05-18.21.58:124][403]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-18.21.58:124][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/Gate_2_Levels/Jahis_Cave_BuiltData.Jahis_Cave_BuiltData
+[2022.08.05-18.21.58:124][403]LogContentValidation: Display: Validating World /Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+[2022.08.05-18.21.59:446][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
