@@ -1,0 +1,148 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AActor;
+struct FKey;
+#ifdef NATIVIZEDASSETS_FirstPersonCharacter__pf205484891_generated_h
+#error "FirstPersonCharacter__pf205484891.generated.h already included, missing '#pragma once' in FirstPersonCharacter__pf205484891.h"
+#endif
+#define NATIVIZEDASSETS_FirstPersonCharacter__pf205484891_generated_h
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_SPARSE_DATA
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__CheckLookAt__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_ResetVR_K2Node_InputActionEvent_4__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_Interact_K2Node_InputActionEvent_3__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_Cancel_K2Node_InputActionEvent_2__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_MainMenu_K2Node_InputActionEvent_1__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_QuitGame_K2Node_InputActionEvent_0__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_LookUp_K2Node_InputAxisEvent_172__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_Turn_K2Node_InputAxisEvent_157__pf);
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__CheckLookAt__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_ResetVR_K2Node_InputActionEvent_4__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_Interact_K2Node_InputActionEvent_3__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_Cancel_K2Node_InputActionEvent_2__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_MainMenu_K2Node_InputActionEvent_1__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_QuitGame_K2Node_InputActionEvent_0__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_LookUp_K2Node_InputAxisEvent_172__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_Turn_K2Node_InputAxisEvent_157__pf);
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_EVENT_PARMS \
+	struct FirstPersonCharacter_C__pf205484891_eventbpf__ReceiveTick__pf_Parms \
+	{ \
+		float bpp__DeltaSeconds__pf; \
+	};
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+ \
+	void eventbpf__ReceiveTick__pf(float bpp__DeltaSeconds__pf); \
+
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAFirstPersonCharacter_C__pf205484891(); \
+	friend struct Z_Construct_UClass_AFirstPersonCharacter_C__pf205484891_Statics; \
+public: \
+	DECLARE_CLASS(AFirstPersonCharacter_C__pf205484891, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/FirstPersonBP/Blueprints/FirstPersonCharacter"), NO_API) \
+	DECLARE_SERIALIZER(AFirstPersonCharacter_C__pf205484891)
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_INCLASS \
+private: \
+	static void StaticRegisterNativesAFirstPersonCharacter_C__pf205484891(); \
+	friend struct Z_Construct_UClass_AFirstPersonCharacter_C__pf205484891_Statics; \
+public: \
+	DECLARE_CLASS(AFirstPersonCharacter_C__pf205484891, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/FirstPersonBP/Blueprints/FirstPersonCharacter"), NO_API) \
+	DECLARE_SERIALIZER(AFirstPersonCharacter_C__pf205484891)
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AFirstPersonCharacter_C__pf205484891(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFirstPersonCharacter_C__pf205484891) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AFirstPersonCharacter_C__pf205484891); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFirstPersonCharacter_C__pf205484891); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AFirstPersonCharacter_C__pf205484891(AFirstPersonCharacter_C__pf205484891&&); \
+	NO_API AFirstPersonCharacter_C__pf205484891(const AFirstPersonCharacter_C__pf205484891&); \
+public:
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AFirstPersonCharacter_C__pf205484891(AFirstPersonCharacter_C__pf205484891&&); \
+	NO_API AFirstPersonCharacter_C__pf205484891(const AFirstPersonCharacter_C__pf205484891&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AFirstPersonCharacter_C__pf205484891); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFirstPersonCharacter_C__pf205484891); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFirstPersonCharacter_C__pf205484891)
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_PRIVATE_PROPERTY_OFFSET
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_18_PROLOG \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_EVENT_PARMS
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_PRIVATE_PROPERTY_OFFSET \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_SPARSE_DATA \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_RPC_WRAPPERS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_CALLBACK_WRAPPERS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_INCLASS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_PRIVATE_PROPERTY_OFFSET \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_SPARSE_DATA \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_CALLBACK_WRAPPERS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_INCLASS_NO_PURE_DECLS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h_22_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class AFirstPersonCharacter_C__pf205484891>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPersonCharacter__pf205484891_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

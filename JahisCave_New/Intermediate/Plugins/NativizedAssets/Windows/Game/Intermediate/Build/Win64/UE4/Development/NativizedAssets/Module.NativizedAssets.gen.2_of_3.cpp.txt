@@ -1,0 +1,68 @@
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Development\NativizedAssets\Definitions.NativizedAssets.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Fire_beam_BP__pf711458173.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Fire_beam_BP__pf711458173.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Components/TimelineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\TimelineComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/CoreUObject/Public/UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Engine/StaticMeshActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StaticMeshActor.generated.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\Fire_beam_BP__pf711458173.generated.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Fire_mesh_BP__pf711458173.gen.cpp
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Fire_mesh_BP__pf711458173.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\Fire_mesh_BP__pf711458173.generated.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Fire_PLight_BP__pf711458173.gen.cpp
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Fire_PLight_BP__pf711458173.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\Fire_PLight_BP__pf711458173.generated.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Fire_PLight_Exp_BP__pf711458173.gen.cpp
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Fire_PLight_Exp_BP__pf711458173.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Particles/ParticleSystemComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ParticleSystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Emitter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ParticleSystemComponent.generated.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\Fire_PLight_Exp_BP__pf711458173.generated.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Fire_skel_vert_BP__pf711458173.gen.cpp
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Fire_skel_vert_BP__pf711458173.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\Fire_skel_vert_BP__pf711458173.generated.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/FirstPerson_AnimBP__pf2002337985.gen.cpp
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/FirstPerson_AnimBP__pf2002337985.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimClassData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Animation/AnimNode_Root.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_Root.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Animation/AnimNode_TransitionResult.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_TransitionResult.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Animation/AnimNode_SequencePlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNode_AssetPlayerBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_AssetPlayerBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_SequencePlayer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/AnimGraphRuntime/Public/AnimNodes/AnimNode_StateResult.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimGraphRuntime\AnimNode_StateResult.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Animation/AnimNode_StateMachine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_StateMachine.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/AnimGraphRuntime/Public/AnimNodes/AnimNode_Slot.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimGraphRuntime\AnimNode_Slot.generated.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\FirstPerson_AnimBP__pf2002337985.generated.h
+C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/FirstPersonCharacter__pf205484891.gen.cpp
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/FirstPersonCharacter__pf205484891.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets\Public\Interact_Interface__pf205484891.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\Interact_Interface__pf205484891.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+C:\Users\Jul\JahisCave-New\JahisCave_New\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\FirstPersonCharacter__pf205484891.generated.h

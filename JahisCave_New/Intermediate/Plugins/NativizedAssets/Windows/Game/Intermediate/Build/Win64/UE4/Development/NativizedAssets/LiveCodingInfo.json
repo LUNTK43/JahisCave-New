@@ -1,0 +1,85 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NativizedAssets.1_of_4.cpp.obj": [
+			"Blueprint_CeilingLight__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Explosion__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Fire__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Smoke__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Sparks__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Steam__pf1079297466.cpp.obj",
+			"Blueprint_WallSconce__pf1079297466.cpp.obj",
+			"BP_ItemParent__pf476478934.cpp.obj",
+			"BP_LakeWater__pf1878835236.cpp.obj",
+			"BP_LightStudio__pf1079297466.cpp.obj"
+		],
+		"Module.NativizedAssets.2_of_4.cpp.obj": [
+			"BP_OceanWater__pf1743059703.cpp.obj",
+			"BP_Sky_Sphere__pf1379775596.cpp.obj",
+			"BP_TranslucentWater__pf401702993.cpp.obj",
+			"Credits__pf608494304.cpp.obj",
+			"Fire_beam_BP__pf711458173.cpp.obj",
+			"Fire_mesh_BP__pf711458173.cpp.obj",
+			"Fire_PLight_BP__pf711458173.cpp.obj",
+			"Fire_PLight_Exp_BP__pf711458173.cpp.obj"
+		],
+		"Module.NativizedAssets.3_of_4.cpp.obj": [
+			"Fire_skel_vert_BP__pf711458173.cpp.obj",
+			"FirstPerson_AnimBP__pf2002337985.cpp.obj",
+			"FirstPersonCharacter__pf205484891.cpp.obj",
+			"FirstPersonGameMode__pf205484891.cpp.obj",
+			"FirstPersonHUD__pf205484891.cpp.obj",
+			"FirstPersonProjectile__pf205484891.cpp.obj",
+			"HeadsUpDisplay__pf1489439355.cpp.obj",
+			"InspectionScreen__pf1489439355.cpp.obj"
+		],
+		"Module.NativizedAssets.4_of_4.cpp.obj": [
+			"InspectionScreen_Backup__pf1489439355.cpp.obj",
+			"MagicLeapARPinInfoActor__pf2635949152.cpp.obj",
+			"MainMenu__pf608494304.cpp.obj",
+			"NativizedAssets.cpp.obj",
+			"NativizedAssets_Dependencies.cpp.obj",
+			"Text_count__pf711458173.cpp.obj",
+			"Transition__pf4069104048.cpp.obj"
+		],
+		"Module.NativizedAssets.gen.1_of_3.cpp.obj": [
+			"Blueprint_CeilingLight__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Explosion__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Fire__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Smoke__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Sparks__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Steam__pf1079297466.gen.cpp.obj",
+			"Blueprint_WallSconce__pf1079297466.gen.cpp.obj",
+			"BP_ItemParent__pf476478934.gen.cpp.obj",
+			"BP_LakeWater__pf1878835236.gen.cpp.obj",
+			"BP_LightStudio__pf1079297466.gen.cpp.obj",
+			"BP_OceanWater__pf1743059703.gen.cpp.obj",
+			"BP_Sky_Sphere__pf1379775596.gen.cpp.obj",
+			"BP_TranslucentWater__pf401702993.gen.cpp.obj",
+			"Credits__pf608494304.gen.cpp.obj"
+		],
+		"Module.NativizedAssets.gen.2_of_3.cpp.obj": [
+			"Fire_beam_BP__pf711458173.gen.cpp.obj",
+			"Fire_mesh_BP__pf711458173.gen.cpp.obj",
+			"Fire_PLight_BP__pf711458173.gen.cpp.obj",
+			"Fire_PLight_Exp_BP__pf711458173.gen.cpp.obj",
+			"Fire_skel_vert_BP__pf711458173.gen.cpp.obj",
+			"FirstPerson_AnimBP__pf2002337985.gen.cpp.obj",
+			"FirstPersonCharacter__pf205484891.gen.cpp.obj"
+		],
+		"Module.NativizedAssets.gen.3_of_3.cpp.obj": [
+			"FirstPersonGameMode__pf205484891.gen.cpp.obj",
+			"FirstPersonHUD__pf205484891.gen.cpp.obj",
+			"FirstPersonProjectile__pf205484891.gen.cpp.obj",
+			"HeadsUpDisplay__pf1489439355.gen.cpp.obj",
+			"InspectionScreen__pf1489439355.gen.cpp.obj",
+			"InspectionScreen_Backup__pf1489439355.gen.cpp.obj",
+			"Interact_Interface__pf205484891.gen.cpp.obj",
+			"MagicLeapARPinInfoActor__pf2635949152.gen.cpp.obj",
+			"MainMenu__pf608494304.gen.cpp.obj",
+			"NativizedAssets.init.gen.cpp.obj",
+			"Text_count__pf711458173.gen.cpp.obj",
+			"Transition__pf4069104048.gen.cpp.obj"
+		]
+	}
+}

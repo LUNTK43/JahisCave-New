@@ -17,7 +17,7 @@ Windows.Engine:AssetRegistry:bFilterSearchableNames:0=true
 Windows.Engine:Core.System:LegacyBulkDataOffsets:0=False
 Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=False
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Scenes/Gate_2_Levels/MainMenuLevel.MainMenuLevel
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
@@ -56,8 +56,8 @@ Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
 Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
 Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
-Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Scenes/Gate_2_Levels/Jahis_Cave.Jahis_Cave
+Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Scenes/Gate_2_Levels/MainMenuLevel.MainMenuLevel
+Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Scenes/Gate_2_Levels/MainMenuLevel.MainMenuLevel
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
 Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
@@ -194,9 +194,15 @@ Engine:CoreUObject.Metadata:MetadataRedirects:9=(OldKey="MenuCategory", NewKey="
 Engine:CoreUObject.Metadata:MetadataRedirects:10=(OldKey="ArrayPointerParm", NewKey="TargetArrayParm")
 Engine:CoreUObject.Metadata:MetadataRedirects:11=(OldKey="FriendlyName", NewKey="DisplayName")
 Engine:/Script/Engine.UserInterfaceSettings:UIScaleRule:0=ShortestSide
-Engine:/Script/Engine.UserInterfaceSettings:UIScaleCurve:0=(EditorCurveData=(Keys=((Time=480,Value=0.444),(Time=720,Value=0.666),(Time=1080,Value=1.0),(Time=8640,Value=8.0))),ExternalCurve=None)
+Engine:/Script/Engine.UserInterfaceSettings:UIScaleCurve:0=(EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000)),DefaultValue=340282346638528859811704183484516925440.000000,PreInfinityExtrap=RCCE_Constant,PostInfinityExtrap=RCCE_Constant),ExternalCurve=None)
 Engine:/Script/Engine.UserInterfaceSettings:bLoadWidgetsOnDedicatedServer:0=True
 Engine:/Script/Engine.UserInterfaceSettings:bAllowHighDPIInGameMode:0=False
+Engine:/Script/Engine.UserInterfaceSettings:RenderFocusRule:0=NavigationOnly
+Engine:/Script/Engine.UserInterfaceSettings:HardwareCursors:0=()
+Engine:/Script/Engine.UserInterfaceSettings:SoftwareCursors:0=((Default, None))
+Engine:/Script/Engine.UserInterfaceSettings:ApplicationScale:0=1.000000
+Engine:/Script/Engine.UserInterfaceSettings:CustomScalingRuleClass:0=None
+Engine:/Script/Engine.UserInterfaceSettings:DesignScreenSize:0=(X=1920,Y=1080)
 Engine:/Script/Engine.GameEngine:MaxDeltaTime:0=0
 Engine:/Script/Engine.GameEngine:ServerFlushLogInterval:0=30
 Engine:/Script/Engine.StreamingSettings:s.MinBulkDataSizeForAsyncLoading:0=131072
@@ -278,11 +284,14 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
+Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
 Engine:LogFiles:LogTimes:0=True
 Engine:Kismet:AllowDerivedBlueprints:0=true
+Engine:Kismet:CompileDisplaysTextBackend:0=false
+Engine:Kismet:CompileDisplaysBinaryBackend:0=false
 Engine:Kismet:bTurnOffEditorConstructionScript:0=false
 Engine:Kismet:bUseLocalGraphVariables:0=false
 Engine:Kismet:bPersistentUberGraphFrame:0=true
@@ -512,10 +521,9 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerfor
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Jul/Documents/Jahis Cave Build/4")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Jul/Documents/Jahis Cave Build/Jahis Cave Build_v12")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=False
@@ -552,6 +560,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Inclusive
 Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
 Game:/Script/Engine.GameNetworkManager:MaxDynamicBandwidth:0=7000
@@ -596,7 +605,6 @@ Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0="https//www.artstation.com/jahiscave/profile"
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=671E8337428EB408E313D9B7477B7CC8
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectDisplayedTitle:0=NSLOCTEXT("[/Script/EngineSettings]", "93C4EE40441B5F755A23F587E902B23B", "Jahi\'s Cave")
 Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
 Game:/Script/Engine.PlayerController:InputRollScale:0=1.0
@@ -706,7 +714,20 @@ Editor:BlueprintSearchSettings:bDisableThreadedIndexing:0=false
 Editor:BlueprintSearchSettings:bEnableCsvStatsProfiling:0=false
 Editor:BlueprintSearchSettings:bEnableDeveloperMenuTools:0=false
 Editor:BlueprintSearchSettings:bDisableSearchResultTemplates:0=false
+Editor:BlueprintNativizationSettings:bUseStaticVariablesInClasses:0=true
+Editor:BlueprintNativizationSettings:bSkipUFUNCTION:0=false
+Editor:BlueprintNativizationSettings:bUsePRAGMA_DISABLE_OPTIMIZATION:0=false
+Editor:BlueprintNativizationSettings:bDontNativizeDataOnlyBP:0=true
 Editor:BlueprintNativizationSettings:bUseLocalEventGraphVariables:0=true
+Editor:BlueprintNativizationSettings:bNativizeAnimBPOnlyWhenNonReducibleFuncitons:0=false
+Editor:BlueprintNativizationSettings:ClassesWithStaticSearchableValues:0=/Script/GameplayAbilities.GameplayCueNotify_Actor
+Editor:BlueprintNativizationSettings:ClassesWithStaticSearchableValues:1=/Script/GameplayAbilities.GameplayCueNotify_Static
+Editor:BlueprintNativizationSettings:StaticSearchableTagNames:0=GameplayCueName
+Editor:BlueprintNativizationSettings:ExcludedAssetTypes:0=/Script/ControlRig.ControlRig
+Editor:BlueprintNativizationSettings:ExcludedAssets:0=/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface
+Editor:BlueprintNativizationSettings:ExcludedAssets:1=/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter
+Editor:BlueprintNativizationSettings:ExcludedAssets:2=/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint
+Editor:BlueprintNativizationSettings:ExcludedFolderPaths:0=/MediaFrameworkUtilities
 Editor:/Script/UnrealEd.BlueprintEditorProjectSettings:bValidateUnloadedSoftActorReferences:0=true
 Editor:/Script/DataValidation.DataValidationManager:bValidateOnSave:0=true
 Editor:/Script/UnrealEd.DiffAssetRegistriesCommandlet:P4EngineBasePath:0=/Engine/Content/

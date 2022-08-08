@@ -42,12 +42,9 @@
 			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
 			"Assets": [
 				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
-				"/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02",
 				"/Game/Assets/Internal-External/Buch/Material/M_Buch",
-				"/Game/Assets/Internal-External/Pergament_Em/Material/M_Material_002",
 				"/Game/Assets/Internal-External/Bottle/Absinth",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002"
+				"/Game/Assets/Internal-External/Pergament_Em/Material/M_Material_002"
 			]
 		},
 		{
@@ -212,6 +209,7 @@
 			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Assets/Internal-External/Bottle/Materials/Material_004",
 				"/Game/Assets/Internal-External/Treppensystem_Julian/Schraeg/Treppensystem_Bogen",
 				"/Game/Assets/Internal-External/Treppensystem_Julian/Dreieck/Treppensystem_Bogen_002",
 				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle1/Materials/Material_001",
@@ -219,9 +217,7 @@
 				"/Game/Assets/Internal-External/Chair/Material/Base(Blender)/Polster",
 				"/Game/Assets/Internal-External/Chair/Material/Base(Blender)/Metall",
 				"/Game/Assets/Internal-External/Bottle/Materials/Material_007",
-				"/Game/Assets/Internal-External/Bottle/Materials/Material_004",
-				"/Game/Assets/Internal-External/Bottle/Material_004",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004"
+				"/Game/Assets/Internal-External/Bottle/Material_004"
 			]
 		},
 		{
@@ -297,274 +293,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A292DBAF674C3979D820024683CDD0CA1CB555D0",
-			"Assets": [
-				"/Game/WaterPlane/Lake/Materials/M_LakeWater_01"
-			]
-		},
-		{
-			"ShaderMapHash": "000FA9ABDD5BCFDE0E7B827F20D206074D2A1819",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
-			]
-		},
-		{
-			"ShaderMapHash": "208872FCEEAEE1DB9DDEFF7AACE0524BF73615B5",
-			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Sequence_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "AD1468C654E380220BD35AB6D727EA81D378718C",
-			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Basic_Emi_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "6C196320976206EDA60EE4CED38B22E56ABDAB1F",
-			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Distortion_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B77868C31AB0679E8993C9F3D36B257A449D2EFB",
-			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Smoke1_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B43F7F617A1D5D242B514AE233D5820894532163",
-			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Single_Disort_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "CD59C502F077C296B5B8DDD1806E76D4F5DFB08A",
-			"Assets": [
-				"/Game/Assets/Internal-External/Skulls_Jan/Skull_02/M_Skull02_Schaedel",
-				"/Game/Assets/Internal-External/Skulls_Jan/Skull_02/M_Skull02_Geweih",
-				"/Game/Assets/Internal-External/Skulls_Jan/Skull_02/M_Skull02_Chain",
-				"/Game/Assets/Internal-External/Skulls_Jan/Skull_01/M_Skull01_Schaedel",
-				"/Game/Assets/Internal-External/Skulls_Jan/Skull_01/M_Skull01_Geweih",
-				"/Game/Assets/Internal-External/Skulls_Jan/Skull_01/M_Skull01_Eye",
-				"/Game/Assets/Internal-External/Box_Pascal/M_BoxPascal"
-			]
-		},
-		{
-			"ShaderMapHash": "FCB1FF9DAAEAB524464C8273B416FEC160EBAF83",
-			"Assets": [
-				"/Game/Assets/Internal-External/Litfass/Materials/M_Litfass_ambientCG_Concrete036_2K-JPG_001"
-			]
-		},
-		{
-			"ShaderMapHash": "D73D70C693CD1B32A9695E703BA4C1200D02ECC9",
-			"Assets": [
-				"/Game/Assets/Internal-External/Litfass/Materials/M_Litfass_ambientCG_Concrete030_2K-JPG"
-			]
-		},
-		{
-			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
-			"Assets": [
-				"/Game/Assets/Internal-External/Litfass/Materials/M_Plakat_001",
-				"/Game/Assets/Internal-External/Pergament_Jan/Materials/M_Babypergament",
-				"/Game/Assets/Internal-External/Dark_Fairy_Pergament/Dark_FaireyEmily"
-			]
-		},
-		{
-			"ShaderMapHash": "A583FF5223E6E578140E9E2CA82A0E993DB5A91F",
-			"Assets": [
-				"/Game/StarterContent/M_Invisible-Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "71AAD1F081A5E4E0D4B21F5A0DFE49F6562A79BA",
-			"Assets": [
-				"/Game/Assets/Megascans/Materials/MM_Megascan_rocks"
-			]
-		},
-		{
-			"ShaderMapHash": "418CDDF0638B667D9AAB93DFC446E8A06B84E58C",
-			"Assets": [
-				"/Game/Assets/Landscape_Material/Landscapemateial"
-			]
-		},
-		{
-			"ShaderMapHash": "4C739E3AC3D4776D9FB6958401A39E1CBD19B055",
-			"Assets": [
-				"/Game/HDRI/M_Skysphere"
-			]
-		},
-		{
-			"ShaderMapHash": "21C843572E3EFCCE56E5179817695E0E71A88D57",
-			"Assets": [
-				"/Game/Assets/Internal-External/Window_01/M_Window01"
-			]
-		},
-		{
-			"ShaderMapHash": "A6F06C7DA0B44916BF299397194EA8A6840005CB",
-			"Assets": [
-				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Wand-Elemente/M_Waende",
-				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Säulen-Elemente/M_Saeulen",
-				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Portal/M_Portal",
-				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Einbuchtungs-Elemente/M_Einbuchtungselemente",
-				"/Game/Assets/Internal-External/Säulenelemente/M_Saeulenelemente",
-				"/Game/Assets/Internal-External/Treppensystem_Julian/Schraeg/Treppensystem_schraeg",
-				"/Game/Assets/Internal-External/Treppensystem_Julian/Gerade/Treppensystem_schraeg",
-				"/Game/Assets/Internal-External/Kronleuchter_Julian/Leuchter",
-				"/Game/Assets/Internal-External/Kronleuchter_Julian/Knochen",
-				"/Game/Assets/Internal-External/Portal_Julian/M_Tor",
-				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Single_Items/M_Schornstein_001",
-				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Single_Items/M_Lampen"
-			]
-		},
-		{
-			"ShaderMapHash": "7FBCE21E8AA9AD9603D29A0A2E3915D6715536A5",
-			"Assets": [
-				"/Game/Assets/Internal-External/Tierhaut/Materials/ambientCG_Wood077_2K-PNG_001",
-				"/Game/Assets/Internal-External/Tierhaut/Materials/ambientCG_Leather003_2K-PNG_001"
-			]
-		},
-		{
-			"ShaderMapHash": "ADA860ED0FBC798580EE227CA24CC02B5B124F17",
-			"Assets": [
-				"/Game/Assets/Internal-External/Tierhaut/Materials/ambientCG_Leather033A_2K-PNG"
-			]
-		},
-		{
-			"ShaderMapHash": "9C8B146382AD60DEBC8072654D0C8A305B53E418",
-			"Assets": [
-				"/Game/Assets/Internal-External/Stalagmiten_External/Stalagmite_Base_1_003"
-			]
-		},
-		{
-			"ShaderMapHash": "07CE5AC484E8127B5026A83C554BB2F89A091F9A",
-			"Assets": [
-				"/Game/Assets/Internal-External/Torch_Domi/M_torchMat"
-			]
-		},
-		{
-			"ShaderMapHash": "0DD8E7F8CAA83681C8D6C29B84D39C3B52D58412",
-			"Assets": [
-				"/Game/Assets/Internal-External/Pedestal_Pascal/M_Pedestal"
-			]
-		},
-		{
-			"ShaderMapHash": "13AAEF5DB8DCD8C1D6C3DA302745A87EE1771B6C",
-			"Assets": [
-				"/Game/Assets/Internal-External/Mosaic-Floor_Emily/M_MosaicFloor"
-			]
-		},
-		{
-			"ShaderMapHash": "2A9EF3F35958C09303C5FFC55ABE8BED8BF8E726",
-			"Assets": [
-				"/Game/Assets/Internal-External/Knive/M_KnifeMat_01_",
-				"/Game/Assets/Internal-External/Plates/Material/M_PlateMat_01",
-				"/Game/Assets/Internal-External/Cup/Material/M_CupMat_01",
-				"/Game/Assets/Internal-External/Chair/Material/M_ChairPolsterMat_01",
-				"/Game/Assets/Internal-External/Chair/Material/M_ChairMetalMat_01",
-				"/Game/Assets/Internal-External/Chains/Material/M_ChainMat",
-				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Lueftungsschacht/M_Lueftungsschacht",
-				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Building/M_Building",
-				"/Game/Assets/Internal-External/Goblet/Material/M_GobletMat_01"
-			]
-		},
-		{
-			"ShaderMapHash": "1F65D7D621B246212C0481F9D280DD7A685F70D3",
-			"Assets": [
-				"/Game/Assets/Internal-External/Reaper/M_CleaverKoerper",
-				"/Game/Assets/Internal-External/Reaper/M_CleaverAusruestung",
-				"/Game/Assets/Internal-External/Pillar_Domi/Materials/M_pillarMat"
-			]
-		},
-		{
-			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
-			"Assets": [
-				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle3/Materials/Material_003",
-				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle2/Materials/Material",
-				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle1/Materials/Material_002"
-			]
-		},
-		{
-			"ShaderMapHash": "AD7720CC0AD5C6F93F7FC99124B24B86E875862E",
-			"Assets": [
-				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle3/Materials/ambientCG_Leather023_2K-PNG_001",
-				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle2/Materials/ambientCG_Leather023_2K-PNG",
-				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle1/Materials/ambientCG_Leather023_2K-PNG_002",
-				"/Game/Assets/Internal-External/Candles/Small/ambientCG_Leather035D_2K-PNG",
-				"/Game/Assets/Internal-External/Candles/Large/ambientCG_Leather035D_2K-PNG_001"
-			]
-		},
-		{
-			"ShaderMapHash": "64053DD20DD55BBB893B8CFCDF467A2FE0702D59",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_StatueGlass"
-			]
-		},
-		{
-			"ShaderMapHash": "2E03A16FC9B8D6F43D7EE3677CA7C5683BC7CFD9",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
-			]
-		},
-		{
-			"ShaderMapHash": "5DD55EFF7A79911DF360A2EE9249BF5F7DF64DC3",
-			"Assets": [
-				"/Game/Assets/Internal-External/Fork/M_ForkMat_01"
-			]
-		},
-		{
-			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Glass",
-				"/Game/StarterContent/Materials/M_Glass1"
-			]
-		},
-		{
-			"ShaderMapHash": "D1B413349B68968179FF0252D0842E50706EA154",
-			"Assets": [
-				"/Game/Assets/M_Brick_Cut_Stone1"
-			]
-		},
-		{
-			"ShaderMapHash": "A14F3D1733EBAF49F3B62FFD7D5E3D71D2D1A559",
-			"Assets": [
-				"/Game/Assets/M_CloudsParticles"
-			]
-		},
-		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
-			"Assets": [
-				"/Game/Assets/BasicShapeMaterial1",
-				"/Engine/BasicShapes/BasicShapeMaterial",
-				"/Game/Assets/BasicShapeMaterial3",
-				"/Game/Assets/BasicShapeMaterial2"
-			]
-		},
-		{
-			"ShaderMapHash": "F79C0A949D6D2FC02538B9D6CCB7112CC2E1AE73",
-			"Assets": [
-				"/Game/Scenes/Gate_2_Levels/Jahis_Cave"
-			]
-		},
-		{
-			"ShaderMapHash": "B12A90C4944154A8B15C2987ED6F9C85D75E8A31",
-			"Assets": [
-				"/Game/Scenes/Gate_2_Levels/Jahis_Cave"
-			]
-		},
-		{
-			"ShaderMapHash": "6A31F16F25CEF6E6A62EC1B2265DF346A1D910AB",
-			"Assets": [
-				"/Game/Scenes/Gate_2_Levels/Jahis_Cave"
-			]
-		},
-		{
-			"ShaderMapHash": "F067F49417594E1889F99AFFA74196C87F2A5594",
-			"Assets": [
-				"/Game/Scenes/Gate_2_Levels/Jahis_Cave"
-			]
-		},
-		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -615,6 +343,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A292DBAF674C3979D820024683CDD0CA1CB555D0",
+			"Assets": [
+				"/Game/WaterPlane/Lake/Materials/M_LakeWater_01"
+			]
+		},
+		{
 			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall"
@@ -624,6 +358,13 @@
 			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass",
+				"/Game/StarterContent/Materials/M_Glass1"
 			]
 		},
 		{
@@ -648,6 +389,12 @@
 			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "1608D35875A648EFD604CB638C98D175E4383D93",
+			"Assets": [
+				"/Game/WaterPlane/Maps/TranslucentWater_Example"
 			]
 		},
 		{
@@ -813,6 +560,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "000FA9ABDD5BCFDE0E7B827F20D206074D2A1819",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
 			"ShaderMapHash": "E280CADBB1F905A427BA1FA696C45EBB5E56238F",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Clay_New"
@@ -840,6 +593,12 @@
 			"ShaderMapHash": "E5A2A38F8DE5EBC5BFE0666AB88236957704957F",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "64053DD20DD55BBB893B8CFCDF467A2FE0702D59",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
 			]
 		},
 		{
@@ -910,6 +669,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2E03A16FC9B8D6F43D7EE3677CA7C5683BC7CFD9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
 			"ShaderMapHash": "AC50A361793F211DA25EF5F9C6DCE6EBCBF32171",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
@@ -965,15 +730,266 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ECD6DCB7E372CD71C840ED30791EE08EC17A0E47",
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
 			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Smoke_blend_Mat"
+				"/Engine/BasicShapes/BasicShapeMaterial",
+				"/Game/Assets/BasicShapeMaterial1",
+				"/Game/Assets/BasicShapeMaterial3",
+				"/Game/Assets/BasicShapeMaterial2"
 			]
 		},
 		{
-			"ShaderMapHash": "529DBF3E0870025FC523C8AB714EE1F4A76DACFE",
+			"ShaderMapHash": "B77868C31AB0679E8993C9F3D36B257A449D2EFB",
 			"Assets": [
-				"/Game/M5VFXVOL2/Demo/Materials/BG_Grid_Mat"
+				"/Game/M5VFXVOL2/Materials/Master/Smoke1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "208872FCEEAEE1DB9DDEFF7AACE0524BF73615B5",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Sequence_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AD1468C654E380220BD35AB6D727EA81D378718C",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Basic_Emi_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6C196320976206EDA60EE4CED38B22E56ABDAB1F",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Distortion_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B43F7F617A1D5D242B514AE233D5820894532163",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Single_Disort_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "4C739E3AC3D4776D9FB6958401A39E1CBD19B055",
+			"Assets": [
+				"/Game/HDRI/M_Skysphere"
+			]
+		},
+		{
+			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
+			"Assets": [
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/Material_002",
+				"/Game/Assets/Internal-External/Pergament_Jan/Materials/M_Babypergament",
+				"/Game/Assets/Internal-External/Dark_Fairy_Pergament/Dark_FaireyEmily",
+				"/Game/Assets/Internal-External/Litfass/Materials/M_Plakat_001",
+				"/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_02",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/StPatricksDay"
+			]
+		},
+		{
+			"ShaderMapHash": "68B4197E9682813BEEC8B24DC4B1813F6C6F7DA5",
+			"Assets": [
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG"
+			]
+		},
+		{
+			"ShaderMapHash": "CD59C502F077C296B5B8DDD1806E76D4F5DFB08A",
+			"Assets": [
+				"/Game/Assets/Internal-External/Skulls_Jan/Skull_02/M_Skull02_Schaedel",
+				"/Game/Assets/Internal-External/Skulls_Jan/Skull_02/M_Skull02_Geweih",
+				"/Game/Assets/Internal-External/Skulls_Jan/Skull_02/M_Skull02_Chain",
+				"/Game/Assets/Internal-External/Skulls_Jan/Skull_01/M_Skull01_Schaedel",
+				"/Game/Assets/Internal-External/Box_Pascal/M_Box-Material",
+				"/Game/Assets/Internal-External/Skulls_Jan/Skull_01/M_Skull01_Geweih",
+				"/Game/Assets/Internal-External/Skulls_Jan/Skull_01/M_Skull01_Eye"
+			]
+		},
+		{
+			"ShaderMapHash": "FCB1FF9DAAEAB524464C8273B416FEC160EBAF83",
+			"Assets": [
+				"/Game/Assets/Internal-External/Litfass/Materials/M_Litfass_ambientCG_Concrete036_2K-JPG_001"
+			]
+		},
+		{
+			"ShaderMapHash": "D73D70C693CD1B32A9695E703BA4C1200D02ECC9",
+			"Assets": [
+				"/Game/Assets/Internal-External/Litfass/Materials/M_Litfass_ambientCG_Concrete030_2K-JPG"
+			]
+		},
+		{
+			"ShaderMapHash": "C4675BD790CB4E289EF064896F3FF1E77E7DC4FE",
+			"Assets": [
+				"/Game/Assets/Internal-External/Horns/Material/M_HornsMat",
+				"/Game/Assets/Internal-External/Dolch_Julian/M_Dolch",
+				"/Game/Assets/Internal-External/Cup/Material/M_CupMat_02",
+				"/Game/Assets/Internal-External/Goblet/Material/M_GobletMat_02",
+				"/Game/Assets/Internal-External/Plates/Material/M_PlateMat_02",
+				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Building/M_Building-2"
+			]
+		},
+		{
+			"ShaderMapHash": "2A9EF3F35958C09303C5FFC55ABE8BED8BF8E726",
+			"Assets": [
+				"/Game/Assets/Internal-External/Chains/Material/M_ChainMat",
+				"/Game/Assets/Internal-External/Chair/Material/M_ChairPolsterMat_01",
+				"/Game/Assets/Internal-External/Chair/Material/M_ChairMetalMat_01",
+				"/Game/Assets/Internal-External/Plates/Material/M_PlateMat_01",
+				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Lueftungsschacht/M_Lueftungsschacht",
+				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Building/M_Building",
+				"/Game/Assets/Internal-External/Goblet/Material/M_GobletMat_01",
+				"/Game/Assets/Internal-External/Cup/Material/M_CupMat_01",
+				"/Game/Assets/Internal-External/Knive/M_KnifeMat_01_"
+			]
+		},
+		{
+			"ShaderMapHash": "A583FF5223E6E578140E9E2CA82A0E993DB5A91F",
+			"Assets": [
+				"/Game/StarterContent/M_Invisible-Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "FD0EA82CD3FF38A8569074ED891557A4C77D7401",
+			"Assets": [
+				"/Game/Assets/Internal-External/Buch/Material/M_Paper_03",
+				"/Game/Assets/Internal-External/Buch/Material/M_Paper_02",
+				"/Game/Assets/Internal-External/Buch/Material/M_Paper_01"
+			]
+		},
+		{
+			"ShaderMapHash": "71AAD1F081A5E4E0D4B21F5A0DFE49F6562A79BA",
+			"Assets": [
+				"/Game/Assets/Megascans/Materials/MM_Megascan_rocks"
+			]
+		},
+		{
+			"ShaderMapHash": "21C843572E3EFCCE56E5179817695E0E71A88D57",
+			"Assets": [
+				"/Game/Assets/Internal-External/Window_01/M_Window01"
+			]
+		},
+		{
+			"ShaderMapHash": "A6F06C7DA0B44916BF299397194EA8A6840005CB",
+			"Assets": [
+				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Wand-Elemente/M_Waende",
+				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Säulen-Elemente/M_Saeulen",
+				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Portal/M_Portal",
+				"/Game/Assets/Internal-External/Wandelemente_Julian_Neu/Einbuchtungs-Elemente/M_Einbuchtungselemente",
+				"/Game/Assets/Internal-External/Treppensystem_Julian/Schraeg/Treppensystem_schraeg",
+				"/Game/Assets/Internal-External/Treppensystem_Julian/Gerade/Treppensystem_schraeg",
+				"/Game/Assets/Internal-External/Portal_Julian/M_Tor",
+				"/Game/Assets/Internal-External/Säulenelemente/M_Saeulenelemente",
+				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Single_Items/M_Schornstein_001",
+				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Single_Items/M_Lampen",
+				"/Game/Assets/Internal-External/Kronleuchter_Julian/Leuchter",
+				"/Game/Assets/Internal-External/Kronleuchter_Julian/Knochen"
+			]
+		},
+		{
+			"ShaderMapHash": "AD7720CC0AD5C6F93F7FC99124B24B86E875862E",
+			"Assets": [
+				"/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001",
+				"/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001",
+				"/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG",
+				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle3/Materials/ambientCG_Leather023_2K-PNG_001",
+				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle2/Materials/ambientCG_Leather023_2K-PNG",
+				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle1/Materials/ambientCG_Leather023_2K-PNG_002",
+				"/Game/Assets/Internal-External/Candles/Small/ambientCG_Leather035D_2K-PNG",
+				"/Game/Assets/Internal-External/Candles/Large/ambientCG_Leather035D_2K-PNG_001"
+			]
+		},
+		{
+			"ShaderMapHash": "1F65D7D621B246212C0481F9D280DD7A685F70D3",
+			"Assets": [
+				"/Game/Assets/Internal-External/Reaper/M_CleaverKoerper",
+				"/Game/Assets/Internal-External/Reaper/M_CleaverAusruestung",
+				"/Game/Assets/Internal-External/Pillar_Domi/Materials/M_pillarMat"
+			]
+		},
+		{
+			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
+			"Assets": [
+				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle3/Materials/Material_003",
+				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle2/Materials/Material",
+				"/Game/Assets/Internal-External/PotionBottles_Domi/bottle1/Materials/Material_002",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/Material_004"
+			]
+		},
+		{
+			"ShaderMapHash": "07CE5AC484E8127B5026A83C554BB2F89A091F9A",
+			"Assets": [
+				"/Game/Assets/Internal-External/Torch_Domi/M_torchMat"
+			]
+		},
+		{
+			"ShaderMapHash": "7FBCE21E8AA9AD9603D29A0A2E3915D6715536A5",
+			"Assets": [
+				"/Game/Assets/Internal-External/Tierhaut/Materials/ambientCG_Wood077_2K-PNG_001",
+				"/Game/Assets/Internal-External/Tierhaut/Materials/ambientCG_Leather003_2K-PNG_001",
+				"/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03",
+				"/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01"
+			]
+		},
+		{
+			"ShaderMapHash": "ADA860ED0FBC798580EE227CA24CC02B5B124F17",
+			"Assets": [
+				"/Game/Assets/Internal-External/Tierhaut/Materials/ambientCG_Leather033A_2K-PNG"
+			]
+		},
+		{
+			"ShaderMapHash": "9C8B146382AD60DEBC8072654D0C8A305B53E418",
+			"Assets": [
+				"/Game/Assets/Internal-External/Stalagmiten_External/Stalagmite_Base_1_003"
+			]
+		},
+		{
+			"ShaderMapHash": "5DD55EFF7A79911DF360A2EE9249BF5F7DF64DC3",
+			"Assets": [
+				"/Game/Assets/Internal-External/Fork/M_ForkMat_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0DD8E7F8CAA83681C8D6C29B84D39C3B52D58412",
+			"Assets": [
+				"/Game/Assets/Internal-External/Pedestal_Pascal/M_Pedestal"
+			]
+		},
+		{
+			"ShaderMapHash": "13AAEF5DB8DCD8C1D6C3DA302745A87EE1771B6C",
+			"Assets": [
+				"/Game/Assets/Internal-External/Mosaic-Floor_Emily/M_MosaicFloor",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy"
+			]
+		},
+		{
+			"ShaderMapHash": "7C41E7D7E85D06B5E7D2261B19BF28BBA6EC6E3C",
+			"Assets": [
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001"
+			]
+		},
+		{
+			"ShaderMapHash": "5B6719E7B8FB98DD44C375D50F5349645387F274",
+			"Assets": [
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG",
+				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG"
+			]
+		},
+		{
+			"ShaderMapHash": "D1B413349B68968179FF0252D0842E50706EA154",
+			"Assets": [
+				"/Game/Assets/M_Brick_Cut_Stone1"
+			]
+		},
+		{
+			"ShaderMapHash": "A14F3D1733EBAF49F3B62FFD7D5E3D71D2D1A559",
+			"Assets": [
+				"/Game/Assets/M_CloudsParticles"
 			]
 		},
 		{
@@ -983,9 +999,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "76E727FADBD0E6683D28219C461A56E8CDDEF877",
+			"Assets": [
+				"/Game/Scenes/Gate_2_Levels/Level1_Plane"
+			]
+		},
+		{
 			"ShaderMapHash": "52F673C68EE18531C9DB6C68B038E796BD74F07B",
 			"Assets": [
 				"/Game/M5VFXVOL2/Materials/Font/Font_mat_Fix"
+			]
+		},
+		{
+			"ShaderMapHash": "529DBF3E0870025FC523C8AB714EE1F4A76DACFE",
+			"Assets": [
+				"/Game/M5VFXVOL2/Demo/Materials/BG_Grid_Mat"
 			]
 		},
 		{
@@ -995,9 +1023,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "02814BD5BD8987F324490C152712F102BEF1C263",
+			"ShaderMapHash": "ECD6DCB7E372CD71C840ED30791EE08EC17A0E47",
 			"Assets": [
-				"/Game/M5VFXVOL2/Materials/Master/Gradient_Mat"
+				"/Game/M5VFXVOL2/Materials/Master/Smoke_blend_Mat"
 			]
 		},
 		{
@@ -1031,20 +1059,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "963A87AF5264ED932405A19A9E89C6307F4D1AE3",
+			"ShaderMapHash": "02814BD5BD8987F324490C152712F102BEF1C263",
 			"Assets": [
-				"/Game/M5VFXVOL2/Props/Materials/Grass_Mat"
+				"/Game/M5VFXVOL2/Materials/Master/Gradient_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "C4675BD790CB4E289EF064896F3FF1E77E7DC4FE",
+			"ShaderMapHash": "963A87AF5264ED932405A19A9E89C6307F4D1AE3",
 			"Assets": [
-				"/Game/Assets/Internal-External/Cup/Material/M_CupMat_02",
-				"/Game/Assets/Internal-External/Horns/Material/M_HornsMat",
-				"/Game/Assets/Internal-External/Goblet/Material/M_GobletMat_02",
-				"/Game/Assets/Internal-External/Plates/Material/M_PlateMat_02",
-				"/Game/Assets/Internal-External/Hochhaus_Jul/Einzelteile/Building/M_Building-2",
-				"/Game/Assets/Internal-External/Dolch_Julian/M_Dolch"
+				"/Game/M5VFXVOL2/Props/Materials/Grass_Mat"
 			]
 		},
 		{
@@ -1057,24 +1080,6 @@
 			"ShaderMapHash": "5A52E3C8A28BEE99692987E50817382B64BF732C",
 			"Assets": [
 				"/Game/Assets/Internal-External/Säule/Materials/M_pillarMat"
-			]
-		},
-		{
-			"ShaderMapHash": "4D87CBA404D6516F7AB0F8E66DBD40D2223EC015",
-			"Assets": [
-				"/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Paper004_2K-PNG_001",
-				"/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Metal024_2K-PNG_001",
-				"/Game/Assets/Internal-External/Wall_Pergament_Domi/Materials/ambientCG_Leather027_2K-PNG"
-			]
-		},
-		{
-			"ShaderMapHash": "FD0EA82CD3FF38A8569074ED891557A4C77D7401",
-			"Assets": [
-				"/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_03",
-				"/Game/Assets/Internal-External/Ctulhu_Poster/MAterial/M_Train_01",
-				"/Game/Assets/Internal-External/Buch/Material/M_Paper_03",
-				"/Game/Assets/Internal-External/Buch/Material/M_Paper_02",
-				"/Game/Assets/Internal-External/Buch/Material/M_Paper_01"
 			]
 		},
 		{
@@ -1169,12 +1174,6 @@
 			"ShaderMapHash": "6BBEC32669C1384FCF0E66613F56F6FA59775AC9",
 			"Assets": [
 				"/Game/Assets/Internal-External/Bottle/ambientCG_Metal024_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PosterStPatricksDayJan/ambientCG_Metal024_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Wood060_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Metal007_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Metal007_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Wood060_2K-JPG_001",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Metal007_2K-JPG_001",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingZombieOileffectJan/ambientCG_Wood060_2K-JPG",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingZombieOileffectJan/ambientCG_Metal007_2K-JPG",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingMutantOileffectJan/ambientCG_Wood060_2K-JPG",
@@ -1184,17 +1183,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3D66F6CD0DD6A1BB08FEB96883F228503B5CDDF9",
-			"Assets": [
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/PergamentStorkEmily/ambientCG_Leather004_2K-JPG"
-			]
-		},
-		{
 			"ShaderMapHash": "8677D654463B99D2FC07253FFF812995D05A5B12",
 			"Assets": [
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/PeggySue",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/Material_003",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/Froggy",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingZombieOileffectJan/PeggySue",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingMutantOileffectJan/Froggy",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingBreedOileffectJan/Material_003"
@@ -1203,24 +1193,27 @@
 		{
 			"ShaderMapHash": "48A6E2F192579BD2A74795B26D9345EFB0EEDC90",
 			"Assets": [
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Zombie/ambientCG_Fabric045_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Monster/ambientCG_Fabric045_2K-JPG",
-				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Painting_Froggy/ambientCG_Fabric045_2K-JPG",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingZombieOileffectJan/ambientCG_Fabric045_2K-JPG",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingMutantOileffectJan/ambientCG_Fabric045_2K-JPG",
 				"/Game/Assets/Internal-External/Bilderrahmen_Jan/Old/PaintingBreedOileffectJan/ambientCG_Fabric045_2K-JPG"
 			]
 		},
 		{
-			"ShaderMapHash": "1608D35875A648EFD604CB638C98D175E4383D93",
+			"ShaderMapHash": "3CACAFDA617D068CF1B94910C656B9A2D3B1A8ED",
 			"Assets": [
-				"/Game/WaterPlane/Maps/TranslucentWater_Example"
+				"/Game/Assets/Landscape_Material/Landscapemateial"
 			]
 		},
 		{
-			"ShaderMapHash": "76E727FADBD0E6683D28219C461A56E8CDDEF877",
+			"ShaderMapHash": "BF7A312BED611D7D596FD84E212622B49537F42F",
 			"Assets": [
-				"/Game/Scenes/Gate_2_Levels/Level1_Plane"
+				"/Game/Scenes/Gate_2_Levels/Jahis_Cave"
+			]
+		},
+		{
+			"ShaderMapHash": "BD448CDA5837D1251848ECFE434D209FBBF0FBFD",
+			"Assets": [
+				"/Game/Scenes/Gate_2_Levels/Jahis_Cave"
 			]
 		}
 	]

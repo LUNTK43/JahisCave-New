@@ -1,0 +1,139 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FPoseLink;
+#ifdef NATIVIZEDASSETS_FirstPerson_AnimBP__pf2002337985_generated_h
+#error "FirstPerson_AnimBP__pf2002337985.generated.h already included, missing '#pragma once' in FirstPerson_AnimBP__pf2002337985.h"
+#endif
+#define NATIVIZEDASSETS_FirstPerson_AnimBP__pf2002337985_generated_h
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_SPARSE_DATA
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__AnimGraph__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_B15D7EAA46138A38EAF1CCAD3110ACB7__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_A3E5D0514472C54EE7856B9AD4BDD068__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_DA3192DC415202A934CDF598A41EFCDE__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_FD08A51A4E3E4A767C7ED6B9E0A8B8C8__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_B368400946B18E8B82462BA54F4BB849__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_DF5EA38F40899E6FA34A95A078F6AC7B__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_2C413F41496E16A9E28BB6886E13325E__pf); \
+	DECLARE_FUNCTION(execbpf__BlueprintUpdateAnimation__pf);
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__AnimGraph__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_B15D7EAA46138A38EAF1CCAD3110ACB7__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_A3E5D0514472C54EE7856B9AD4BDD068__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_DA3192DC415202A934CDF598A41EFCDE__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_FD08A51A4E3E4A767C7ED6B9E0A8B8C8__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_B368400946B18E8B82462BA54F4BB849__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_DF5EA38F40899E6FA34A95A078F6AC7B__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_FirstPerson_AnimBP_AnimGraphNode_TransitionResult_2C413F41496E16A9E28BB6886E13325E__pf); \
+	DECLARE_FUNCTION(execbpf__BlueprintUpdateAnimation__pf);
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_EVENT_PARMS \
+	struct FirstPerson_AnimBP_C__pf2002337985_eventbpf__BlueprintUpdateAnimation__pf_Parms \
+	{ \
+		float bpp__DeltaTimeX__pf; \
+	};
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_CALLBACK_WRAPPERS \
+	void eventbpf__BlueprintUpdateAnimation__pf(float bpp__DeltaTimeX__pf); \
+
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFirstPerson_AnimBP_C__pf2002337985(); \
+	friend struct Z_Construct_UClass_UFirstPerson_AnimBP_C__pf2002337985_Statics; \
+public: \
+	DECLARE_CLASS(UFirstPerson_AnimBP_C__pf2002337985, UAnimInstance, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Game/FirstPerson/Animations/FirstPerson_AnimBP"), NO_API) \
+	DECLARE_SERIALIZER(UFirstPerson_AnimBP_C__pf2002337985) \
+	static const TCHAR* StaticConfigName() {return TEXT("Engine");} \
+
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_INCLASS \
+private: \
+	static void StaticRegisterNativesUFirstPerson_AnimBP_C__pf2002337985(); \
+	friend struct Z_Construct_UClass_UFirstPerson_AnimBP_C__pf2002337985_Statics; \
+public: \
+	DECLARE_CLASS(UFirstPerson_AnimBP_C__pf2002337985, UAnimInstance, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Game/FirstPerson/Animations/FirstPerson_AnimBP"), NO_API) \
+	DECLARE_SERIALIZER(UFirstPerson_AnimBP_C__pf2002337985) \
+	static const TCHAR* StaticConfigName() {return TEXT("Engine");} \
+
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFirstPerson_AnimBP_C__pf2002337985(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFirstPerson_AnimBP_C__pf2002337985) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFirstPerson_AnimBP_C__pf2002337985); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFirstPerson_AnimBP_C__pf2002337985); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFirstPerson_AnimBP_C__pf2002337985(UFirstPerson_AnimBP_C__pf2002337985&&); \
+	NO_API UFirstPerson_AnimBP_C__pf2002337985(const UFirstPerson_AnimBP_C__pf2002337985&); \
+public:
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFirstPerson_AnimBP_C__pf2002337985(UFirstPerson_AnimBP_C__pf2002337985&&); \
+	NO_API UFirstPerson_AnimBP_C__pf2002337985(const UFirstPerson_AnimBP_C__pf2002337985&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFirstPerson_AnimBP_C__pf2002337985); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFirstPerson_AnimBP_C__pf2002337985); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFirstPerson_AnimBP_C__pf2002337985)
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_PRIVATE_PROPERTY_OFFSET
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_13_PROLOG \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_EVENT_PARMS
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_PRIVATE_PROPERTY_OFFSET \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_SPARSE_DATA \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_RPC_WRAPPERS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_CALLBACK_WRAPPERS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_INCLASS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_PRIVATE_PROPERTY_OFFSET \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_SPARSE_DATA \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_CALLBACK_WRAPPERS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_INCLASS_NO_PURE_DECLS \
+	JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h_17_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class UFirstPerson_AnimBP_C__pf2002337985>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID JahisCave_New_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_FirstPerson_AnimBP__pf2002337985_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,272 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/MagicLeapARPin'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/UMG'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/ClothingSystemRuntimeNv'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/PhysicsCore'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyAccess'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'",
+		"Package'/Script/AudioMixer'"
+	],
+	"convertedAssets":
+	{
+		"/MagicLeapPassableWorld/MagicLeapARPinInfoActor.MagicLeapARPinInfoActor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/MagicLeapPassableWorld/MagicLeapARPinInfoActor.MagicLeapARPinInfoActor_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MagicLeapARPinInfoActor__pf2635949152.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MagicLeapARPinInfoActor__pf2635949152.cpp"
+		},
+		"/Game/FirstPersonBP/Blueprints/Interact_Interface.Interact_Interface_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FirstPersonBP/Blueprints/Interact_Interface.Interact_Interface_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Interact_Interface__pf205484891.h",
+			"generatedCppPath": ""
+		},
+		"/Game/UI/InspectionScreen.InspectionScreen_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/InspectionScreen.InspectionScreen_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InspectionScreen__pf1489439355.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InspectionScreen__pf1489439355.cpp"
+		},
+		"/Game/Blueprints/Items/BP_ItemParent.BP_ItemParent_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Items/BP_ItemParent.BP_ItemParent_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_ItemParent__pf476478934.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_ItemParent__pf476478934.cpp"
+		},
+		"/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FirstPersonCharacter__pf205484891.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FirstPersonCharacter__pf205484891.cpp"
+		},
+		"/Game/UI/HeadsUpDisplay.HeadsUpDisplay_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/HeadsUpDisplay.HeadsUpDisplay_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/HeadsUpDisplay__pf1489439355.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/HeadsUpDisplay__pf1489439355.cpp"
+		},
+		"/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FirstPersonHUD__pf205484891.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FirstPersonHUD__pf205484891.cpp"
+		},
+		"/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FirstPersonGameMode__pf205484891.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FirstPersonGameMode__pf205484891.cpp"
+		},
+		"/Game/Scenes/Gate_2_Levels/Credits.Credits_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Scenes/Gate_2_Levels/Credits.Credits_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Credits__pf608494304.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Credits__pf608494304.cpp"
+		},
+		"/Game/Scenes/Gate_2_Levels/MainMenu.MainMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Scenes/Gate_2_Levels/MainMenu.MainMenu_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MainMenu__pf608494304.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MainMenu__pf608494304.cpp"
+		},
+		"/Game/UI/InspectionScreen_Backup.InspectionScreen_Backup_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/InspectionScreen_Backup.InspectionScreen_Backup_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InspectionScreen_Backup__pf1489439355.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InspectionScreen_Backup__pf1489439355.cpp"
+		},
+		"/Game/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.BP_TranslucentWater_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.BP_TranslucentWater_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_TranslucentWater__pf401702993.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_TranslucentWater__pf401702993.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		},
+		"/Game/WaterPlane/Ocean/Blueprint/BP_OceanWater.BP_OceanWater_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/WaterPlane/Ocean/Blueprint/BP_OceanWater.BP_OceanWater_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_OceanWater__pf1743059703.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_OceanWater__pf1743059703.cpp"
+		},
+		"/Game/WaterPlane/Lake/Blueprint/BP_LakeWater.BP_LakeWater_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/WaterPlane/Lake/Blueprint/BP_LakeWater.BP_LakeWater_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_LakeWater__pf1878835236.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_LakeWater__pf1878835236.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_WallSconce__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_WallSconce__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Steam__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Steam__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Sparks__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Sparks__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Smoke__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Smoke__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Fire__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Fire__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_CeilingLight__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_CeilingLight__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_LightStudio__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_LightStudio__pf1079297466.cpp"
+		},
+		"/Game/Blueprints/Transition/Transition.Transition_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Transition/Transition.Transition_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Transition__pf4069104048.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Transition__pf4069104048.cpp"
+		},
+		"/Game/M5VFXVOL2/BluePrints/Fire_skel_vert_BP.Fire_skel_vert_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/M5VFXVOL2/BluePrints/Fire_skel_vert_BP.Fire_skel_vert_BP_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Fire_skel_vert_BP__pf711458173.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Fire_skel_vert_BP__pf711458173.cpp"
+		},
+		"/Game/M5VFXVOL2/BluePrints/Fire_PLight_Exp_BP.Fire_PLight_Exp_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/M5VFXVOL2/BluePrints/Fire_PLight_Exp_BP.Fire_PLight_Exp_BP_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Fire_PLight_Exp_BP__pf711458173.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Fire_PLight_Exp_BP__pf711458173.cpp"
+		},
+		"/Game/M5VFXVOL2/BluePrints/Fire_PLight_BP.Fire_PLight_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/M5VFXVOL2/BluePrints/Fire_PLight_BP.Fire_PLight_BP_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Fire_PLight_BP__pf711458173.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Fire_PLight_BP__pf711458173.cpp"
+		},
+		"/Game/M5VFXVOL2/BluePrints/Fire_mesh_BP.Fire_mesh_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/M5VFXVOL2/BluePrints/Fire_mesh_BP.Fire_mesh_BP_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Fire_mesh_BP__pf711458173.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Fire_mesh_BP__pf711458173.cpp"
+		},
+		"/Game/M5VFXVOL2/BluePrints/Fire_beam_BP.Fire_beam_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/M5VFXVOL2/BluePrints/Fire_beam_BP.Fire_beam_BP_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Fire_beam_BP__pf711458173.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Fire_beam_BP__pf711458173.cpp"
+		},
+		"/Game/M5VFXVOL2/BluePrints/Text_count.Text_count_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/M5VFXVOL2/BluePrints/Text_count.Text_count_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Text_count__pf711458173.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Text_count__pf711458173.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Explosion__pf1079297466.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Explosion__pf1079297466.cpp"
+		},
+		"/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FirstPersonProjectile__pf205484891.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FirstPersonProjectile__pf205484891.cpp"
+		},
+		"/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C",
+			"generatedHeaderPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FirstPerson_AnimBP__pf2002337985.h",
+			"generatedCppPath": "C:/Users/Jul/JahisCave-New/JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FirstPerson_AnimBP__pf2002337985.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

@@ -1,6 +1,85 @@
 {
 	"Contents": [
 		{
+			"File": "../../../JahisCave_New/Intermediate/Plugins/NativizedAssets/Windows/Game/NativizedAssets.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 0,
+				"VersionName": "",
+				"FriendlyName": "NativizedAssets",
+				"Description": "A programatically generated plugin which contains source files produced from Blueprint assets. The aim of this is to help performance by eliminating script overhead for the converted assets (using the source files in place of thier coresponding assets).",
+				"Category": "Intermediate",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "@TODO",
+				"MarketplaceURL": "",
+				"SupportURL": "https://answers.unrealengine.com/",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "NativizedAssets",
+						"Type": "CookedOnly",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64"
+						],
+						"WhitelistTargets": [
+							"Game"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "MagicLeapPassableWorld",
+						"Enabled": true,
+						"SupportedTargetPlatforms": [
+							"Lumin",
+							"Mac",
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/MagicLeap/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Magic Leap Passable World",
+				"Description": "Shared world experiences on XR devices supported by Magic Leap.",
+				"Category": "Augmented Reality",
+				"CreatedBy": "Magic Leap, Inc.",
+				"CreatedByURL": "http://magicleap.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"SupportedTargetPlatforms": [
+					"Lumin",
+					"Mac",
+					"Win64"
+				],
+				"Modules": [
+					{
+						"Name": "MagicLeapARPin",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "MagicLeapSharedWorld",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{
@@ -1523,42 +1602,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap Passable World",
-				"Description": "Shared world experiences on XR devices supported by Magic Leap.",
-				"Category": "Augmented Reality",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Mac",
-					"Win64"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeapARPin",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "MagicLeapSharedWorld",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/MagicLeap/MagicLeap/MagicLeap.uplugin",
 			"Descriptor": 
 			{
@@ -2049,6 +2092,180 @@
 						"BlacklistTargets": [
 							"Server"
 						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/MegascansPlugin/MegascansPlugin.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.10",
+				"FriendlyName": "Megascans",
+				"Description": "Megascans Link for Quixel Bridge.",
+				"Category": "Editor",
+				"CreatedBy": "Quixel",
+				"CreatedByURL": "http://www.quixel.se",
+				"DocsURL": "https://help.quixel.com/hc/en-us/sections/360000575958-UE4-Livelink-FAQs",
+				"MarketplaceURL": "",
+				"SupportURL": "support@quixel.com",
+				"EngineVersion": "4.27.0",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"SupportedTargetPlatforms": [
+					"Win64",
+					"Mac",
+					"Linux"
+				],
+				"Modules": [
+					{
+						"Name": "MegascansPlugin",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "PythonScriptPlugin",
+						"Enabled": true
+					},
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					},
+					{
+						"Name": "AlembicImporter",
+						"Enabled": true
+					},
+					{
+						"Name": "SQLiteSupport",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Editor Scripting Utilities",
+				"Description": "Helper functions to script your own UE4 editor functionalities with Blueprint or other scripting tools.",
+				"Category": "Scripting",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "EditorScriptingUtilities",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/Database/SQLiteSupport/SQLiteSupport.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "SQLite Support",
+				"Description": "SQLite Database Support",
+				"Category": "Database",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "SQLiteSupport",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "DatabaseSupport",
+						"Enabled": true
+					},
+					{
+						"Name": "SQLiteCore",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/Database/DatabaseSupport/DatabaseSupport.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Database Support",
+				"Description": "Abstract Database Support",
+				"Category": "Database",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "DatabaseSupport",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/Database/SQLiteCore/SQLiteCore.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "SQLite",
+				"Description": "SQLite Database",
+				"Category": "Database",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"SupportedPrograms": [
+					"UnrealMultiUserServer",
+					"UnrealRecoverySvc"
+				],
+				"Modules": [
+					{
+						"Name": "SQLiteCore",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
 					}
 				]
 			}
